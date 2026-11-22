@@ -7,7 +7,9 @@ export type EditHandler = (field: AssumptionField, year: number | null, value: n
 
 function Row({ label, children, strong }: { label: string; children: React.ReactNode; strong?: boolean }) {
   return (
-    <div className={`flex items-baseline justify-between py-2 ${strong ? "font-semibold text-neutral-900" : "text-neutral-600"}`}>
+    <div
+      className={`flex items-baseline justify-between border-b py-2.5 ${strong ? "border-ink font-medium text-ink" : "border-line text-muted"}`}
+    >
       <dt>{label}</dt>
       <dd className="num">{children}</dd>
     </div>
@@ -18,8 +20,8 @@ export function Assumptions({ assumptions, onEdit }: { assumptions: Assumptions;
   return (
     <dl className="grid grid-cols-2 gap-6">
       <div>
-        <dt className="text-sm text-neutral-500">WACC</dt>
-        <dd className="num mt-1 text-2xl font-medium">
+        <dt className="text-[13px] text-muted">WACC</dt>
+        <dd className="num mt-4 text-[clamp(2.25rem,4vw,3.25rem)] leading-none font-medium tracking-[-0.05em]">
           <EditableValue
             value={assumptions.wacc}
             flashKey="wacc"
@@ -29,8 +31,8 @@ export function Assumptions({ assumptions, onEdit }: { assumptions: Assumptions;
         </dd>
       </div>
       <div>
-        <dt className="text-sm text-neutral-500">Terminal tillväxt</dt>
-        <dd className="num mt-1 text-2xl font-medium">
+        <dt className="text-[13px] text-muted">Terminal tillväxt</dt>
+        <dd className="num mt-4 text-[clamp(2.25rem,4vw,3.25rem)] leading-none font-medium tracking-[-0.05em]">
           <EditableValue
             value={assumptions.terminalGrowth}
             flashKey="terminalGrowth"
@@ -46,7 +48,7 @@ export function Assumptions({ assumptions, onEdit }: { assumptions: Assumptions;
 export function Bridge({ result, fundamentals }: { result: DcfResult; fundamentals: CompanyFundamentals }) {
   const tvShare = result.pvTerminalValue / result.enterpriseValue;
   return (
-    <dl className="text-sm">
+    <dl className="text-[14px]">
       <Row label="Summa nuvärde FCF">
         <Flash flashKey="sumPvFcf">{fmtMsek(result.sumPvFcf)}</Flash>
       </Row>

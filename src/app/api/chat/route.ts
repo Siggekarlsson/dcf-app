@@ -42,8 +42,9 @@ export async function POST(request: Request) {
   if (!parsed.success) return errorResponse("Ogiltig förfrågan.", 400);
   const { sessionId, ticker, messages } = parsed.data;
 
-  const company = await companyData.getCompany(ticker);
-  if (!company) return errorResponse("Okänt bolag.", 404);
+  const lookup = await companyData.getCompany(ticker);
+  if (lookup.status !== "ok") return errorResponse("Bolaget kan inte värderas just nu.", 404);
+  const company = lookup.company;
   let assumptions = parsed.data.assumptions as Assumptions;
   if (validateAssumptions(assumptions).length) return errorResponse("Ogiltiga antaganden.", 400);
   if (messages[messages.length - 1].role !== "user") return errorResponse("Sista meddelandet måste vara från användaren.", 400);

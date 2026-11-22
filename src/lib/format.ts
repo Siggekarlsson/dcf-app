@@ -16,7 +16,7 @@ export function fmtSek(x: number): string {
 export function fmtPct(x: number, digits = 1): string {
   return `${new Intl.NumberFormat("sv-SE", { minimumFractionDigits: digits, maximumFractionDigits: digits })
     .format(x * 100)
-    .replace("-", "−")} %`;
+    .replace("-", "−")}\u00a0%`;
 }
 
 /** 0.12 → "+12,0 %" */

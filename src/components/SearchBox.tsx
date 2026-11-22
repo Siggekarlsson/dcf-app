@@ -4,12 +4,7 @@ import { useRouter } from "next/navigation";
 import { useEffect, useId, useRef, useState } from "react";
 import type { CompanySummary } from "@/lib/data/types";
 
-interface Props {
-  autoFocus?: boolean;
-  size?: "lg" | "sm";
-}
-
-export function SearchBox({ autoFocus, size = "lg" }: Props) {
+export function SearchBox({ autoFocus, placeholder = "Sök bolag eller ticker" }: { autoFocus?: boolean; placeholder?: string }) {
   const router = useRouter();
   const listId = useId();
   const [query, setQuery] = useState("");
@@ -33,7 +28,7 @@ export function SearchBox({ autoFocus, size = "lg" }: Props) {
       } catch {
         /* nätverksfel: behåll tidigare resultat */
       }
-    }, 120);
+    }, 100);
     return () => clearTimeout(t);
   }, [query]);
 
@@ -44,56 +39,56 @@ export function SearchBox({ autoFocus, size = "lg" }: Props) {
   }
 
   const showList = open && query.trim().length > 0;
-  const lg = size === "lg";
 
   return (
     <div className="relative w-full">
-      <input
-        type="search"
-        role="combobox"
-        aria-expanded={showList}
-        aria-controls={listId}
-        aria-activedescendant={showList && results[active] ? `${listId}-${active}` : undefined}
-        aria-label="Sök bolag eller ticker"
-        autoFocus={autoFocus}
-        autoComplete="off"
-        spellCheck={false}
-        placeholder="Sök bolag eller ticker"
-        value={query}
-        onChange={(e) => {
-          setQuery(e.target.value);
-          setOpen(true);
-        }}
-        onFocus={() => setOpen(true)}
-        onBlur={() => setTimeout(() => setOpen(false), 100)}
-        onKeyDown={(e) => {
-          if (e.key === "ArrowDown") {
-            e.preventDefault();
-            setActive((a) => Math.min(a + 1, results.length - 1));
-          } else if (e.key === "ArrowUp") {
-            e.preventDefault();
-            setActive((a) => Math.max(a - 1, 0));
-          } else if (e.key === "Enter") {
-            e.preventDefault();
-            go(results[active]);
-          } else if (e.key === "Escape") {
-            setOpen(false);
-          }
-        }}
-        className={
-          "w-full appearance-none rounded-xl bg-neutral-100 text-neutral-900 outline-none transition " +
-          "placeholder:text-neutral-400 focus:bg-white focus:ring-1 focus:ring-neutral-300 focus:shadow-[0_1px_12px_rgba(0,0,0,0.06)] " +
-          (lg ? "h-14 px-5 text-lg" : "h-10 px-4 text-sm")
-        }
-      />
+      <div className="flex items-center gap-4 border-b border-ink pb-3 sm:pb-4">
+        <input
+          type="search"
+          role="combobox"
+          aria-expanded={showList}
+          aria-controls={listId}
+          aria-activedescendant={showList && results[active] ? `${listId}-${active}` : undefined}
+          aria-label="Sök bolag eller ticker"
+          autoFocus={autoFocus}
+          autoComplete="off"
+          spellCheck={false}
+          placeholder={placeholder}
+          value={query}
+          onChange={(e) => {
+            setQuery(e.target.value);
+            setOpen(true);
+          }}
+          onFocus={() => setOpen(true)}
+          onBlur={() => setTimeout(() => setOpen(false), 120)}
+          onKeyDown={(e) => {
+            if (e.key === "ArrowDown") {
+              e.preventDefault();
+              setActive((a) => Math.min(a + 1, results.length - 1));
+            } else if (e.key === "ArrowUp") {
+              e.preventDefault();
+              setActive((a) => Math.max(a - 1, 0));
+            } else if (e.key === "Enter") {
+              e.preventDefault();
+              go(results[active]);
+            } else if (e.key === "Escape") {
+              setOpen(false);
+            }
+          }}
+          className="w-full min-w-0 appearance-none bg-transparent text-[26px] tracking-[-0.03em] text-ink outline-none placeholder:text-faint sm:text-4xl"
+        />
+        <span aria-hidden className="shrink-0 text-2xl text-ink sm:text-3xl">
+          ↘
+        </span>
+      </div>
       {showList && (
         <ul
           id={listId}
           role="listbox"
-          className="absolute inset-x-0 top-full z-20 mt-2 overflow-hidden rounded-xl bg-white py-1 shadow-[0_4px_24px_rgba(0,0,0,0.08)] ring-1 ring-neutral-200"
+          className="absolute inset-x-0 top-full z-30 max-h-[60dvh] overflow-y-auto bg-paper shadow-[0_24px_48px_-24px_rgba(21,23,27,0.25)]"
         >
           {results.length === 0 ? (
-            <li className="px-5 py-3 text-sm text-neutral-400">Inga träffar</li>
+            <li className="border-b border-line py-4 text-muted">Inga träffar</li>
           ) : (
             results.map((c, i) => (
               <li
@@ -107,12 +102,16 @@ export function SearchBox({ autoFocus, size = "lg" }: Props) {
                 }}
                 onMouseEnter={() => setActive(i)}
                 className={
-                  "flex cursor-pointer items-baseline justify-between gap-4 px-5 py-3 " +
-                  (i === active ? "bg-neutral-50" : "")
+                  "grid cursor-pointer grid-cols-[1fr_auto] items-baseline gap-4 border-b border-line py-3.5 transition-[padding] sm:grid-cols-[1fr_10rem_6rem_1rem] " +
+                  (i === active ? "pl-2 text-ink" : "text-ink-soft")
                 }
               >
-                <span className="text-neutral-900">{c.name}</span>
-                <span className="num text-xs tracking-wide text-neutral-400">{c.ticker}</span>
+                <span className="truncate text-lg tracking-[-0.02em]">{c.name}</span>
+                <span className="hidden truncate text-[13px] text-muted sm:block">{c.sector}</span>
+                <span className="num text-right text-[13px] text-muted">{c.ticker}</span>
+                <span aria-hidden className={`hidden text-right sm:block ${i === active ? "opacity-100" : "opacity-0"}`}>
+                  →
+                </span>
               </li>
             ))
           )}

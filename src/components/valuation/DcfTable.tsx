@@ -40,14 +40,14 @@ export function DcfTable({
   ];
 
   return (
-    <div className="-mx-6 overflow-x-auto px-6 sm:mx-0 sm:px-0">
-      <table className="num w-full min-w-[560px] border-collapse text-sm">
+    <div className="-mx-5 overflow-x-auto px-5 sm:mx-0 sm:px-0">
+      <table className="num w-full min-w-[580px] border-collapse text-[14px]">
         <thead>
-          <tr className="text-neutral-400">
-            <th className="sticky left-0 bg-white py-2 pr-4 text-left font-normal">MSEK</th>
-            <th className="py-2 pl-3 text-right font-normal">{fundamentals.baseYear}A</th>
+          <tr className="border-b border-ink text-[12px] text-muted">
+            <th className="sticky left-0 bg-paper pb-3 pr-4 text-left font-normal">MSEK</th>
+            <th className="pb-3 pl-3 text-right font-normal">{fundamentals.baseYear}A</th>
             {result.rows.map((r) => (
-              <th key={r.index} className="py-2 pl-3 text-right font-normal">
+              <th key={r.index} className="pb-3 pl-3 text-right font-normal">
                 {r.year}E
               </th>
             ))}
@@ -61,26 +61,26 @@ export function DcfTable({
               <tr
                 key={li}
                 className={
-                  (isDriver ? "text-xs text-neutral-400" : "text-neutral-900") +
-                  (strong ? " border-t border-neutral-200 font-semibold" : "") +
-                  (line.kind === "value" && li > 0 && !strong ? " border-t border-neutral-100" : "")
+                  (isDriver ? "text-[12px] text-faint" : "text-ink") +
+                  (strong ? " border-t border-ink font-semibold" : "") +
+                  (line.kind === "value" && li > 0 && !strong ? " border-t border-line" : "")
                 }
               >
                 <th
                   scope="row"
                   className={
-                    "sticky left-0 bg-white pr-4 text-left font-normal whitespace-nowrap " +
-                    (isDriver ? "pb-2.5 pl-3" : "pt-2.5 pb-0.5") +
+                    "sticky left-0 bg-paper pr-4 text-left font-normal whitespace-nowrap " +
+                    (isDriver ? "pb-3 pl-3" : "pt-3 pb-0.5") +
                     (strong ? " font-semibold" : "")
                   }
                 >
                   {line.label}
                 </th>
-                <td className={`pl-3 text-right ${isDriver ? "pb-2.5" : "pt-2.5 pb-0.5"} text-neutral-400`}>
+                <td className={`pl-3 text-right ${isDriver ? "pb-3" : "pt-3 pb-0.5"} text-faint`}>
                   {line.kind === "value" && line.base !== undefined ? fmtMsek(line.base) : ""}
                 </td>
                 {result.rows.map((r) => (
-                  <td key={r.index} className={`pl-3 text-right whitespace-nowrap ${isDriver ? "pb-2.5" : "pt-2.5 pb-0.5"}`}>
+                  <td key={r.index} className={`pl-3 text-right whitespace-nowrap ${isDriver ? "pb-3" : "pt-3 pb-0.5"}`}>
                     {line.kind === "value" && (
                       <Flash flashKey={`${line.metric}:${r.index}`}>
                         {fmtMsek((line.sign ?? 1) * (r[line.metric] as number))}

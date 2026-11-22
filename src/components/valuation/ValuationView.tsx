@@ -1,8 +1,9 @@
 "use client";
 
-import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { ChatPanel } from "@/components/chat/ChatPanel";
+import { Label } from "@/components/site/Label";
+import { TopBar } from "@/components/site/TopBar";
 import type { ChatMessage, ChatResponse } from "@/lib/chat/types";
 import {
   type Assumptions as A,
@@ -20,18 +21,6 @@ import { DcfTable } from "./DcfTable";
 import { FlashProvider } from "./Flash";
 import { Headline } from "./Headline";
 import { Sensitivity } from "./Sensitivity";
-
-function Section({ title, children, action }: { title: string; children: React.ReactNode; action?: React.ReactNode }) {
-  return (
-    <section className="mt-16">
-      <div className="mb-5 flex items-baseline justify-between gap-4">
-        <h2 className="text-sm font-medium text-neutral-900">{title}</h2>
-        {action}
-      </div>
-      {children}
-    </section>
-  );
-}
 
 export function ValuationView({ company, chatEnabled }: { company: Company; chatEnabled: boolean }) {
   const base = company.assumptions as A;
@@ -143,68 +132,118 @@ export function ValuationView({ company, chatEnabled }: { company: Company; chat
     [messages, assumptions, commit, company.ticker],
   );
 
+  const [chatOpen, setChatOpen] = useState(false);
+  const meta = [
+    company.ticker,
+    company.source === "yahoo" && company.asOf ? `Räkenskapsår ${company.asOf.slice(0, 4)}` : null,
+    company.reportingCurrency && company.reportingCurrency !== "SEK" ? `Rapporterar i ${company.reportingCurrency}` : null,
+  ].filter(Boolean);
+
   return (
     <FlashProvider value={flash}>
-      <div
-        className={
-          chatEnabled ? "mx-auto max-w-[1280px] lg:grid lg:grid-cols-[minmax(0,1fr)_380px]" : "mx-auto max-w-[1040px]"
-        }
-      >
-        <main className="px-6 pt-6 pb-16 sm:px-10 lg:pr-14">
-          <nav className="flex items-center justify-between">
-            <Link href="/" className="text-sm text-neutral-400 transition hover:text-neutral-900">
-              ← Sök
-            </Link>
+      <div className="min-h-dvh overflow-x-clip">
+        <TopBar
+          right={
             <button
               type="button"
               onClick={reset}
               disabled={isBase}
-              className="rounded-lg px-3 py-1.5 text-sm text-neutral-500 transition hover:bg-neutral-100 hover:text-neutral-900 disabled:pointer-events-none disabled:opacity-0"
+              className="text-[13px] text-ink underline-offset-4 transition hover:underline disabled:pointer-events-none disabled:opacity-0"
             >
               Återställ till grundscenario
             </button>
-          </nav>
+          }
+        />
 
-          <header className="mt-12 mb-10">
-            <p className="text-sm text-neutral-400">
-              {company.ticker} · {company.sector}
-            </p>
-            <h1 className="mt-1 text-3xl font-semibold tracking-tight">{company.name}</h1>
-            <p className="mt-2 max-w-lg text-neutral-500">{company.description}</p>
-          </header>
+        <div className={chatEnabled ? "lg:grid lg:grid-cols-[minmax(0,1fr)_400px]" : ""}>
+          <main className="min-w-0 pb-28 lg:pb-0">
+            <section className="grid grid-cols-1 gap-y-8 px-5 pt-12 pb-14 sm:grid-cols-12 sm:px-8 sm:pt-20 sm:pb-20">
+              <div className="sm:col-span-3">
+                <Label>
+                  {company.exchange}
+                  {company.sector ? ` · ${company.sector}` : ""}
+                </Label>
+                <p className="mt-3 text-[13px] leading-relaxed text-muted">{meta.join(" · ")}</p>
+                {company.source === "exempel" && (
+                  <p className="mt-3 max-w-[16rem] text-[13px] leading-relaxed text-accent">
+                    Exempeldata. Aktuella siffror kunde inte hämtas just nu.
+                  </p>
+                )}
+              </div>
+              <h1 className="animate-rise text-display font-medium sm:col-span-9">{company.name}</h1>
+            </section>
 
-          <Headline result={result} />
+            <Headline result={result} />
 
-          <Section title="Kassaflödesprognos">
-            <DcfTable result={result} assumptions={assumptions} fundamentals={f} onEdit={edit} />
-            <p className="mt-4 text-xs text-neutral-400">Klicka på en procentsats för att ändra den.</p>
-          </Section>
+            <Row label="Kassaflöde" note="MSEK. Klicka på en procentsats för att ändra den.">
+              <DcfTable result={result} assumptions={assumptions} fundamentals={f} onEdit={edit} />
+            </Row>
 
-          <div className="grid gap-x-14 sm:grid-cols-2">
-            <Section title="Antaganden">
-              <Assumptions assumptions={assumptions} onEdit={edit} />
-            </Section>
-            <Section title="Från EV till värde per aktie">
-              <Bridge result={result} fundamentals={f} />
-            </Section>
-          </div>
+            <Row label="Antaganden" note="Avkastningskrav och tillväxt efter år fem.">
+              <div className="grid gap-x-12 gap-y-12 md:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]">
+                <Assumptions assumptions={assumptions} onEdit={edit} />
+                <Bridge result={result} fundamentals={f} />
+              </div>
+            </Row>
 
-          <Section title="Känslighet, värde per aktie i kr">
-            <Sensitivity table={sensitivity} price={result.price} />
-          </Section>
+            <Row label="Känslighet" note="Värde per aktie i kr för olika WACC och terminal tillväxt.">
+              <Sensitivity table={sensitivity} price={result.price} />
+            </Row>
 
-          <p className="mt-16 text-xs text-neutral-400">
-            Mockdata. Belopp i MSEK. Diskontering vid årets slut, Gordons tillväxtmodell för terminalvärdet. Inte
-            investeringsråd.
-          </p>
-        </main>
+            <Row label="Om modellen">
+              <p className="max-w-2xl text-[15px] leading-relaxed text-muted">
+                Fritt kassaflöde = EBIT efter skatt + avskrivningar − investeringar − ökning av rörelsekapital. Fem års
+                prognos diskonteras vid årets slut, och terminalvärdet beräknas med Gordons tillväxtmodell.
+                Grundscenariot utgår från bolagets senaste tre år: tillväxten klingar av mot 2 %, och marginaler och
+                investeringar följer det historiska snittet.{" "}
+                {company.source === "yahoo" ? "Data: Yahoo Finance och Nasdaq Nordic." : "Data: exempeldata."} Inte
+                investeringsråd.
+              </p>
+            </Row>
+          </main>
 
-        {chatEnabled && (
-          <aside className="border-t border-neutral-100 lg:sticky lg:top-0 lg:h-dvh lg:border-t-0 lg:border-l">
-            <ChatPanel messages={messages} pending={pending} onSend={send} companyName={company.name} />
-          </aside>
-        )}
+          {chatEnabled && (
+            <>
+              <aside
+                className={
+                  (chatOpen ? "fixed" : "hidden") +
+                  " inset-x-2 top-[12dvh] bottom-2 z-40 lg:sticky lg:top-0 lg:block lg:h-dvh lg:p-3 lg:pl-0"
+                }
+              >
+                <ChatPanel
+                  messages={messages}
+                  pending={pending}
+                  onSend={send}
+                  companyName={company.name}
+                  onClose={() => setChatOpen(false)}
+                />
+              </aside>
+              {!chatOpen && (
+                <button
+                  type="button"
+                  onClick={() => setChatOpen(true)}
+                  className="fixed bottom-[max(1rem,env(safe-area-inset-bottom))] left-1/2 z-30 flex -translate-x-1/2 items-center gap-3 whitespace-nowrap rounded-full bg-ink py-2 pr-2 pl-5 text-[14px] text-paper shadow-[0_12px_32px_-8px_rgba(21,23,27,0.5)] lg:hidden"
+                >
+                  Justera med AI
+                  <span className="rounded-full bg-paper px-3 py-1 text-[13px] text-ink">Öppna</span>
+                </button>
+              )}
+            </>
+          )}
+        </div>
       </div>
     </FlashProvider>
+  );
+}
+
+function Row({ label, note, children }: { label: string; note?: string; children: React.ReactNode }) {
+  return (
+    <section className="grid grid-cols-1 gap-y-6 border-t border-line px-5 py-10 sm:grid-cols-12 sm:px-8 sm:py-14">
+      <div className="sm:col-span-3 sm:pr-6">
+        <Label>{label}</Label>
+        {note && <p className="mt-3 max-w-[15rem] text-[13px] leading-relaxed text-muted">{note}</p>}
+      </div>
+      <div className="min-w-0 sm:col-span-9">{children}</div>
+    </section>
   );
 }

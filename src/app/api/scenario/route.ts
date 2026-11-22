@@ -9,8 +9,8 @@ const keySchema = z.object({ sessionId: sessionIdSchema, ticker: z.string().min(
 async function parseKey(input: unknown) {
   const key = keySchema.safeParse(input);
   if (!key.success) return null;
-  const company = await companyData.getCompany(key.data.ticker);
-  return company ? { sessionId: key.data.sessionId, ticker: company.ticker } : null;
+  const lookup = await companyData.getCompany(key.data.ticker);
+  return lookup.status === "ok" ? { sessionId: key.data.sessionId, ticker: lookup.company.ticker } : null;
 }
 
 export async function GET(request: Request) {

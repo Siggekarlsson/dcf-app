@@ -1,22 +1,23 @@
 import type { Metadata, Viewport } from "next";
-import "@fontsource-variable/inter";
+import "@fontsource-variable/inter/opsz.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Värdering — DCF med AI",
-  description: "Motiverat värde för börsbolag med en DCF-modell du styr med naturligt språk.",
+  title: { default: "Valeur — vad är bolaget värt?", template: "%s — Valeur" },
+  description: "Valeur värderar svenska börsbolag med en DCF-modell som du justerar själv.",
+  applicationName: "Valeur",
 };
 
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  themeColor: "#ffffff",
+  themeColor: "#f4f3f0",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="sv" className="h-full">
-      <body className="min-h-full">{children}</body>
+    <html lang="sv">
+      <body className="min-h-dvh">{children}</body>
     </html>
   );
 }

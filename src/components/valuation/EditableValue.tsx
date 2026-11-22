@@ -66,8 +66,8 @@ export function EditableValue({
             }
           }}
           className={
-            "num w-[4.5em] rounded bg-white px-1 text-right text-neutral-900 outline-none ring-1 " +
-            (error ? "ring-neutral-900" : "ring-accent") +
+            "num w-[4.5em] rounded-sm bg-white px-1 text-right text-ink outline-none ring-1 " +
+            (error ? "ring-ink" : "ring-accent") +
             " " +
             className
           }
@@ -75,7 +75,7 @@ export function EditableValue({
         {error && (
           <span
             role="alert"
-            className="absolute top-full right-0 z-10 mt-1 w-max max-w-[220px] rounded-md bg-neutral-900 px-2 py-1 text-left text-xs whitespace-normal text-white"
+            className="absolute top-full right-0 z-10 mt-1 w-max max-w-[220px] rounded-sm bg-ink px-2 py-1 text-left text-xs whitespace-normal text-white"
           >
             {error}
           </span>
@@ -89,7 +89,7 @@ export function EditableValue({
       type="button"
       onClick={start}
       aria-label={`${label}: ${fmtPct(value)}. Klicka för att ändra.`}
-      className="num cursor-text rounded decoration-neutral-300 decoration-dotted underline-offset-4 hover:text-neutral-900 hover:underline"
+      className="num cursor-text rounded-sm decoration-faint decoration-dotted underline-offset-4 hover:text-ink hover:underline"
     >
       <Flash flashKey={flashKey} className={className}>
         {fmtPct(value)}

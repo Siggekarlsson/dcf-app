@@ -1,10 +1,10 @@
 import { describe, expect, it } from "vitest";
 import { computeDcf } from "@/lib/dcf";
-import { companyData } from "@/lib/data";
+import { getExampleCompany } from "@/lib/data/json-provider";
 import { describeState, executeUpdateAssumption } from "./tools";
 
 async function volvo() {
-  return (await companyData.getCompany("VOLV-B"))!;
+  return getExampleCompany("VOLV-B")!;
 }
 
 describe("executeUpdateAssumption", () => {
