@@ -9,7 +9,8 @@
     "lint": "eslint",
     "test": "vitest run",
     "test:watch": "vitest",
-    "fundamentals": "tsx scripts/fetch-fundamentals.mts"
+    "fundamentals": "tsx scripts/fetch-fundamentals.mts",
+    "listings": "node scripts/fetch-listings.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.12.0",
