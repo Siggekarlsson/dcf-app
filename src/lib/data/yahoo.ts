@@ -137,51 +137,11 @@ async function getSession(force = false): Promise<Session | null> {
   return session;
 }
 
-/** Diagnostik: returnerar status för varje steg utan att avslöja cookie eller crumb. */
-export async function diagnose(symbol: string) {
-  const steps: { step: string; status: number | string; ms: number; body?: string }[] = [];
-  const time = async (step: string, fn: () => Promise<Response>) => {
-    const t = Date.now();
-    try {
-      const r = await fn();
-      const body = (await r.text()).slice(0, 140);
-      steps.push({ step, status: r.status, ms: Date.now() - t, body: step === "crumb" ? `${body.length} tecken` : body });
-      return r;
-    } catch (e) {
-      steps.push({ step, status: e instanceof Error ? e.message : "fel", ms: Date.now() - t });
-      return null;
-    }
-  };
-  await time("chart utan session", () =>
-    fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?range=1d&interval=1d`, {
-      headers: { "user-agent": UA },
-      cache: "no-store",
-    }),
-  );
-  const s = await getSession(true);
-  steps.push({ step: "session", status: s ? "ok" : "saknas", ms: 0 });
-  if (s) {
-    await time("chart med session", () =>
-      fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?range=1d&interval=1d&crumb=${s.crumb}`, {
-        headers: { "user-agent": UA, cookie: s.cookie },
-        cache: "no-store",
-      }),
-    );
-    await time("timeseries med session", () =>
-      fetch(
-        `https://query2.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/${symbol}?type=annualTotalRevenue&period1=1600000000&period2=${Math.floor(Date.now() / 1000)}&crumb=${s.crumb}`,
-        { headers: { "user-agent": UA, cookie: s.cookie }, cache: "no-store" },
-      ),
-    );
-  }
-  return steps;
-}
-
 /**
  * Hämtar JSON med session (cookie + crumb) och upp till tre försök.
  * Vid 401/403/429 förnyas sessionen och värden växlas mellan query1 och query2.
  */
-async function getJson(url: string): Promise<unknown> {
+export async function getJson(url: string): Promise<unknown> {
   let lastStatus = 0;
   for (let attempt = 0; attempt < 3; attempt++) {
     const s = await getSession(attempt > 0 && lastStatus !== 0);

@@ -53,7 +53,7 @@ Tabellerna har RLS påslaget utan policies och nås bara server-side. Sessions-i
 ### Data
 
 - **Bolagslista:** kör `npm run listings` för att hämta om alla aktier från Nasdaq Nordic (huvudlistan + First North). Spotlight och NGM ingår inte.
-- **Finansiella data:** Yahoo Finance (inofficiellt, gratis). Det kan sluta fungera utan förvarning och är inte avsett för kommersiellt bruk. Om hämtningen misslyckas visas exempeldata för de fem exempelbolagen och ett meddelande för övriga.
+- **Finansiella data:** Yahoo Finance (inofficiellt, gratis). Yahoo blockerar anrop från Vercel, så datan hämtas i stället dagligen av GitHub Actions (`.github/workflows/update-data.yml` → `npm run fundamentals`) och sparas i `src/data/fundamentals.json`. Sidvisningar gör inga externa anrop. Om ett bolag saknas där visas exempeldata för de fem exempelbolagen och ett meddelande för övriga. Kör jobbet manuellt under fliken Actions → "Uppdatera börsdata" → Run workflow.
 - **Grundscenario:** tillväxten utgår från de senaste tre årens CAGR (begränsad till −5–15 %) och klingar av mot 2 % år fem. EBIT-marginal, D&A och CapEx följer snittet för tre år. Skatt kommer från bolagets data, annars 20,6 %. ΔNWC är 10 %. WACC är 9 % på huvudlistan och 10,5 % på First North, och terminal tillväxt är 2 %.
 - Banker, försäkrings- och investmentbolag saknar EBIT och visas därför utan värdering.
 - `DATA_SOURCE=mock` kör appen helt utan nätverk med bara exempelbolagen.
