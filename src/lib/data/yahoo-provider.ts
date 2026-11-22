@@ -17,7 +17,14 @@ async function loadFromYahoo(ticker: string): Promise<Cached> {
 
   const listing = getListing(ticker)!;
   try {
-    const [series, quote] = await Promise.all([fetchSeries(listing.yahoo), fetchQuote(listing.yahoo)]);
+    const [series, quote] = await Promise.all([
+      fetchSeries(listing.yahoo),
+      // Reserv: senaste kurs från Nasdaq-listan om Yahoo-kursen inte går att hämta.
+      fetchQuote(listing.yahoo).catch((e) => {
+        if (listing.price) return { price: listing.price, currency: listing.currency };
+        throw e;
+      }),
+    ]);
     const reportingCurrency = series.annualTotalRevenue?.at(-1)?.currency ?? quote.currency;
     const [fxToSek, priceFx] = await Promise.all([
       fetchFxRate(reportingCurrency, "SEK"),
