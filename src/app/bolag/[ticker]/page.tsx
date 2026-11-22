@@ -17,5 +17,7 @@ export default async function CompanyPage(props: PageProps<"/bolag/[ticker]">) {
   const { ticker } = await props.params;
   const company = await companyData.getCompany(decodeURIComponent(ticker));
   if (!company) notFound();
-  return <ValuationView key={company.ticker} company={company} />;
+  // Chatten visas bara om en Claude-nyckel finns. Utan nyckel är appen helt gratis att köra.
+  const chatEnabled = Boolean(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN);
+  return <ValuationView key={company.ticker} company={company} chatEnabled={chatEnabled} />;
 }

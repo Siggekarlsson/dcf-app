@@ -10,6 +10,7 @@ import {
   GLOBAL_FIELDS,
   YEAR_FIELDS,
 } from "./types";
+import { FIELD_LABELS } from "./labels";
 
 export const FORECAST_YEARS = 5;
 
@@ -194,7 +195,7 @@ export function applyAssumptionUpdate(a: Assumptions, u: AssumptionUpdate): Upda
   }
   const { min, max } = FIELD_BOUNDS[field];
   if (value < min || value > max) {
-    return { ok: false, error: `${field} måste ligga mellan ${pct(min)} och ${pct(max)}.` };
+    return { ok: false, error: `${FIELD_LABELS[field]} måste ligga mellan ${pct(min)} och ${pct(max)}.` };
   }
 
   let next: Assumptions;
@@ -202,7 +203,7 @@ export function applyAssumptionUpdate(a: Assumptions, u: AssumptionUpdate): Upda
 
   if (isGlobalField(field)) {
     if (year !== undefined) {
-      return { ok: false, error: `${field} gäller alla år och tar inget år.` };
+      return { ok: false, error: `${FIELD_LABELS[field]} gäller alla år och tar inget år.` };
     }
     next = { ...a, years: a.years.map((y) => ({ ...y })), [field]: value };
     changedKeys = a[field] === value ? [] : [assumptionKey(field)];
@@ -294,5 +295,5 @@ export function diffAssumptions(prev: Assumptions, next: Assumptions): string[] 
 }
 
 function pct(x: number): string {
-  return `${(x * 100).toFixed(1)} %`;
+  return `${(x * 100).toFixed(1).replace(".", ",").replace("-", "−")} %`;
 }

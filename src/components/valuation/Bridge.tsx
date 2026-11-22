@@ -1,6 +1,9 @@
-import type { Assumptions, CompanyFundamentals, DcfResult } from "@/lib/dcf";
+import type { AssumptionField, Assumptions, CompanyFundamentals, DcfResult } from "@/lib/dcf";
 import { fmtMsek, fmtPct, fmtSek } from "@/lib/format";
+import { EditableValue } from "./EditableValue";
 import { Flash } from "./Flash";
+
+export type EditHandler = (field: AssumptionField, year: number | null, value: number) => string | null;
 
 function Row({ label, children, strong }: { label: string; children: React.ReactNode; strong?: boolean }) {
   return (
@@ -11,19 +14,29 @@ function Row({ label, children, strong }: { label: string; children: React.React
   );
 }
 
-export function Assumptions({ assumptions }: { assumptions: Assumptions }) {
+export function Assumptions({ assumptions, onEdit }: { assumptions: Assumptions; onEdit?: EditHandler }) {
   return (
     <dl className="grid grid-cols-2 gap-6">
       <div>
         <dt className="text-sm text-neutral-500">WACC</dt>
         <dd className="num mt-1 text-2xl font-medium">
-          <Flash flashKey="wacc">{fmtPct(assumptions.wacc)}</Flash>
+          <EditableValue
+            value={assumptions.wacc}
+            flashKey="wacc"
+            label="WACC"
+            onSubmit={onEdit && ((v) => onEdit("wacc", null, v))}
+          />
         </dd>
       </div>
       <div>
         <dt className="text-sm text-neutral-500">Terminal tillväxt</dt>
         <dd className="num mt-1 text-2xl font-medium">
-          <Flash flashKey="terminalGrowth">{fmtPct(assumptions.terminalGrowth)}</Flash>
+          <EditableValue
+            value={assumptions.terminalGrowth}
+            flashKey="terminalGrowth"
+            label="Terminal tillväxt"
+            onSubmit={onEdit && ((v) => onEdit("terminalGrowth", null, v))}
+          />
         </dd>
       </div>
     </dl>

@@ -1,5 +1,8 @@
 import type { Assumptions, CompanyFundamentals, DcfResult, ProjectionRow, YearField } from "@/lib/dcf";
-import { fmtMsek, fmtPct } from "@/lib/format";
+import { fmtMsek } from "@/lib/format";
+import { FIELD_LABELS } from "@/lib/labels";
+import type { EditHandler } from "./Bridge";
+import { EditableValue } from "./EditableValue";
 import { Flash } from "./Flash";
 
 type Line =
@@ -11,10 +14,12 @@ export function DcfTable({
   result,
   assumptions,
   fundamentals,
+  onEdit,
 }: {
   result: DcfResult;
   assumptions: Assumptions;
   fundamentals: CompanyFundamentals;
+  onEdit?: EditHandler;
 }) {
   const lines: Line[] = [
     { kind: "value", label: "Omsättning", metric: "revenue", base: fundamentals.baseRevenue },
@@ -82,9 +87,12 @@ export function DcfTable({
                       </Flash>
                     )}
                     {line.kind === "driver" && (
-                      <Flash flashKey={`${line.field}:${r.index}`}>
-                        {fmtPct(assumptions.years[r.index - 1][line.field])}
-                      </Flash>
+                      <EditableValue
+                        value={assumptions.years[r.index - 1][line.field]}
+                        flashKey={`${line.field}:${r.index}`}
+                        label={`${FIELD_LABELS[line.field]} ${r.year}`}
+                        onSubmit={onEdit && ((v) => onEdit(line.field, r.index, v))}
+                      />
                     )}
                     {line.kind === "factor" && r.discountFactor.toFixed(3).replace(".", ",")}
                   </td>

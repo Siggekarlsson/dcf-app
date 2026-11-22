@@ -4,7 +4,15 @@ import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { ChatPanel } from "@/components/chat/ChatPanel";
 import type { ChatMessage, ChatResponse } from "@/lib/chat/types";
-import { type Assumptions as A, computeDcf, computeSensitivity, diffAssumptions, diffResults } from "@/lib/dcf";
+import {
+  type Assumptions as A,
+  type AssumptionField,
+  applyAssumptionUpdate,
+  computeDcf,
+  computeSensitivity,
+  diffAssumptions,
+  diffResults,
+} from "@/lib/dcf";
 import type { Company } from "@/lib/data/types";
 import { getSessionId } from "@/lib/session";
 import { Assumptions, Bridge } from "./Bridge";
@@ -25,7 +33,7 @@ function Section({ title, children, action }: { title: string; children: React.R
   );
 }
 
-export function ValuationView({ company }: { company: Company }) {
+export function ValuationView({ company, chatEnabled }: { company: Company; chatEnabled: boolean }) {
   const base = company.assumptions as A;
   const f = company.fundamentals;
 
@@ -70,9 +78,28 @@ export function ValuationView({ company }: { company: Company }) {
     [assumptions, f],
   );
 
+  /** Direktredigering i tabellen. Validering och omräkning sker i DCF-modulen. */
+  const edit = useCallback(
+    (field: AssumptionField, year: number | null, value: number): string | null => {
+      const r = applyAssumptionUpdate(assumptions, { field, year, value });
+      if (!r.ok) return r.error;
+      if (r.changedKeys.length === 0) return null;
+      commit(r.assumptions);
+      if (sessionId.current) {
+        fetch("/api/scenario", {
+          method: "PUT",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({ sessionId: sessionId.current, ticker: company.ticker, assumptions: r.assumptions }),
+        }).catch(() => {});
+      }
+      return null;
+    },
+    [assumptions, commit, company.ticker],
+  );
+
   const reset = useCallback(() => {
     commit(base);
-    setMessages((m) => [...m, { role: "assistant", content: "Återställt till grundscenariot." }]);
+    if (chatEnabled) setMessages((m) => [...m, { role: "assistant", content: "Återställt till grundscenariot." }]);
     if (sessionId.current) {
       fetch("/api/scenario", {
         method: "DELETE",
@@ -80,7 +107,7 @@ export function ValuationView({ company }: { company: Company }) {
         body: JSON.stringify({ sessionId: sessionId.current, ticker: company.ticker }),
       }).catch(() => {});
     }
-  }, [base, commit, company.ticker]);
+  }, [base, commit, company.ticker, chatEnabled]);
 
   const send = useCallback(
     async (text: string) => {
@@ -118,7 +145,11 @@ export function ValuationView({ company }: { company: Company }) {
 
   return (
     <FlashProvider value={flash}>
-      <div className="mx-auto max-w-[1280px] lg:grid lg:grid-cols-[minmax(0,1fr)_380px]">
+      <div
+        className={
+          chatEnabled ? "mx-auto max-w-[1280px] lg:grid lg:grid-cols-[minmax(0,1fr)_380px]" : "mx-auto max-w-[1040px]"
+        }
+      >
         <main className="px-6 pt-6 pb-16 sm:px-10 lg:pr-14">
           <nav className="flex items-center justify-between">
             <Link href="/" className="text-sm text-neutral-400 transition hover:text-neutral-900">
@@ -145,12 +176,13 @@ export function ValuationView({ company }: { company: Company }) {
           <Headline result={result} />
 
           <Section title="Kassaflödesprognos">
-            <DcfTable result={result} assumptions={assumptions} fundamentals={f} />
+            <DcfTable result={result} assumptions={assumptions} fundamentals={f} onEdit={edit} />
+            <p className="mt-4 text-xs text-neutral-400">Klicka på en procentsats för att ändra den.</p>
           </Section>
 
           <div className="grid gap-x-14 sm:grid-cols-2">
             <Section title="Antaganden">
-              <Assumptions assumptions={assumptions} />
+              <Assumptions assumptions={assumptions} onEdit={edit} />
             </Section>
             <Section title="Från EV till värde per aktie">
               <Bridge result={result} fundamentals={f} />
@@ -167,9 +199,11 @@ export function ValuationView({ company }: { company: Company }) {
           </p>
         </main>
 
-        <aside className="border-t border-neutral-100 lg:sticky lg:top-0 lg:h-dvh lg:border-t-0 lg:border-l">
-          <ChatPanel messages={messages} pending={pending} onSend={send} companyName={company.name} />
-        </aside>
+        {chatEnabled && (
+          <aside className="border-t border-neutral-100 lg:sticky lg:top-0 lg:h-dvh lg:border-t-0 lg:border-l">
+            <ChatPanel messages={messages} pending={pending} onSend={send} companyName={company.name} />
+          </aside>
+        )}
       </div>
     </FlashProvider>
   );

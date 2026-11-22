@@ -2,6 +2,10 @@
 
 Next.js + TypeScript + Tailwind. Sök ett börsbolag, se ett motiverat värde per aktie, och justera DCF-antagandena med naturligt språk.
 
+## Gratis drift
+
+Utan `ANTHROPIC_API_KEY` döljs AI-chatten, och resten av appen fungerar fullt ut: klicka på en procentsats i tabellen för att ändra den. Då kostar appen ingenting att köra, till exempel på Vercels Hobby-plan. Lägg till nyckeln senare om du vill ha chatten. Den aktiveras vid nästa deploy.
+
 ## Kom igång
 
 ```bash

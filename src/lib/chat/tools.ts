@@ -67,7 +67,7 @@ export function executeUpdateAssumption(
   const result = applyAssumptionUpdate(assumptions, { field, year, value: decimal });
   if (!result.ok) {
     const { min, max } = FIELD_BOUNDS[field];
-    return { ok: false, content: `${result.error} (Tillåtet intervall för ${field}: ${min * 100} till ${max * 100} %.)` };
+    return { ok: false, content: `${result.error} (fält ${field}, tillåtet ${min * 100} till ${max * 100} procent)` };
   }
   const dcf = computeDcf(result.assumptions, fundamentals);
   return {
