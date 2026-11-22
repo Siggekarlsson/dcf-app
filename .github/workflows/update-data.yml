@@ -1,7 +1,9 @@
-name: Uppdatera börsdata
+name: Uppdatera kurser
 
-# Hämtar bolagslistan (Nasdaq) och årsdata (Yahoo Finance) och sparar dem i repot.
+# Hämtar bolagslistan och senaste kurser från Nasdaq och sparar dem i repot.
 # Vercel bygger om sidan automatiskt när datan ändras.
+# Årsdata från Yahoo Finance hämtas INTE här: Yahoo blockerar GitHubs servrar (429).
+# Kör i stället `npm run fundamentals` från en vanlig dator någon gång per kvartal.
 on:
   schedule:
     - cron: "17 5 * * 1-5" # vardagar 05:17 UTC
@@ -10,7 +12,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/update-data.yml
-      - scripts/fetch-fundamentals.mts
+      - scripts/fetch-listings.mjs
 
 permissions:
   contents: write
@@ -36,17 +38,14 @@ jobs:
       - name: Hämta bolagslista från Nasdaq
         run: npm run listings
 
-      - name: Hämta årsdata från Yahoo Finance
-        run: npm run fundamentals
-
       - name: Spara ändringar
         run: |
           git config user.name "valeur-data"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/listings.json src/data/fundamentals.json
+          git add src/data/listings.json
           if git diff --cached --quiet; then
             echo "Ingen ny data."
           else
-            git commit -m "Uppdatera börsdata $(date -u +%Y-%m-%d)"
+            git commit -m "Uppdatera kurser $(date -u +%Y-%m-%d)"
             git push
           fi
