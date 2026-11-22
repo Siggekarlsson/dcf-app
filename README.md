@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Värdering — DCF med AI
 
-## Getting Started
+Next.js + TypeScript + Tailwind. Sök ett börsbolag, se ett motiverat värde per aktie, och justera DCF-antagandena med naturligt språk.
 
-First, run the development server:
+## Kom igång
 
 ```bash
+npm install
+cp .env.example .env.local   # fyll i ANTHROPIC_API_KEY (och ev. Supabase)
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+npm test        # enhetstester (vitest)
+npm run build   # produktionsbygge
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Arkitektur
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Del | Plats | Ansvar |
+|---|---|---|
+| DCF-modul | `src/lib/dcf/` | **All** beräkning: prognos, FCF, terminalvärde, EV → värde per aktie, känslighetstabell, validering, ändring av antaganden, diff för markering. Rena funktioner, fullt testade. |
+| Data | `src/lib/data/` + `src/data/companies.json` | `CompanyDataProvider`-gränssnitt. JSON-implementation nu; byt i `src/lib/data/index.ts` mot ett riktigt API. Data valideras med zod. |
+| AI-verktyg | `src/lib/chat/tools.ts` | Verktyget `update_assumption(field, year, value)`. Validerar indata och anropar DCF-modulen. AI:n kan inte ändra något annat. |
+| Chatt-API | `src/app/api/chat/route.ts` | Tool-use-loop mot Claude. Returnerar nya antaganden; klienten räknar om med DCF-modulen. |
+| Persistens | `src/lib/supabase/`, `supabase/migrations/` | Sparar scenarier och chatthistorik per anonymt sessions-id. Valfritt. |
+| UI | `src/components/` | Sök, bolagssida, DCF-tabell, känslighet, chattpanel. |
 
-## Learn More
+### DCF-modellen
 
-To learn more about Next.js, take a look at the following resources:
+Drivare per år (procentsatser lagras som decimaler): omsättningstillväxt, EBIT-marginal, skattesats, D&A och CapEx i % av omsättningen, ΔNWC i % av omsättningsförändringen.
+Globalt: WACC och terminal tillväxt (Gordon).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+FCF = EBIT·(1 − skatt) + D&A − CapEx − ΔNWC
+EV  = Σ FCFₜ/(1+WACC)ᵗ + FCF₅·(1+g)/(WACC−g) / (1+WACC)⁵
+Värde per aktie = (EV − nettoskuld) / antal aktier
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Diskontering sker vid årets slut. Ingen skatt tas ut på negativ EBIT.
 
-## Deploy on Vercel
+### Supabase
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Kör `supabase/migrations/0001_init.sql` i ditt projekt och sätt `SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY`.
+Tabellerna har RLS påslaget utan policies och nås bara server-side. Sessions-id:t ligger i `localStorage`, så den som har id:t kan läsa scenariot. Det duger för anonym demo, men det bör ersättas med Supabase Auth innan riktig användning.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Byta till riktig data
+
+Implementera `CompanyDataProvider` (`search`, `getCompany`, `listTickers`) mot ditt API och returnera samma `Company`-form. Grundscenariot (`assumptions`) kan komma från API:t eller genereras från historik och konsensus.

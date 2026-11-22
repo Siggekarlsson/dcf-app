@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "note": "MOCKDATA. Ungefärliga, delvis påhittade siffror för utveckling. Inte investeringsråd.",
+    "units": "Belopp i MSEK, aktier i miljoner, kurs i SEK, procentsatser som decimaler.",
+    "asOf": "2026-11-20"
+  },
+  "companies": [
+    {
+      "ticker": "VOLV-B",
+      "name": "Volvo B",
+      "aliases": ["AB Volvo", "Volvo"],
+      "exchange": "Nasdaq Stockholm",
+      "currency": "SEK",
+      "sector": "Industri",
+      "description": "Lastbilar, bussar, anläggningsmaskiner och marina motorer.",
+      "fundamentals": {
+        "baseYear": 2025,
+        "baseRevenue": 500000,
+        "netDebt": 25000,
+        "sharesOutstanding": 2033,
+        "price": 268
+      },
+      "assumptions": {
+        "wacc": 0.09,
+        "terminalGrowth": 0.02,
+        "years": [
+          { "revenueGrowth": 0.02, "ebitMargin": 0.115, "taxRate": 0.22, "daPct": 0.045, "capexPct": 0.05, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.04, "ebitMargin": 0.12, "taxRate": 0.22, "daPct": 0.045, "capexPct": 0.05, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.04, "ebitMargin": 0.125, "taxRate": 0.22, "daPct": 0.045, "capexPct": 0.05, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.125, "taxRate": 0.22, "daPct": 0.045, "capexPct": 0.048, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.125, "taxRate": 0.22, "daPct": 0.045, "capexPct": 0.048, "nwcPct": 0.1 }
+        ]
+      }
+    },
+    {
+      "ticker": "ATCO-A",
+      "name": "Atlas Copco A",
+      "aliases": ["Atlas Copco", "Atlas"],
+      "exchange": "Nasdaq Stockholm",
+      "currency": "SEK",
+      "sector": "Industri",
+      "description": "Kompressorer, vakuumlösningar, industriverktyg och kraftteknik.",
+      "fundamentals": {
+        "baseYear": 2025,
+        "baseRevenue": 175000,
+        "netDebt": 18000,
+        "sharesOutstanding": 4874,
+        "price": 172
+      },
+      "assumptions": {
+        "wacc": 0.08,
+        "terminalGrowth": 0.025,
+        "years": [
+          { "revenueGrowth": 0.03, "ebitMargin": 0.205, "taxRate": 0.22, "daPct": 0.04, "capexPct": 0.035, "nwcPct": 0.15 },
+          { "revenueGrowth": 0.06, "ebitMargin": 0.21, "taxRate": 0.22, "daPct": 0.04, "capexPct": 0.035, "nwcPct": 0.15 },
+          { "revenueGrowth": 0.06, "ebitMargin": 0.215, "taxRate": 0.22, "daPct": 0.04, "capexPct": 0.035, "nwcPct": 0.15 },
+          { "revenueGrowth": 0.05, "ebitMargin": 0.215, "taxRate": 0.22, "daPct": 0.04, "capexPct": 0.035, "nwcPct": 0.15 },
+          { "revenueGrowth": 0.05, "ebitMargin": 0.215, "taxRate": 0.22, "daPct": 0.04, "capexPct": 0.035, "nwcPct": 0.15 }
+        ]
+      }
+    },
+    {
+      "ticker": "ERIC-B",
+      "name": "Ericsson B",
+      "aliases": ["Telefonaktiebolaget LM Ericsson", "Ericsson"],
+      "exchange": "Nasdaq Stockholm",
+      "currency": "SEK",
+      "sector": "Telekom",
+      "description": "Nätverksutrustning, mjukvara och tjänster för telekomoperatörer.",
+      "fundamentals": {
+        "baseYear": 2025,
+        "baseRevenue": 240000,
+        "netDebt": -25000,
+        "sharesOutstanding": 3334,
+        "price": 86
+      },
+      "assumptions": {
+        "wacc": 0.085,
+        "terminalGrowth": 0.015,
+        "years": [
+          { "revenueGrowth": 0.0, "ebitMargin": 0.11, "taxRate": 0.24, "daPct": 0.035, "capexPct": 0.03, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.02, "ebitMargin": 0.12, "taxRate": 0.24, "daPct": 0.035, "capexPct": 0.03, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.125, "taxRate": 0.24, "daPct": 0.035, "capexPct": 0.03, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.13, "taxRate": 0.24, "daPct": 0.035, "capexPct": 0.03, "nwcPct": 0.1 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.13, "taxRate": 0.24, "daPct": 0.035, "capexPct": 0.03, "nwcPct": 0.1 }
+        ]
+      }
+    },
+    {
+      "ticker": "HM-B",
+      "name": "H&M B",
+      "aliases": ["Hennes & Mauritz", "H&M", "HM"],
+      "exchange": "Nasdaq Stockholm",
+      "currency": "SEK",
+      "sector": "Detaljhandel",
+      "description": "Global klädkedja med varumärken som H&M, COS och Weekday.",
+      "fundamentals": {
+        "baseYear": 2025,
+        "baseRevenue": 232000,
+        "netDebt": 55000,
+        "sharesOutstanding": 1606,
+        "price": 158
+      },
+      "assumptions": {
+        "wacc": 0.085,
+        "terminalGrowth": 0.02,
+        "years": [
+          { "revenueGrowth": 0.02, "ebitMargin": 0.075, "taxRate": 0.24, "daPct": 0.045, "capexPct": 0.04, "nwcPct": 0.08 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.08, "taxRate": 0.24, "daPct": 0.045, "capexPct": 0.04, "nwcPct": 0.08 },
+          { "revenueGrowth": 0.04, "ebitMargin": 0.085, "taxRate": 0.24, "daPct": 0.045, "capexPct": 0.04, "nwcPct": 0.08 },
+          { "revenueGrowth": 0.04, "ebitMargin": 0.09, "taxRate": 0.24, "daPct": 0.045, "capexPct": 0.04, "nwcPct": 0.08 },
+          { "revenueGrowth": 0.03, "ebitMargin": 0.09, "taxRate": 0.24, "daPct": 0.045, "capexPct": 0.04, "nwcPct": 0.08 }
+        ]
+      }
+    },
+    {
+      "ticker": "EVO",
+      "name": "Evolution",
+      "aliases": ["Evolution AB", "Evolution Gaming"],
+      "exchange": "Nasdaq Stockholm",
+      "currency": "SEK",
+      "sector": "Teknik / Spel",
+      "description": "B2B-leverantör av livecasino och slots till spelbolag.",
+      "fundamentals": {
+        "baseYear": 2025,
+        "baseRevenue": 24000,
+        "netDebt": -8000,
+        "sharesOutstanding": 204,
+        "price": 780
+      },
+      "assumptions": {
+        "wacc": 0.095,
+        "terminalGrowth": 0.025,
+        "years": [
+          { "revenueGrowth": 0.05, "ebitMargin": 0.6, "taxRate": 0.08, "daPct": 0.06, "capexPct": 0.07, "nwcPct": 0.05 },
+          { "revenueGrowth": 0.07, "ebitMargin": 0.6, "taxRate": 0.08, "daPct": 0.06, "capexPct": 0.07, "nwcPct": 0.05 },
+          { "revenueGrowth": 0.07, "ebitMargin": 0.595, "taxRate": 0.08, "daPct": 0.06, "capexPct": 0.065, "nwcPct": 0.05 },
+          { "revenueGrowth": 0.06, "ebitMargin": 0.59, "taxRate": 0.08, "daPct": 0.06, "capexPct": 0.065, "nwcPct": 0.05 },
+          { "revenueGrowth": 0.05, "ebitMargin": 0.59, "taxRate": 0.08, "daPct": 0.06, "capexPct": 0.065, "nwcPct": 0.05 }
+        ]
+      }
+    }
+  ]
+}
