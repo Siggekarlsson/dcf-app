@@ -1,6 +1,6 @@
 {
  "source": "Nasdaq Nordic",
- "fetchedAt": "2026-11-22",
+ "fetchedAt": "2026-11-23",
  "companies": [
   {
    "ticker": "4C",
@@ -12,7 +12,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 4.81,
-   "turnover": 411699
+   "turnover": null
   },
   {
    "ticker": "AAC",
@@ -24,7 +24,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 82.7,
-   "turnover": 3282549
+   "turnover": null
   },
   {
    "ticker": "AAK",
@@ -36,7 +36,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 170.8,
-   "turnover": 100931215
+   "turnover": null
   },
   {
    "ticker": "ABB",
@@ -48,7 +48,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 796,
-   "turnover": 1151460732
+   "turnover": null
   },
   {
    "ticker": "ABSO",
@@ -60,7 +60,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 169,
-   "turnover": 85343
+   "turnover": null
   },
   {
    "ticker": "ACAD",
@@ -72,7 +72,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 125.4,
-   "turnover": 15235399
+   "turnover": null
   },
   {
    "ticker": "ACARIX",
@@ -84,7 +84,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.16,
-   "turnover": 204436
+   "turnover": null
   },
   {
    "ticker": "ACAST",
@@ -96,7 +96,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 28.2,
-   "turnover": 10622444
+   "turnover": null
   },
   {
    "ticker": "ACCON",
@@ -108,7 +108,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 9.91,
-   "turnover": 1527894
+   "turnover": null
   },
   {
    "ticker": "PADEL",
@@ -120,7 +120,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 1.5,
-   "turnover": 15910
+   "turnover": null
   },
   {
    "ticker": "ACOU",
@@ -132,7 +132,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.75,
-   "turnover": 23710
+   "turnover": null
   },
   {
    "ticker": "ACRI-A",
@@ -144,7 +144,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 6.62,
-   "turnover": 5153
+   "turnover": null
   },
   {
    "ticker": "ACRI-B",
@@ -156,7 +156,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 5.86,
-   "turnover": 50908
+   "turnover": null
   },
   {
    "ticker": "ACROUD",
@@ -168,7 +168,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.0865,
-   "turnover": 891
+   "turnover": null
   },
   {
    "ticker": "ATIC",
@@ -180,7 +180,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 24,
-   "turnover": 431209
+   "turnover": null
   },
   {
    "ticker": "ACTI",
@@ -192,7 +192,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 3.36,
-   "turnover": 197896
+   "turnover": null
   },
   {
    "ticker": "ACUVI",
@@ -204,7 +204,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 5.48,
-   "turnover": 243929
+   "turnover": null
   },
   {
    "ticker": "ALIF-B",
@@ -216,7 +216,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 176.6,
-   "turnover": 17993593
+   "turnover": null
   },
   {
    "ticker": "ANOD-B",
@@ -228,7 +228,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 56.1,
-   "turnover": 14523421
+   "turnover": null
   },
   {
    "ticker": "ADDT-B",
@@ -240,7 +240,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 314.6,
-   "turnover": 236836189
+   "turnover": null
   },
   {
    "ticker": "ADTR",
@@ -252,7 +252,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 41.5,
-   "turnover": 403730
+   "turnover": null
   },
   {
    "ticker": "ADVE",
@@ -264,7 +264,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 17.5,
-   "turnover": 1178266
+   "turnover": null
   },
   {
    "ticker": "AEC",
@@ -276,7 +276,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 1.17,
-   "turnover": 277831
+   "turnover": null
   },
   {
    "ticker": "AFRY",
@@ -288,7 +288,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 124.6,
-   "turnover": 22861008
+   "turnover": null
   },
   {
    "ticker": "AGES-B",
@@ -300,7 +300,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 44,
-   "turnover": 10399
+   "turnover": null
   },
   {
    "ticker": "AGTIRA-B",
@@ -312,7 +312,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 2.25,
-   "turnover": 36705
+   "turnover": null
   },
   {
    "ticker": "AIRA",
@@ -324,7 +324,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 5.31,
-   "turnover": 487867
+   "turnover": null
   },
   {
    "ticker": "AINO",
@@ -336,7 +336,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.176,
-   "turnover": 530
+   "turnover": null
   },
   {
    "ticker": "ALCA",
@@ -348,7 +348,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 29.2,
-   "turnover": 417292
+   "turnover": null
   },
   {
    "ticker": "ALFA",
@@ -360,7 +360,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 510,
-   "turnover": 395133935
+   "turnover": null
   },
   {
    "ticker": "ALIG",
@@ -372,7 +372,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 115.2,
-   "turnover": 9761528
+   "turnover": null
   },
   {
    "ticker": "ALLEI",
@@ -384,7 +384,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 84.6,
-   "turnover": 26202076
+   "turnover": null
   },
   {
    "ticker": "ATORX",
@@ -396,7 +396,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.008,
-   "turnover": 284148
+   "turnover": null
   },
   {
    "ticker": "ALLIGO-B",
@@ -408,7 +408,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 113.4,
-   "turnover": 4832175
+   "turnover": null
   },
   {
    "ticker": "ALM",
@@ -420,7 +420,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 34.6,
-   "turnover": 123181
+   "turnover": null
   },
   {
    "ticker": "ALM-PREF",
@@ -432,7 +432,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 74.2,
-   "turnover": 10798367
+   "turnover": null
   },
   {
    "ticker": "ALPCOT-B",
@@ -444,7 +444,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1.32,
-   "turnover": 26883
+   "turnover": null
   },
   {
    "ticker": "ALTRA",
@@ -456,7 +456,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 82.5,
-   "turnover": 20555490
+   "turnover": null
   },
   {
    "ticker": "ALVO-SDB",
@@ -468,7 +468,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 43.6,
-   "turnover": 700040
+   "turnover": null
   },
   {
    "ticker": "ALZCUR",
@@ -480,7 +480,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 5.68,
-   "turnover": 1349381
+   "turnover": null
   },
   {
    "ticker": "ALZ",
@@ -492,7 +492,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.3095,
-   "turnover": 389516
+   "turnover": null
   },
   {
    "ticker": "AMBEA",
@@ -504,7 +504,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 193.3,
-   "turnover": 65787889
+   "turnover": null
   },
   {
    "ticker": "ANNE-B",
@@ -516,7 +516,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 16.15,
-   "turnover": 275539
+   "turnover": null
   },
   {
    "ticker": "ANNX",
@@ -528,7 +528,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 8.9,
-   "turnover": 4584
+   "turnover": null
   },
   {
    "ticker": "APOTEA",
@@ -540,7 +540,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 101.2,
-   "turnover": 9919495
+   "turnover": null
   },
   {
    "ticker": "AQ",
@@ -552,7 +552,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 216.4,
-   "turnover": 35049910
+   "turnover": null
   },
   {
    "ticker": "ARCOMA",
@@ -564,7 +564,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 8,
-   "turnover": 4000
+   "turnover": null
   },
   {
    "ticker": "ARCTIC",
@@ -576,7 +576,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 0.1324,
-   "turnover": 33117
+   "turnover": null
   },
   {
    "ticker": "ARFA",
@@ -588,7 +588,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 66.8,
-   "turnover": 133987
+   "turnover": null
   },
   {
    "ticker": "ARCT",
@@ -600,7 +600,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 5.26,
-   "turnover": 258942
+   "turnover": null
   },
   {
    "ticker": "ARP",
@@ -612,7 +612,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 11.81,
-   "turnover": 323896
+   "turnover": null
   },
   {
    "ticker": "ARENIT-SDB",
@@ -624,7 +624,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 100,
-   "turnover": 69644
+   "turnover": null
   },
   {
    "ticker": "ARION-SDB",
@@ -636,7 +636,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 14.08,
-   "turnover": 259693
+   "turnover": null
   },
   {
    "ticker": "ARJO-B",
@@ -648,7 +648,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 36.32,
-   "turnover": 20513831
+   "turnover": null
   },
   {
    "ticker": "ARPL",
@@ -660,7 +660,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 35.8,
-   "turnover": 351240
+   "turnover": null
   },
   {
    "ticker": "AGROUP",
@@ -672,7 +672,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 34.9,
-   "turnover": 166216
+   "turnover": null
   },
   {
    "ticker": "ACE",
@@ -684,7 +684,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.559,
-   "turnover": 96021
+   "turnover": null
   },
   {
    "ticker": "ASKER",
@@ -696,7 +696,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 70.45,
-   "turnover": 12579182
+   "turnover": null
   },
   {
    "ticker": "ASMDEE-B",
@@ -708,7 +708,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 170.4,
-   "turnover": 96562087
+   "turnover": null
   },
   {
    "ticker": "ASSA-B",
@@ -720,7 +720,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 380.2,
-   "turnover": 791839841
+   "turnover": null
   },
   {
    "ticker": "AZN",
@@ -732,7 +732,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1796,
-   "turnover": 941305345
+   "turnover": null
   },
   {
    "ticker": "ATIN",
@@ -756,7 +756,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 181.95,
-   "turnover": 1722828989
+   "turnover": null
   },
   {
    "ticker": "ATCO-B",
@@ -768,7 +768,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 158.95,
-   "turnover": 464341788
+   "turnover": null
   },
   {
    "ticker": "ATRLJ-B",
@@ -780,7 +780,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 21.4,
-   "turnover": 7993511
+   "turnover": null
   },
   {
    "ticker": "ATT",
@@ -792,7 +792,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 133.1,
-   "turnover": 36148558
+   "turnover": null
   },
   {
    "ticker": "ALIV-SDB",
@@ -804,7 +804,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 1184,
-   "turnover": 57006013
+   "turnover": null
   },
   {
    "ticker": "AZA",
@@ -816,7 +816,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 368,
-   "turnover": 104283434
+   "turnover": null
   },
   {
    "ticker": "AVARDA",
@@ -828,7 +828,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 226.5,
-   "turnover": 18693668
+   "turnover": null
   },
   {
    "ticker": "AVEN",
@@ -840,7 +840,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 6.22,
-   "turnover": 372299
+   "turnover": null
   },
   {
    "ticker": "AVT-B",
@@ -852,7 +852,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 2.955,
-   "turnover": 1248976
+   "turnover": null
   },
   {
    "ticker": "AXFO",
@@ -864,7 +864,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 283.6,
-   "turnover": 79057328
+   "turnover": null
   },
   {
    "ticker": "AXIC-A",
@@ -876,7 +876,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 1.54,
-   "turnover": 11376
+   "turnover": null
   },
   {
    "ticker": "AXOLOT",
@@ -888,7 +888,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.2,
-   "turnover": 49552
+   "turnover": null
   },
   {
    "ticker": "AXVIK",
@@ -900,7 +900,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 54.8,
-   "turnover": 183050
+   "turnover": null
   },
   {
    "ticker": "B3",
@@ -912,7 +912,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 22.3,
-   "turnover": 11322
+   "turnover": null
   },
   {
    "ticker": "BACTI-B",
@@ -924,7 +924,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 14.85,
-   "turnover": 6340
+   "turnover": null
   },
   {
    "ticker": "BAHN-B",
@@ -936,7 +936,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 61.8,
-   "turnover": 3505797
+   "turnover": null
   },
   {
    "ticker": "BALCO",
@@ -948,7 +948,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 13,
-   "turnover": 312919
+   "turnover": null
   },
   {
    "ticker": "BUSER",
@@ -960,7 +960,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 17.9,
-   "turnover": 10457
+   "turnover": null
   },
   {
    "ticker": "BAWAT",
@@ -972,7 +972,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.955,
-   "turnover": 1809
+   "turnover": null
   },
   {
    "ticker": "BEGR",
@@ -984,7 +984,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 24.3,
-   "turnover": 97257
+   "turnover": null
   },
   {
    "ticker": "BEAMMW-B",
@@ -996,7 +996,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 17.3,
-   "turnover": 1407044
+   "turnover": null
   },
   {
    "ticker": "BEIA-B",
@@ -1008,7 +1008,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 300,
-   "turnover": 26226741
+   "turnover": null
   },
   {
    "ticker": "BEIJ-B",
@@ -1020,7 +1020,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 155.4,
-   "turnover": 163441961
+   "turnover": null
   },
   {
    "ticker": "BERG-B",
@@ -1032,7 +1032,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 257,
-   "turnover": 10936098
+   "turnover": null
   },
   {
    "ticker": "BERNER-B",
@@ -1044,7 +1044,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 69.4,
-   "turnover": 1075109
+   "turnover": null
   },
   {
    "ticker": "BESQAB",
@@ -1056,7 +1056,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 24,
-   "turnover": 474511
+   "turnover": null
   },
   {
    "ticker": "BESQAB-PREF-B",
@@ -1068,7 +1068,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 97.6,
-   "turnover": 6009958
+   "turnover": null
   },
   {
    "ticker": "BETS-B",
@@ -1080,7 +1080,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 90.5,
-   "turnover": 47347737
+   "turnover": null
   },
   {
    "ticker": "BETCO",
@@ -1092,7 +1092,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 56.1,
-   "turnover": 87979682
+   "turnover": null
   },
   {
    "ticker": "BHG",
@@ -1104,7 +1104,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 23.96,
-   "turnover": 9469121
+   "turnover": null
   },
   {
    "ticker": "BICO",
@@ -1116,7 +1116,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 15.18,
-   "turnover": 5141814
+   "turnover": null
   },
   {
    "ticker": "BILI-A",
@@ -1128,7 +1128,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 144.2,
-   "turnover": 9945438
+   "turnover": null
   },
   {
    "ticker": "BILL",
@@ -1140,7 +1140,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 87.95,
-   "turnover": 34328758
+   "turnover": null
   },
   {
    "ticker": "BIM",
@@ -1152,7 +1152,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 4.125,
-   "turnover": 707774
+   "turnover": null
   },
   {
    "ticker": "BINERO",
@@ -1176,7 +1176,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 300.6,
-   "turnover": 24201489
+   "turnover": null
   },
   {
    "ticker": "BIOEX",
@@ -1188,7 +1188,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2.59,
-   "turnover": 338061
+   "turnover": null
   },
   {
    "ticker": "BIOG-B",
@@ -1200,7 +1200,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 126,
-   "turnover": 17110457
+   "turnover": null
   },
   {
    "ticker": "BINV",
@@ -1212,7 +1212,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.09,
-   "turnover": 975172
+   "turnover": null
   },
   {
    "ticker": "BIOVIC-B",
@@ -1224,7 +1224,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.3,
-   "turnover": 16060
+   "turnover": null
   },
   {
    "ticker": "BORG",
@@ -1236,7 +1236,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 54.6,
-   "turnover": 1767581
+   "turnover": null
   },
   {
    "ticker": "BLINC-B",
@@ -1248,7 +1248,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0808,
-   "turnover": 429542
+   "turnover": null
   },
   {
    "ticker": "BOHO",
@@ -1260,7 +1260,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 6.82,
-   "turnover": 116999
+   "turnover": null
   },
   {
    "ticker": "BOHO-PREF",
@@ -1272,7 +1272,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 10.65,
-   "turnover": 75727
+   "turnover": null
   },
   {
    "ticker": "BOKUS",
@@ -1284,7 +1284,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 70.6,
-   "turnover": 306246
+   "turnover": null
   },
   {
    "ticker": "BOL",
@@ -1296,7 +1296,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 446.5,
-   "turnover": 1631720576
+   "turnover": null
   },
   {
    "ticker": "BOMILL",
@@ -1320,7 +1320,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 7.1,
-   "turnover": 4641
+   "turnover": null
   },
   {
    "ticker": "BONAV-B",
@@ -1332,7 +1332,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 7.37,
-   "turnover": 4569913
+   "turnover": null
   },
   {
    "ticker": "BONEX",
@@ -1344,7 +1344,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 324.8,
-   "turnover": 118818410
+   "turnover": null
   },
   {
    "ticker": "BONG",
@@ -1356,7 +1356,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.303,
-   "turnover": 26361
+   "turnover": null
   },
   {
    "ticker": "BONAS",
@@ -1380,7 +1380,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 167.5,
-   "turnover": 16209820
+   "turnover": null
   },
   {
    "ticker": "BOTX",
@@ -1392,7 +1392,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 8.77,
-   "turnover": 256372
+   "turnover": null
   },
   {
    "ticker": "BOUL",
@@ -1404,7 +1404,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.275,
-   "turnover": 279978
+   "turnover": null
   },
   {
    "ticker": "BRAIN",
@@ -1416,7 +1416,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.12,
-   "turnover": 186905
+   "turnover": null
   },
   {
    "ticker": "BRAV",
@@ -1428,7 +1428,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 141,
-   "turnover": 119220569
+   "turnover": null
   },
   {
    "ticker": "BRIGHT",
@@ -1440,7 +1440,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.214,
-   "turnover": 1977
+   "turnover": null
   },
   {
    "ticker": "BRILL",
@@ -1464,7 +1464,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 10.7,
-   "turnover": 1169541
+   "turnover": null
   },
   {
    "ticker": "BMC",
@@ -1476,7 +1476,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 92,
-   "turnover": 368
+   "turnover": null
   },
   {
    "ticker": "BTS-B",
@@ -1488,7 +1488,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 258.5,
-   "turnover": 5299236
+   "turnover": null
   },
   {
    "ticker": "BUFAB",
@@ -1500,7 +1500,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 132,
-   "turnover": 15892692
+   "turnover": null
   },
   {
    "ticker": "BULTEN",
@@ -1512,7 +1512,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 88.3,
-   "turnover": 18692963
+   "turnover": null
   },
   {
    "ticker": "BURE",
@@ -1524,7 +1524,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 284.6,
-   "turnover": 23228727
+   "turnover": null
   },
   {
    "ticker": "BMAX",
@@ -1536,7 +1536,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 65.8,
-   "turnover": 14457031
+   "turnover": null
   },
   {
    "ticker": "AJA-B",
@@ -1548,7 +1548,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 44.8,
-   "turnover": 382051
+   "turnover": null
   },
   {
    "ticker": "BYGGP",
@@ -1560,7 +1560,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 36.5,
-   "turnover": 1499297
+   "turnover": null
   },
   {
    "ticker": "CRAD-B",
@@ -1572,7 +1572,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 23.2,
-   "turnover": 906843
+   "turnover": null
   },
   {
    "ticker": "CAG",
@@ -1584,7 +1584,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 85.8,
-   "turnover": 242245
+   "turnover": null
   },
   {
    "ticker": "CALVIK",
@@ -1596,7 +1596,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 71.2,
-   "turnover": 217666
+   "turnover": null
   },
   {
    "ticker": "CAMX",
@@ -1608,7 +1608,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 739.5,
-   "turnover": 55397356
+   "turnover": null
   },
   {
    "ticker": "CANDLE-B",
@@ -1620,7 +1620,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 30.5,
-   "turnover": 314516
+   "turnover": null
   },
   {
    "ticker": "CANTA",
@@ -1632,7 +1632,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.289,
-   "turnover": 1042563
+   "turnover": null
   },
   {
    "ticker": "CARA",
@@ -1644,7 +1644,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 24.45,
-   "turnover": 6296138
+   "turnover": null
   },
   {
    "ticker": "CARE",
@@ -1656,7 +1656,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 30,
-   "turnover": 266766
+   "turnover": null
   },
   {
    "ticker": "CASE",
@@ -1668,7 +1668,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 19.6,
-   "turnover": 615
+   "turnover": null
   },
   {
    "ticker": "CAST",
@@ -1680,7 +1680,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 130.85,
-   "turnover": 185552510
+   "turnover": null
   },
   {
    "ticker": "CAT-A",
@@ -1704,7 +1704,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 13.56,
-   "turnover": 1549973
+   "turnover": null
   },
   {
    "ticker": "CATE",
@@ -1716,7 +1716,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 378.6,
-   "turnover": 14606729
+   "turnover": null
   },
   {
    "ticker": "CTM",
@@ -1728,7 +1728,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 2.86,
-   "turnover": 353966
+   "turnover": null
   },
   {
    "ticker": "CCC",
@@ -1740,7 +1740,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 10.2,
-   "turnover": 210285
+   "turnover": null
   },
   {
    "ticker": "CDON",
@@ -1752,7 +1752,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 39,
-   "turnover": 104904
+   "turnover": null
   },
   {
    "ticker": "CEDER",
@@ -1764,7 +1764,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 49.2,
-   "turnover": 386588
+   "turnover": null
   },
   {
    "ticker": "CI",
@@ -1776,7 +1776,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.0168,
-   "turnover": 92251
+   "turnover": null
   },
   {
    "ticker": "CEVI",
@@ -1788,7 +1788,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 201.5,
-   "turnover": 5200608
+   "turnover": null
   },
   {
    "ticker": "CRNO-B",
@@ -1800,7 +1800,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.15,
-   "turnover": 2642692
+   "turnover": null
   },
   {
    "ticker": "CHARGE",
@@ -1812,7 +1812,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 2.35,
-   "turnover": 19430
+   "turnover": null
   },
   {
    "ticker": "CHECK",
@@ -1824,7 +1824,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 1.735,
-   "turnover": 17549
+   "turnover": null
   },
   {
    "ticker": "CHEF",
@@ -1836,7 +1836,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 82.9,
-   "turnover": 6736035
+   "turnover": null
   },
   {
    "ticker": "CIBUS",
@@ -1848,7 +1848,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 126.7,
-   "turnover": 48492304
+   "turnover": null
   },
   {
    "ticker": "CINPHA",
@@ -1860,7 +1860,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 11.22,
-   "turnover": 604349
+   "turnover": null
   },
   {
    "ticker": "CIRCHE",
@@ -1872,7 +1872,7 @@
    "sector": "Kraftförsörjning",
    "currency": "SEK",
    "price": 0.379,
-   "turnover": 949
+   "turnover": null
   },
   {
    "ticker": "CLAS-B",
@@ -1884,7 +1884,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 539.5,
-   "turnover": 30060604
+   "turnover": null
   },
   {
    "ticker": "CLAV",
@@ -1896,7 +1896,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 4.06,
-   "turnover": 3634345
+   "turnover": null
   },
   {
    "ticker": "CLEMO",
@@ -1908,7 +1908,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.0504,
-   "turnover": 7298
+   "turnover": null
   },
   {
    "ticker": "CLEM",
@@ -1920,7 +1920,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 5.36,
-   "turnover": 8399
+   "turnover": null
   },
   {
    "ticker": "CLIME-B",
@@ -1932,7 +1932,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 2.42,
-   "turnover": 54608
+   "turnover": null
   },
   {
    "ticker": "CLS-B",
@@ -1944,7 +1944,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.588,
-   "turnover": 148003
+   "turnover": null
   },
   {
    "ticker": "CLA-B",
@@ -1956,7 +1956,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 62.15,
-   "turnover": 21254782
+   "turnover": null
   },
   {
    "ticker": "CDMIL",
@@ -1968,7 +1968,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 13.45,
-   "turnover": 1787
+   "turnover": null
   },
   {
    "ticker": "COFFEE-B",
@@ -1980,7 +1980,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 20.165,
-   "turnover": 18319886
+   "turnover": null
   },
   {
    "ticker": "COLLAX",
@@ -1992,7 +1992,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 0.397,
-   "turnover": 2734
+   "turnover": null
   },
   {
    "ticker": "CX",
@@ -2004,7 +2004,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 23.9,
-   "turnover": 256952
+   "turnover": null
   },
   {
    "ticker": "COMPDM",
@@ -2016,7 +2016,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 6.05,
-   "turnover": 19902
+   "turnover": null
   },
   {
    "ticker": "CNCJO-B",
@@ -2028,7 +2028,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 45.5,
-   "turnover": 533989
+   "turnover": null
   },
   {
    "ticker": "COOR",
@@ -2040,7 +2040,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 51.75,
-   "turnover": 32247360
+   "turnover": null
   },
   {
    "ticker": "CORE-A",
@@ -2052,7 +2052,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 3.39,
-   "turnover": 64849
+   "turnover": null
   },
   {
    "ticker": "CORE-B",
@@ -2064,7 +2064,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 2.02,
-   "turnover": 6146976
+   "turnover": null
   },
   {
    "ticker": "CORE-D",
@@ -2076,7 +2076,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 178.4,
-   "turnover": 850808
+   "turnover": null
   },
   {
    "ticker": "CORE-PREF",
@@ -2088,7 +2088,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 191.4,
-   "turnover": 1950501
+   "turnover": null
   },
   {
    "ticker": "CLBIO",
@@ -2100,7 +2100,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 14,
-   "turnover": 305092
+   "turnover": null
   },
   {
    "ticker": "CRED-A",
@@ -2112,7 +2112,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 81.05,
-   "turnover": 6060803
+   "turnover": null
   },
   {
    "ticker": "CFISH",
@@ -2124,7 +2124,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 1.878,
-   "turnover": 58933
+   "turnover": null
   },
   {
    "ticker": "CTEK",
@@ -2136,7 +2136,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 15.86,
-   "turnover": 4904947
+   "turnover": null
   },
   {
    "ticker": "CTT",
@@ -2148,7 +2148,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 144.8,
-   "turnover": 4646800
+   "turnover": null
   },
   {
    "ticker": "CYNCA",
@@ -2160,7 +2160,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 29.25,
-   "turnover": 2848027
+   "turnover": null
   },
   {
    "ticker": "DEDI",
@@ -2172,7 +2172,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 71,
-   "turnover": 2079997
+   "turnover": null
   },
   {
    "ticker": "DSNO",
@@ -2184,7 +2184,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.127,
-   "turnover": 145871
+   "turnover": null
   },
   {
    "ticker": "DEVP-B",
@@ -2196,7 +2196,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 8.96,
-   "turnover": 3019
+   "turnover": null
   },
   {
    "ticker": "DVYSR",
@@ -2208,7 +2208,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 60,
-   "turnover": 1513844
+   "turnover": null
   },
   {
    "ticker": "DMYD-B",
@@ -2220,7 +2220,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.892,
-   "turnover": 437902
+   "turnover": null
   },
   {
    "ticker": "DICOT",
@@ -2232,7 +2232,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.1962,
-   "turnover": 1880524
+   "turnover": null
   },
   {
    "ticker": "DPHA",
@@ -2244,7 +2244,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.863,
-   "turnover": 3533
+   "turnover": null
   },
   {
    "ticker": "DIST",
@@ -2256,7 +2256,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.1535,
-   "turnover": 3808
+   "turnover": null
   },
   {
    "ticker": "DMXSE-SDB",
@@ -2268,7 +2268,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2,
-   "turnover": 194366
+   "turnover": null
   },
   {
    "ticker": "DIVIO-B",
@@ -2280,7 +2280,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0448,
-   "turnover": 9423
+   "turnover": null
   },
   {
    "ticker": "DIOS",
@@ -2292,7 +2292,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 58.55,
-   "turnover": 11302137
+   "turnover": null
   },
   {
    "ticker": "DLAB",
@@ -2304,7 +2304,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 3.98,
-   "turnover": 112851
+   "turnover": null
   },
   {
    "ticker": "DOM",
@@ -2316,7 +2316,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 21.78,
-   "turnover": 15477430
+   "turnover": null
   },
   {
    "ticker": "DONE",
@@ -2328,7 +2328,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 5.48,
-   "turnover": 856335
+   "turnover": null
   },
   {
    "ticker": "DORMY",
@@ -2340,7 +2340,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 67.2,
-   "turnover": 499312
+   "turnover": null
   },
   {
    "ticker": "DRIL",
@@ -2352,7 +2352,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 3.61,
-   "turnover": 3690
+   "turnover": null
   },
   {
    "ticker": "DUNI",
@@ -2364,7 +2364,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 60.1,
-   "turnover": 8036117
+   "turnover": null
   },
   {
    "ticker": "DURC-B",
@@ -2376,7 +2376,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 18.35,
-   "turnover": 47266
+   "turnover": null
   },
   {
    "ticker": "DUST",
@@ -2388,7 +2388,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 1.528,
-   "turnover": 1510281
+   "turnover": null
   },
   {
    "ticker": "DYVOX",
@@ -2400,7 +2400,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 73.35,
-   "turnover": 20299774
+   "turnover": null
   },
   {
    "ticker": "EAST",
@@ -2412,7 +2412,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 43.7,
-   "turnover": 3917359
+   "turnover": null
   },
   {
    "ticker": "ALBERT",
@@ -2424,7 +2424,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 3.98,
-   "turnover": 11292
+   "turnover": null
   },
   {
    "ticker": "EFFH",
@@ -2436,7 +2436,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 6.15,
-   "turnover": 31473
+   "turnover": null
   },
   {
    "ticker": "EGTX",
@@ -2448,7 +2448,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 11.12,
-   "turnover": 20153784
+   "turnover": null
   },
   {
    "ticker": "ELAN-B",
@@ -2460,7 +2460,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 57.8,
-   "turnover": 1158693
+   "turnover": null
   },
   {
    "ticker": "ELUX-A",
@@ -2472,7 +2472,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 30,
-   "turnover": 13453
+   "turnover": null
   },
   {
    "ticker": "ELUX-B",
@@ -2484,7 +2484,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 29.92,
-   "turnover": 95830498
+   "turnover": null
   },
   {
    "ticker": "EPRO-B",
@@ -2496,7 +2496,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 50.6,
-   "turnover": 8314667
+   "turnover": null
   },
   {
    "ticker": "EKTA-B",
@@ -2508,7 +2508,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 60.6,
-   "turnover": 74416538
+   "turnover": null
   },
   {
    "ticker": "ELIC",
@@ -2520,7 +2520,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.465,
-   "turnover": 198010
+   "turnover": null
   },
   {
    "ticker": "ELLOS",
@@ -2532,7 +2532,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 59.8,
-   "turnover": 818709
+   "turnover": null
   },
   {
    "ticker": "ELON",
@@ -2544,7 +2544,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 62.6,
-   "turnover": 10746032
+   "turnover": null
   },
   {
    "ticker": "ELTEL",
@@ -2556,7 +2556,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 14.35,
-   "turnover": 1949402
+   "turnover": null
   },
   {
    "ticker": "EMB",
@@ -2568,7 +2568,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.59,
-   "turnover": 72413
+   "turnover": null
   },
   {
    "ticker": "EMBELL",
@@ -2580,7 +2580,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 33.4,
-   "turnover": 91496
+   "turnover": null
   },
   {
    "ticker": "EMBRAC-B",
@@ -2592,7 +2592,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 94.14,
-   "turnover": 52151132
+   "turnover": null
   },
   {
    "ticker": "EG7",
@@ -2604,7 +2604,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 13.9,
-   "turnover": 1535874
+   "turnover": null
   },
   {
    "ticker": "ENEA",
@@ -2616,7 +2616,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 49.55,
-   "turnover": 1270456
+   "turnover": null
   },
   {
    "ticker": "ENERS",
@@ -2628,7 +2628,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0005,
-   "turnover": 224
+   "turnover": null
   },
   {
    "ticker": "ENGCON-B",
@@ -2640,7 +2640,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 50,
-   "turnover": 15816970
+   "turnover": null
   },
   {
    "ticker": "ENRO",
@@ -2652,7 +2652,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 32.905,
-   "turnover": 739740
+   "turnover": null
   },
   {
    "ticker": "ENITY",
@@ -2664,7 +2664,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 79.4,
-   "turnover": 8626594
+   "turnover": null
   },
   {
    "ticker": "ERMA",
@@ -2676,7 +2676,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.588,
-   "turnover": 8998
+   "turnover": null
   },
   {
    "ticker": "ENVAR",
@@ -2688,7 +2688,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 46.3,
-   "turnover": 159233
+   "turnover": null
   },
   {
    "ticker": "ENZY",
@@ -2700,7 +2700,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.32,
-   "turnover": 116428
+   "turnover": null
   },
   {
    "ticker": "EOLU-B",
@@ -2712,7 +2712,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 43.8,
-   "turnover": 2292855
+   "turnover": null
   },
   {
    "ticker": "EPEN",
@@ -2724,7 +2724,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 148.8,
-   "turnover": 2853524
+   "turnover": null
   },
   {
    "ticker": "EPI-A",
@@ -2736,7 +2736,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 226.7,
-   "turnover": 469722263
+   "turnover": null
   },
   {
    "ticker": "EPI-B",
@@ -2748,7 +2748,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 192.6,
-   "turnover": 92498423
+   "turnover": null
   },
   {
    "ticker": "EPIS-B",
@@ -2760,7 +2760,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.051,
-   "turnover": 737473
+   "turnover": null
   },
   {
    "ticker": "EQL",
@@ -2772,7 +2772,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 21.65,
-   "turnover": 590257
+   "turnover": null
   },
   {
    "ticker": "EQT",
@@ -2784,7 +2784,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 288.1,
-   "turnover": 748636474
+   "turnover": null
   },
   {
    "ticker": "ERIC-A",
@@ -2796,7 +2796,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 102.2,
-   "turnover": 1352960
+   "turnover": null
   },
   {
    "ticker": "ERIC-B",
@@ -2808,7 +2808,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 101.7,
-   "turnover": 871627593
+   "turnover": null
   },
   {
    "ticker": "ESGR-B",
@@ -2820,7 +2820,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 14.95,
-   "turnover": 158008
+   "turnover": null
   },
   {
    "ticker": "ESSITY-A",
@@ -2832,7 +2832,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 286,
-   "turnover": 147372989
+   "turnover": null
   },
   {
    "ticker": "ESSITY-B",
@@ -2844,7 +2844,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 286.5,
-   "turnover": 452930464
+   "turnover": null
   },
   {
    "ticker": "EVO",
@@ -2856,7 +2856,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 854,
-   "turnover": 440354840
+   "turnover": null
   },
   {
    "ticker": "EWRK",
@@ -2868,7 +2868,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 48.95,
-   "turnover": 1022537
+   "turnover": null
   },
   {
    "ticker": "EXPRS2",
@@ -2880,7 +2880,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.82,
-   "turnover": 226536
+   "turnover": null
   },
   {
    "ticker": "EXS",
@@ -2892,7 +2892,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 115,
-   "turnover": 458514
+   "turnover": null
   },
   {
    "ticker": "FABG",
@@ -2904,7 +2904,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 64.45,
-   "turnover": 21091818
+   "turnover": null
   },
   {
    "ticker": "FAG",
@@ -2916,7 +2916,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 11.64,
-   "turnover": 6433140
+   "turnover": null
   },
   {
    "ticker": "FG",
@@ -2928,7 +2928,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 15.14,
-   "turnover": 2439706
+   "turnover": null
   },
   {
    "ticker": "BALD-B",
@@ -2940,7 +2940,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 50.76,
-   "turnover": 160287174
+   "turnover": null
   },
   {
    "ticker": "FASTAT",
@@ -2952,7 +2952,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 0.27,
-   "turnover": 36899
+   "turnover": null
   },
   {
    "ticker": "EMIL-PREF",
@@ -2964,7 +2964,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 29.4,
-   "turnover": 2237917
+   "turnover": null
   },
   {
    "ticker": "EMIL-B",
@@ -2976,7 +2976,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 42.7,
-   "turnover": 1668261
+   "turnover": null
   },
   {
    "ticker": "FPAR-A",
@@ -2988,7 +2988,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 36.15,
-   "turnover": 7231748
+   "turnover": null
   },
   {
    "ticker": "FPAR-D",
@@ -3000,7 +3000,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 68.6,
-   "turnover": 495053
+   "turnover": null
   },
   {
    "ticker": "FOI-B",
@@ -3012,7 +3012,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 325.5,
-   "turnover": 1457426
+   "turnover": null
   },
   {
    "ticker": "FERRO",
@@ -3024,7 +3024,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 3.5,
-   "turnover": 203404
+   "turnover": null
   },
   {
    "ticker": "FNM",
@@ -3036,7 +3036,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 100.5,
-   "turnover": 2502638
+   "turnover": null
   },
   {
    "ticker": "FIRE",
@@ -3048,7 +3048,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 154,
-   "turnover": 170172
+   "turnover": null
   },
   {
    "ticker": "FIRST-B",
@@ -3060,7 +3060,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1.28,
-   "turnover": 775
+   "turnover": null
   },
   {
    "ticker": "FLAT-B",
@@ -3072,7 +3072,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 8.68,
-   "turnover": 4789336
+   "turnover": null
   },
   {
    "ticker": "FLERIE",
@@ -3084,7 +3084,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 12.4,
-   "turnover": 401671
+   "turnover": null
   },
   {
    "ticker": "FLEXM",
@@ -3096,7 +3096,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 2.9,
-   "turnover": 768561
+   "turnover": null
   },
   {
    "ticker": "FLEXQ",
@@ -3108,7 +3108,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 23.6,
-   "turnover": 830499
+   "turnover": null
   },
   {
    "ticker": "FLOWS",
@@ -3120,7 +3120,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 3.06,
-   "turnover": 32649
+   "turnover": null
   },
   {
    "ticker": "FLUI",
@@ -3132,7 +3132,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 21.1,
-   "turnover": 21350
+   "turnover": null
   },
   {
    "ticker": "FLUO",
@@ -3144,7 +3144,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 29.5,
-   "turnover": 233176
+   "turnover": null
   },
   {
    "ticker": "FMM-B",
@@ -3156,7 +3156,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 111,
-   "turnover": 2217082
+   "turnover": null
   },
   {
    "ticker": "FNOVA-B",
@@ -3168,7 +3168,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 20.7,
-   "turnover": 314004
+   "turnover": null
   },
   {
    "ticker": "FRACTL",
@@ -3180,7 +3180,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 14.66,
-   "turnover": 81707
+   "turnover": null
   },
   {
    "ticker": "FRAG",
@@ -3192,7 +3192,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 4.6,
-   "turnover": 916
+   "turnover": null
   },
   {
    "ticker": "FRAM-B",
@@ -3204,7 +3204,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 2.21,
-   "turnover": 883
+   "turnover": null
   },
   {
    "ticker": "FREEM",
@@ -3216,7 +3216,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 1.15,
-   "turnover": 670262
+   "turnover": null
   },
   {
    "ticker": "FREJA",
@@ -3228,7 +3228,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 21,
-   "turnover": 643201
+   "turnover": null
   },
   {
    "ticker": "FSPORT",
@@ -3240,7 +3240,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.049,
-   "turnover": 301729
+   "turnover": null
   },
   {
    "ticker": "G5EN",
@@ -3252,7 +3252,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 72,
-   "turnover": 335653
+   "turnover": null
   },
   {
    "ticker": "GABA",
@@ -3264,7 +3264,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.0154,
-   "turnover": 125503
+   "turnover": null
   },
   {
    "ticker": "GCOR",
@@ -3276,7 +3276,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.79,
-   "turnover": 44102
+   "turnover": null
   },
   {
    "ticker": "GAPW-B",
@@ -3288,7 +3288,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 7.36,
-   "turnover": 150362
+   "turnover": null
   },
   {
    "ticker": "GARO",
@@ -3300,7 +3300,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 13.92,
-   "turnover": 255712
+   "turnover": null
   },
   {
    "ticker": "GPX",
@@ -3324,7 +3324,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 35.4,
-   "turnover": 754179
+   "turnover": null
   },
   {
    "ticker": "GPG",
@@ -3336,7 +3336,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 29.6,
-   "turnover": 490076
+   "turnover": null
   },
   {
    "ticker": "GENO",
@@ -3348,7 +3348,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 22.75,
-   "turnover": 2273767
+   "turnover": null
   },
   {
    "ticker": "G2M",
@@ -3360,7 +3360,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 4.17,
-   "turnover": 798646
+   "turnover": null
   },
   {
    "ticker": "GETI-B",
@@ -3372,7 +3372,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 276.8,
-   "turnover": 96452369
+   "turnover": null
   },
   {
    "ticker": "GIG-SDB",
@@ -3384,7 +3384,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 3.11,
-   "turnover": 9677
+   "turnover": null
   },
   {
    "ticker": "GIGA",
@@ -3396,7 +3396,7 @@
    "sector": "Kraftförsörjning",
    "currency": "SEK",
    "price": 0.692,
-   "turnover": 70057
+   "turnover": null
   },
   {
    "ticker": "GSKR-SDB",
@@ -3408,7 +3408,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 15.4,
-   "turnover": 19136
+   "turnover": null
   },
   {
    "ticker": "GOMX",
@@ -3420,7 +3420,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 13.04,
-   "turnover": 6980225
+   "turnover": null
   },
   {
    "ticker": "GBK",
@@ -3432,7 +3432,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 1.234,
-   "turnover": 141388
+   "turnover": null
   },
   {
    "ticker": "GOTL-A",
@@ -3444,7 +3444,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 216,
-   "turnover": 105830
+   "turnover": null
   },
   {
    "ticker": "GOTL-B",
@@ -3456,7 +3456,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 218,
-   "turnover": 26450
+   "turnover": null
   },
   {
    "ticker": "GRANGX",
@@ -3468,7 +3468,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 23.75,
-   "turnover": 7607728
+   "turnover": null
   },
   {
    "ticker": "GREAT",
@@ -3480,7 +3480,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 5.96,
-   "turnover": 112400
+   "turnover": null
   },
   {
    "ticker": "GREEN",
@@ -3492,7 +3492,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 12.06,
-   "turnover": 23384026
+   "turnover": null
   },
   {
    "ticker": "VISC",
@@ -3504,7 +3504,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 14.58,
-   "turnover": 34425119
+   "turnover": null
   },
   {
    "ticker": "GRNG",
@@ -3516,7 +3516,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 165.5,
-   "turnover": 52319337
+   "turnover": null
   },
   {
    "ticker": "GGEO",
@@ -3528,7 +3528,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 8.58,
-   "turnover": 39819
+   "turnover": null
   },
   {
    "ticker": "GULD",
@@ -3540,7 +3540,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 12.85,
-   "turnover": 1869363
+   "turnover": null
   },
   {
    "ticker": "HACK",
@@ -3552,7 +3552,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 55.9,
-   "turnover": 46642183
+   "turnover": null
   },
   {
    "ticker": "HAKI-A",
@@ -3576,7 +3576,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 17.6,
-   "turnover": 43008
+   "turnover": null
   },
   {
    "ticker": "HNSA",
@@ -3588,7 +3588,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 45.14,
-   "turnover": 33841751
+   "turnover": null
   },
   {
    "ticker": "HANZA",
@@ -3600,7 +3600,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 150.2,
-   "turnover": 18306505
+   "turnover": null
   },
   {
    "ticker": "HAV-B",
@@ -3612,7 +3612,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 13.04,
-   "turnover": 70306
+   "turnover": null
   },
   {
    "ticker": "HAYPP",
@@ -3624,7 +3624,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 144,
-   "turnover": 6777185
+   "turnover": null
   },
   {
    "ticker": "HEBA-B",
@@ -3636,7 +3636,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 23.6,
-   "turnover": 6260321
+   "turnover": null
   },
   {
    "ticker": "HEGR",
@@ -3648,7 +3648,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.585,
-   "turnover": 35814
+   "turnover": null
   },
   {
    "ticker": "HEIM-PREF",
@@ -3660,7 +3660,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 18.5,
-   "turnover": 29032304
+   "turnover": null
   },
   {
    "ticker": "HEM",
@@ -3672,7 +3672,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 46.58,
-   "turnover": 86985192
+   "turnover": null
   },
   {
    "ticker": "HM-B",
@@ -3684,7 +3684,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 178.1,
-   "turnover": 697370489
+   "turnover": null
   },
   {
    "ticker": "HERNO-B",
@@ -3696,7 +3696,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 3.1,
-   "turnover": 17286
+   "turnover": null
   },
   {
    "ticker": "HEXA-B",
@@ -3708,7 +3708,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 99.52,
-   "turnover": 675544954
+   "turnover": null
   },
   {
    "ticker": "HTRO",
@@ -3720,7 +3720,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 36.88,
-   "turnover": 114532129
+   "turnover": null
   },
   {
    "ticker": "HEXI",
@@ -3732,7 +3732,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 0.0608,
-   "turnover": 9793
+   "turnover": null
   },
   {
    "ticker": "HPOL-B",
@@ -3744,7 +3744,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 89.35,
-   "turnover": 47128711
+   "turnover": null
   },
   {
    "ticker": "HIGHCO-B",
@@ -3768,7 +3768,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 1.88,
-   "turnover": 291537
+   "turnover": null
   },
   {
    "ticker": "HMS",
@@ -3780,7 +3780,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 447.6,
-   "turnover": 25621365
+   "turnover": null
   },
   {
    "ticker": "HOFI",
@@ -3792,7 +3792,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 193,
-   "turnover": 20374685
+   "turnover": null
   },
   {
    "ticker": "HOLM-A",
@@ -3804,7 +3804,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 289,
-   "turnover": 446338
+   "turnover": null
   },
   {
    "ticker": "HOLM-B",
@@ -3816,7 +3816,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 288.2,
-   "turnover": 39315704
+   "turnover": null
   },
   {
    "ticker": "HUFV-A",
@@ -3828,7 +3828,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 113.1,
-   "turnover": 95255609
+   "turnover": null
   },
   {
    "ticker": "HUMBLE",
@@ -3840,7 +3840,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 6.15,
-   "turnover": 2732911
+   "turnover": null
   },
   {
    "ticker": "HUSQ-A",
@@ -3852,7 +3852,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 31.35,
-   "turnover": 301085
+   "turnover": null
   },
   {
    "ticker": "HUSQ-B",
@@ -3864,7 +3864,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 30.8,
-   "turnover": 33290569
+   "turnover": null
   },
   {
    "ticker": "ITECH",
@@ -3876,7 +3876,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 58.9,
-   "turnover": 1329595
+   "turnover": null
   },
   {
    "ticker": "ICO",
@@ -3888,7 +3888,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.065,
-   "turnover": 44547
+   "turnover": null
   },
   {
    "ticker": "IDLDX",
@@ -3900,7 +3900,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.303,
-   "turnover": 38983
+   "turnover": null
   },
   {
    "ticker": "IDUN-B",
@@ -3912,7 +3912,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 320,
-   "turnover": 573997
+   "turnover": null
   },
   {
    "ticker": "IS",
@@ -3924,7 +3924,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.6,
-   "turnover": 56275
+   "turnover": null
   },
   {
    "ticker": "IMMNOV",
@@ -3936,7 +3936,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.0398,
-   "turnover": 997644
+   "turnover": null
   },
   {
    "ticker": "IMPC",
@@ -3948,7 +3948,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2.84,
-   "turnover": 89636
+   "turnover": null
   },
   {
    "ticker": "IMP-A-SDB",
@@ -3960,7 +3960,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 61.9,
-   "turnover": 5948689
+   "turnover": null
   },
   {
    "ticker": "INCOAX",
@@ -3972,7 +3972,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 0.0204,
-   "turnover": 87203
+   "turnover": null
   },
   {
    "ticker": "INDU-A",
@@ -3984,7 +3984,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 505,
-   "turnover": 63519257
+   "turnover": null
   },
   {
    "ticker": "INDU-C",
@@ -3996,7 +3996,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 501.2,
-   "turnover": 219194648
+   "turnover": null
   },
   {
    "ticker": "INDT",
@@ -4008,7 +4008,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 254.8,
-   "turnover": 97305252
+   "turnover": null
   },
   {
    "ticker": "IBT-B",
@@ -4020,7 +4020,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 69.4,
-   "turnover": 259734
+   "turnover": null
   },
   {
    "ticker": "INISS-B",
@@ -4032,7 +4032,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 70.2,
-   "turnover": 4119229
+   "turnover": null
   },
   {
    "ticker": "INIT",
@@ -4044,7 +4044,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.5,
-   "turnover": 128027
+   "turnover": null
   },
   {
    "ticker": "INQ",
@@ -4056,7 +4056,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.1548,
-   "turnover": 132411
+   "turnover": null
   },
   {
    "ticker": "INSTAL",
@@ -4068,7 +4068,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 40.5,
-   "turnover": 12946581
+   "turnover": null
   },
   {
    "ticker": "INTEA-B",
@@ -4080,7 +4080,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 63.3,
-   "turnover": 23426077
+   "turnover": null
   },
   {
    "ticker": "INTEA-D",
@@ -4092,7 +4092,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 29.8,
-   "turnover": 26263584
+   "turnover": null
   },
   {
    "ticker": "INTEG-B",
@@ -4104,7 +4104,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 8.14,
-   "turnover": 80180
+   "turnover": null
   },
   {
    "ticker": "IPCO",
@@ -4116,7 +4116,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 256.6,
-   "turnover": 49973419
+   "turnover": null
   },
   {
    "ticker": "IVACC",
@@ -4128,7 +4128,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.66,
-   "turnover": 184288
+   "turnover": null
   },
   {
    "ticker": "INTRUM",
@@ -4140,7 +4140,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1.606,
-   "turnover": 90272152
+   "turnover": null
   },
   {
    "ticker": "INVE-A",
@@ -4152,7 +4152,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 401.4,
-   "turnover": 154032418
+   "turnover": null
   },
   {
    "ticker": "INVE-B",
@@ -4164,7 +4164,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 408.25,
-   "turnover": 1934949489
+   "turnover": null
   },
   {
    "ticker": "IVSO",
@@ -4176,7 +4176,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 197.4,
-   "turnover": 17979648
+   "turnover": null
   },
   {
    "ticker": "INWI",
@@ -4188,7 +4188,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 187.3,
-   "turnover": 14168018
+   "turnover": null
   },
   {
    "ticker": "IRIS",
@@ -4200,7 +4200,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.25,
-   "turnover": 23184
+   "turnover": null
   },
   {
    "ticker": "IRLAB-A",
@@ -4212,7 +4212,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.729,
-   "turnover": 2036432
+   "turnover": null
   },
   {
    "ticker": "ISOFOL",
@@ -4224,7 +4224,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.99,
-   "turnover": 403190
+   "turnover": null
   },
   {
    "ticker": "ITAB",
@@ -4236,7 +4236,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 14.6,
-   "turnover": 3000316
+   "turnover": null
   },
   {
    "ticker": "IZAFE-B",
@@ -4248,7 +4248,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.189,
-   "turnover": 50249
+   "turnover": null
   },
   {
    "ticker": "JLT",
@@ -4260,7 +4260,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 1.215,
-   "turnover": 21229
+   "turnover": null
   },
   {
    "ticker": "JM",
@@ -4272,7 +4272,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 123.3,
-   "turnover": 13150363
+   "turnover": null
   },
   {
    "ticker": "JOMA",
@@ -4284,7 +4284,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 52.3,
-   "turnover": 544511
+   "turnover": null
   },
   {
    "ticker": "KFAST-B",
@@ -4296,7 +4296,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 9.4,
-   "turnover": 568454
+   "turnover": null
   },
   {
    "ticker": "K2A-B",
@@ -4308,7 +4308,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 3.6,
-   "turnover": 376216
+   "turnover": null
   },
   {
    "ticker": "K2A-PREF",
@@ -4320,7 +4320,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 88.2,
-   "turnover": 67826
+   "turnover": null
   },
   {
    "ticker": "K33",
@@ -4332,7 +4332,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0167,
-   "turnover": 556753
+   "turnover": null
   },
   {
    "ticker": "KABE-B",
@@ -4344,7 +4344,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 272,
-   "turnover": 989015
+   "turnover": null
   },
   {
    "ticker": "KAKEL",
@@ -4356,7 +4356,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 10.3,
-   "turnover": 68005
+   "turnover": null
   },
   {
    "ticker": "KAPIAB",
@@ -4368,7 +4368,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 199,
-   "turnover": 397121
+   "turnover": null
   },
   {
    "ticker": "KAMBI",
@@ -4380,7 +4380,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 160,
-   "turnover": 9813862
+   "turnover": null
   },
   {
    "ticker": "KARNEL-B",
@@ -4392,7 +4392,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 88.8,
-   "turnover": 5222487
+   "turnover": null
   },
   {
    "ticker": "KAR",
@@ -4404,7 +4404,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 81.6,
-   "turnover": 8047762
+   "turnover": null
   },
   {
    "ticker": "KBC",
@@ -4416,7 +4416,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 43.2,
-   "turnover": 64495
+   "turnover": null
   },
   {
    "ticker": "KDV-B",
@@ -4428,7 +4428,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.1538,
-   "turnover": 121696
+   "turnover": null
   },
   {
    "ticker": "KEBNI-B",
@@ -4440,7 +4440,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 0.58,
-   "turnover": 473415
+   "turnover": null
   },
   {
    "ticker": "KENH",
@@ -4464,7 +4464,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 5.14,
-   "turnover": 5492288
+   "turnover": null
   },
   {
    "ticker": "BRAVE",
@@ -4476,7 +4476,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 2.11,
-   "turnover": 301361
+   "turnover": null
   },
   {
    "ticker": "KINV-A",
@@ -4488,7 +4488,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 72.3,
-   "turnover": 239408
+   "turnover": null
   },
   {
    "ticker": "KINV-B",
@@ -4500,7 +4500,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 65.2,
-   "turnover": 89114002
+   "turnover": null
   },
   {
    "ticker": "KJELL",
@@ -4512,7 +4512,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 18.2,
-   "turnover": 4709856
+   "turnover": null
   },
   {
    "ticker": "KLAR",
@@ -4524,7 +4524,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.501,
-   "turnover": 264090
+   "turnover": null
   },
   {
    "ticker": "KLIMAT",
@@ -4536,7 +4536,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 3.67,
-   "turnover": 108858
+   "turnover": null
   },
   {
    "ticker": "KNOW",
@@ -4548,7 +4548,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 112,
-   "turnover": 5630286
+   "turnover": null
   },
   {
    "ticker": "LAGR-B",
@@ -4560,7 +4560,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 218.8,
-   "turnover": 35520315
+   "turnover": null
   },
   {
    "ticker": "LAMM-B",
@@ -4572,7 +4572,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 27.8,
-   "turnover": 64504
+   "turnover": null
   },
   {
    "ticker": "LATO-B",
@@ -4584,7 +4584,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 216.7,
-   "turnover": 63474273
+   "turnover": null
   },
   {
    "ticker": "LEA",
@@ -4596,7 +4596,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 12.58,
-   "turnover": 275821
+   "turnover": null
   },
   {
    "ticker": "LEMSE",
@@ -4608,7 +4608,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 1.174,
-   "turnover": 74883
+   "turnover": null
   },
   {
    "ticker": "LIFCO-B",
@@ -4620,7 +4620,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 276.8,
-   "turnover": 173426895
+   "turnover": null
   },
   {
    "ticker": "LIME",
@@ -4632,7 +4632,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 252.5,
-   "turnover": 6755965
+   "turnover": null
   },
   {
    "ticker": "LINC",
@@ -4644,7 +4644,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 73.6,
-   "turnover": 7122813
+   "turnover": null
   },
   {
    "ticker": "LIAB",
@@ -4656,7 +4656,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 123.4,
-   "turnover": 14172599
+   "turnover": null
   },
   {
    "ticker": "LMGAB",
@@ -4668,7 +4668,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 47.54,
-   "turnover": 2003615
+   "turnover": null
   },
   {
    "ticker": "LITI",
@@ -4680,7 +4680,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 9.2,
-   "turnover": 452993
+   "turnover": null
   },
   {
    "ticker": "LOGI-B",
@@ -4692,7 +4692,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 14.52,
-   "turnover": 8770429
+   "turnover": null
   },
   {
    "ticker": "LOOMIS",
@@ -4704,7 +4704,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 530,
-   "turnover": 46001284
+   "turnover": null
   },
   {
    "ticker": "LOYAL",
@@ -4716,7 +4716,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 10.7,
-   "turnover": 19911
+   "turnover": null
   },
   {
    "ticker": "LUC",
@@ -4728,7 +4728,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 0.87,
-   "turnover": 289875
+   "turnover": null
   },
   {
    "ticker": "LUMEN",
@@ -4740,7 +4740,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 35,
-   "turnover": 698677
+   "turnover": null
   },
   {
    "ticker": "LUND-B",
@@ -4752,7 +4752,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 577,
-   "turnover": 48634532
+   "turnover": null
   },
   {
    "ticker": "LUG",
@@ -4764,7 +4764,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 606.8,
-   "turnover": 71404630
+   "turnover": null
   },
   {
    "ticker": "LUMI",
@@ -4776,7 +4776,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 165.7,
-   "turnover": 383445014
+   "turnover": null
   },
   {
    "ticker": "LXB",
@@ -4788,7 +4788,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 5.88,
-   "turnover": 447
+   "turnover": null
   },
   {
    "ticker": "LYGRD",
@@ -4800,7 +4800,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 2.39,
-   "turnover": 11752
+   "turnover": null
   },
   {
    "ticker": "LYKO-A",
@@ -4812,7 +4812,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 100.6,
-   "turnover": 1948522
+   "turnover": null
   },
   {
    "ticker": "LARK",
@@ -4824,7 +4824,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 2.26,
-   "turnover": 13218
+   "turnover": null
   },
   {
    "ticker": "MOBA",
@@ -4836,7 +4836,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.76,
-   "turnover": 1755
+   "turnover": null
   },
   {
    "ticker": "MAGI",
@@ -4848,7 +4848,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 9.28,
-   "turnover": 307227
+   "turnover": null
   },
   {
    "ticker": "MEAB-B",
@@ -4860,7 +4860,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 30.2,
-   "turnover": 27280
+   "turnover": null
   },
   {
    "ticker": "MANG",
@@ -4872,7 +4872,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 895,
-   "turnover": 295270
+   "turnover": null
   },
   {
    "ticker": "MANTEX",
@@ -4884,7 +4884,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 4.97,
-   "turnover": 1229
+   "turnover": null
   },
   {
    "ticker": "MAVEN",
@@ -4896,7 +4896,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 4.68,
-   "turnover": 344
+   "turnover": null
   },
   {
    "ticker": "MAXENT-B",
@@ -4908,7 +4908,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.131,
-   "turnover": 1654
+   "turnover": null
   },
   {
    "ticker": "MCAP",
@@ -4920,7 +4920,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 541.5,
-   "turnover": 5587434
+   "turnover": null
   },
   {
    "ticker": "MCOV-B",
@@ -4932,7 +4932,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 256.5,
-   "turnover": 9539309
+   "turnover": null
   },
   {
    "ticker": "MVIR",
@@ -4944,7 +4944,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.044,
-   "turnover": 2584576
+   "turnover": null
   },
   {
    "ticker": "MEDS",
@@ -4956,7 +4956,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 23,
-   "turnover": 170568
+   "turnover": null
   },
   {
    "ticker": "MEKO",
@@ -4968,7 +4968,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 52.35,
-   "turnover": 10825946
+   "turnover": null
   },
   {
    "ticker": "IMMU",
@@ -4980,7 +4980,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 3.5,
-   "turnover": 83741
+   "turnover": null
   },
   {
    "ticker": "MNTC",
@@ -4992,7 +4992,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 16.4,
-   "turnover": 200420
+   "turnover": null
   },
   {
    "ticker": "MER",
@@ -5004,7 +5004,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 11.98,
-   "turnover": 19849655
+   "turnover": null
   },
   {
    "ticker": "META",
@@ -5016,7 +5016,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 0.0869,
-   "turnover": 476948
+   "turnover": null
   },
   {
    "ticker": "MSAB-B",
@@ -5028,7 +5028,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 96.2,
-   "turnover": 2114395
+   "turnover": null
   },
   {
    "ticker": "MSON-A",
@@ -5052,7 +5052,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 9.24,
-   "turnover": 442539
+   "turnover": null
   },
   {
    "ticker": "MIDS",
@@ -5064,7 +5064,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 1.218,
-   "turnover": 577251
+   "turnover": null
   },
   {
    "ticker": "MILDEF",
@@ -5076,7 +5076,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 233.7,
-   "turnover": 52089146
+   "turnover": null
   },
   {
    "ticker": "MINEST",
@@ -5088,7 +5088,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 0.6,
-   "turnover": 994742
+   "turnover": null
   },
   {
    "ticker": "MIPS",
@@ -5100,7 +5100,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 439.6,
-   "turnover": 26164559
+   "turnover": null
   },
   {
    "ticker": "MOB",
@@ -5112,7 +5112,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 9.6,
-   "turnover": 1669014
+   "turnover": null
   },
   {
    "ticker": "MODEL",
@@ -5124,7 +5124,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 9.1,
-   "turnover": 546
+   "turnover": null
   },
   {
    "ticker": "MTG-A",
@@ -5136,7 +5136,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 103,
-   "turnover": 12875
+   "turnover": null
   },
   {
    "ticker": "MTG-B",
@@ -5148,7 +5148,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 102,
-   "turnover": 44962477
+   "turnover": null
   },
   {
    "ticker": "MODTX",
@@ -5160,7 +5160,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.1345,
-   "turnover": 60502
+   "turnover": null
   },
   {
    "ticker": "MOMENT",
@@ -5172,7 +5172,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 5.26,
-   "turnover": 49972
+   "turnover": null
   },
   {
    "ticker": "MMGR-B",
@@ -5184,7 +5184,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 128.2,
-   "turnover": 1788171
+   "turnover": null
   },
   {
    "ticker": "MORROW",
@@ -5196,7 +5196,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 17.72,
-   "turnover": 15805022
+   "turnover": null
   },
   {
    "ticker": "MTI",
@@ -5208,7 +5208,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1.09,
-   "turnover": 136
+   "turnover": null
   },
   {
    "ticker": "MTRS",
@@ -5220,7 +5220,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 126.9,
-   "turnover": 319749006
+   "turnover": null
   },
   {
    "ticker": "MYCR",
@@ -5232,7 +5232,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 283,
-   "turnover": 123792096
+   "turnover": null
   },
   {
    "ticker": "SAFETY-B",
@@ -5244,7 +5244,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 18.62,
-   "turnover": 113782
+   "turnover": null
   },
   {
    "ticker": "NANEXA",
@@ -5256,7 +5256,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 9.69,
-   "turnover": 7818683
+   "turnover": null
   },
   {
    "ticker": "NANOC-B",
@@ -5268,7 +5268,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 3.52,
-   "turnover": 5280
+   "turnover": null
   },
   {
    "ticker": "NANOFS",
@@ -5280,7 +5280,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 8.16,
-   "turnover": 58782
+   "turnover": null
   },
   {
    "ticker": "NICA",
@@ -5292,7 +5292,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.1645,
-   "turnover": 20162
+   "turnover": null
   },
   {
    "ticker": "NAVIGO-STAM",
@@ -5304,7 +5304,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 2.22,
-   "turnover": 91554
+   "turnover": null
   },
   {
    "ticker": "NAVIGO-PREF",
@@ -5316,7 +5316,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 128,
-   "turnover": 670869
+   "turnover": null
   },
   {
    "ticker": "NAXS",
@@ -5328,7 +5328,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 34.1,
-   "turnover": 36380
+   "turnover": null
   },
   {
    "ticker": "NCAB",
@@ -5340,7 +5340,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 72.3,
-   "turnover": 27983051
+   "turnover": null
   },
   {
    "ticker": "NCC-A",
@@ -5352,7 +5352,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 184.5,
-   "turnover": 1004446
+   "turnover": null
   },
   {
    "ticker": "NCC-B",
@@ -5364,7 +5364,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 184.2,
-   "turnover": 32706908
+   "turnover": null
   },
   {
    "ticker": "NMAN",
@@ -5376,7 +5376,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 140.2,
-   "turnover": 3406940
+   "turnover": null
   },
   {
    "ticker": "NEEMS-B",
@@ -5388,7 +5388,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2,
-   "turnover": 54
+   "turnover": null
   },
   {
    "ticker": "NELLY",
@@ -5400,7 +5400,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 30.5,
-   "turnover": 4287352
+   "turnover": null
   },
   {
    "ticker": "NEOBO",
@@ -5412,7 +5412,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 16.42,
-   "turnover": 7484214
+   "turnover": null
   },
   {
    "ticker": "NEOLA",
@@ -5424,7 +5424,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.505,
-   "turnover": 149
+   "turnover": null
   },
   {
    "ticker": "NEO-B",
@@ -5436,7 +5436,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 1.575,
-   "turnover": 86299
+   "turnover": null
   },
   {
    "ticker": "NEPA",
@@ -5448,7 +5448,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 8,
-   "turnover": 207962
+   "turnover": null
   },
   {
    "ticker": "NETI-B",
@@ -5460,7 +5460,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 2.52,
-   "turnover": 993604
+   "turnover": null
   },
   {
    "ticker": "NETEL",
@@ -5472,7 +5472,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 2.615,
-   "turnover": 1783821
+   "turnover": null
   },
   {
    "ticker": "BBROOM",
@@ -5484,7 +5484,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 10.3,
-   "turnover": 132148
+   "turnover": null
   },
   {
    "ticker": "NNH",
@@ -5496,7 +5496,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 15.05,
-   "turnover": 122701
+   "turnover": null
   },
   {
    "ticker": "NEWA-B",
@@ -5508,7 +5508,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 96.05,
-   "turnover": 28309932
+   "turnover": null
   },
   {
    "ticker": "NEWBRY",
@@ -5520,7 +5520,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.945,
-   "turnover": 21650
+   "turnover": null
   },
   {
    "ticker": "NEXAM",
@@ -5532,7 +5532,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2.09,
-   "turnover": 679787
+   "turnover": null
   },
   {
    "ticker": "NXTCL",
@@ -5544,7 +5544,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.2175,
-   "turnover": 302387
+   "turnover": null
   },
   {
    "ticker": "NIBE-B",
@@ -5556,7 +5556,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 43.31,
-   "turnover": 267223318
+   "turnover": null
   },
   {
    "ticker": "NICO",
@@ -5580,7 +5580,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 12.45,
-   "turnover": 300932
+   "turnover": null
   },
   {
    "ticker": "NITRO",
@@ -5592,7 +5592,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 1.365,
-   "turnover": 65601
+   "turnover": null
   },
   {
    "ticker": "NIVI-B",
@@ -5604,7 +5604,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 38.75,
-   "turnover": 1632719
+   "turnover": null
   },
   {
    "ticker": "NOBA",
@@ -5616,7 +5616,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 96,
-   "turnover": 68903385
+   "turnover": null
   },
   {
    "ticker": "NOBI",
@@ -5628,7 +5628,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 10.25,
-   "turnover": 7990250
+   "turnover": null
   },
   {
    "ticker": "NOLA-B",
@@ -5640,7 +5640,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 51.3,
-   "turnover": 10921110
+   "turnover": null
   },
   {
    "ticker": "NRDAMP",
@@ -5652,7 +5652,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 7.97,
-   "turnover": 45699
+   "turnover": null
   },
   {
    "ticker": "NDA-SE",
@@ -5664,7 +5664,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 182.2,
-   "turnover": 564510542
+   "turnover": null
   },
   {
    "ticker": "NFGAB",
@@ -5676,7 +5676,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 29.2,
-   "turnover": 155233
+   "turnover": null
   },
   {
    "ticker": "NIO",
@@ -5688,7 +5688,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2.08,
-   "turnover": 163384
+   "turnover": null
   },
   {
    "ticker": "LEVEL",
@@ -5700,7 +5700,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.269,
-   "turnover": 593
+   "turnover": null
   },
   {
    "ticker": "NORB-B",
@@ -5712,7 +5712,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 7.82,
-   "turnover": 629899
+   "turnover": null
   },
   {
    "ticker": "NOTEK",
@@ -5724,7 +5724,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 5.84,
-   "turnover": 2467
+   "turnover": null
   },
   {
    "ticker": "SAVE",
@@ -5736,7 +5736,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 344.6,
-   "turnover": 68226827
+   "turnover": null
   },
   {
    "ticker": "NREST",
@@ -5748,7 +5748,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 257,
-   "turnover": 2632046
+   "turnover": null
   },
   {
    "ticker": "NORDVI",
@@ -5760,7 +5760,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 0.44,
-   "turnover": 134304
+   "turnover": null
   },
   {
    "ticker": "NORION",
@@ -5772,7 +5772,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 67.1,
-   "turnover": 14652730
+   "turnover": null
   },
   {
    "ticker": "NOSA",
@@ -5784,7 +5784,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.456,
-   "turnover": 153751
+   "turnover": null
   },
   {
    "ticker": "NOTE",
@@ -5796,7 +5796,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 157.9,
-   "turnover": 20933606
+   "turnover": null
   },
   {
    "ticker": "NTEK-B",
@@ -5808,7 +5808,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 68.5,
-   "turnover": 271657
+   "turnover": null
   },
   {
    "ticker": "NP3",
@@ -5820,7 +5820,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 225.5,
-   "turnover": 5376187
+   "turnover": null
   },
   {
    "ticker": "NP3-PREF",
@@ -5832,7 +5832,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 29.85,
-   "turnover": 3002446
+   "turnover": null
   },
   {
    "ticker": "NYAB",
@@ -5844,7 +5844,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 7.45,
-   "turnover": 6866171
+   "turnover": null
   },
   {
    "ticker": "NYOR",
@@ -5856,7 +5856,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 6.5,
-   "turnover": 482764
+   "turnover": null
   },
   {
    "ticker": "OBSE",
@@ -5868,7 +5868,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.425,
-   "turnover": 251163
+   "turnover": null
   },
   {
    "ticker": "OCTV-SDB",
@@ -5880,7 +5880,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 209.9,
-   "turnover": 146510808
+   "turnover": null
   },
   {
    "ticker": "OEM-B",
@@ -5892,7 +5892,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 157.6,
-   "turnover": 16626149
+   "turnover": null
   },
   {
    "ticker": "OGUN-B",
@@ -5904,7 +5904,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 23.9,
-   "turnover": 97650
+   "turnover": null
   },
   {
    "ticker": "ONCO",
@@ -5916,7 +5916,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.64,
-   "turnover": 2975770
+   "turnover": null
   },
   {
    "ticker": "ONCOZ",
@@ -5928,7 +5928,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.855,
-   "turnover": 121782
+   "turnover": null
   },
   {
    "ticker": "ONEF",
@@ -5940,7 +5940,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 17.1,
-   "turnover": 325535
+   "turnover": null
   },
   {
    "ticker": "OBAB",
@@ -5952,7 +5952,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 18.85,
-   "turnover": 152148
+   "turnover": null
   },
   {
    "ticker": "OODA",
@@ -5964,7 +5964,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 9.39,
-   "turnover": 1042
+   "turnover": null
   },
   {
    "ticker": "OPTER",
@@ -5976,7 +5976,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 93,
-   "turnover": 352162
+   "turnover": null
   },
   {
    "ticker": "OPTI",
@@ -5988,7 +5988,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 1.7,
-   "turnover": 186332
+   "turnover": null
   },
   {
    "ticker": "ORX",
@@ -6000,7 +6000,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.983,
-   "turnover": 278612
+   "turnover": null
   },
   {
    "ticker": "ORGC",
@@ -6012,7 +6012,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 0.44,
-   "turnover": 27796
+   "turnover": null
   },
   {
    "ticker": "ORRON",
@@ -6024,7 +6024,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 7.77,
-   "turnover": 10286604
+   "turnover": null
   },
   {
    "ticker": "ORTIN",
@@ -6036,7 +6036,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.0208,
-   "turnover": 19756
+   "turnover": null
   },
   {
    "ticker": "ORTI-A",
@@ -6048,7 +6048,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.69,
-   "turnover": 20516
+   "turnover": null
   },
   {
    "ticker": "ORTI-B",
@@ -6060,7 +6060,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.6,
-   "turnover": 29089
+   "turnover": null
   },
   {
    "ticker": "ORT-B",
@@ -6072,7 +6072,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 10.02,
-   "turnover": 457167
+   "turnover": null
   },
   {
    "ticker": "OSSD",
@@ -6084,7 +6084,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 2.98,
-   "turnover": 1434030
+   "turnover": null
   },
   {
    "ticker": "OVZON",
@@ -6096,7 +6096,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 35.54,
-   "turnover": 9833332
+   "turnover": null
   },
   {
    "ticker": "OXE",
@@ -6108,7 +6108,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.228,
-   "turnover": 39741
+   "turnover": null
   },
   {
    "ticker": "PNDX-B",
@@ -6120,7 +6120,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 168.4,
-   "turnover": 13326334
+   "turnover": null
   },
   {
    "ticker": "PDX",
@@ -6132,7 +6132,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 140.6,
-   "turnover": 12237634
+   "turnover": null
   },
   {
    "ticker": "PAX",
@@ -6144,7 +6144,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 64.2,
-   "turnover": 6038504
+   "turnover": null
   },
   {
    "ticker": "PEAB-B",
@@ -6156,7 +6156,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 96.35,
-   "turnover": 23216047
+   "turnover": null
   },
   {
    "ticker": "PERP-B",
@@ -6168,7 +6168,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.75,
-   "turnover": 11425
+   "turnover": null
   },
   {
    "ticker": "PTRK",
@@ -6180,7 +6180,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 10.55,
-   "turnover": 2131104
+   "turnover": null
   },
   {
    "ticker": "PIERCE",
@@ -6192,7 +6192,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 8.75,
-   "turnover": 886096
+   "turnover": null
   },
   {
    "ticker": "PILA",
@@ -6204,7 +6204,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 1.57,
-   "turnover": 41033
+   "turnover": null
   },
   {
    "ticker": "PION-B",
@@ -6216,7 +6216,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 7.5,
-   "turnover": 61217
+   "turnover": null
   },
   {
    "ticker": "PLAZ-B",
@@ -6228,7 +6228,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 59.8,
-   "turnover": 18034883
+   "turnover": null
   },
   {
    "ticker": "POLYG",
@@ -6240,7 +6240,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2.46,
-   "turnover": 13246
+   "turnover": null
   },
   {
    "ticker": "PCELL",
@@ -6252,7 +6252,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 19.4,
-   "turnover": 27960010
+   "turnover": null
   },
   {
    "ticker": "PUBLI",
@@ -6264,7 +6264,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 18.06,
-   "turnover": 16750178
+   "turnover": null
   },
   {
    "ticker": "PRCO-B",
@@ -6276,7 +6276,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 17.1,
-   "turnover": 20532
+   "turnover": null
   },
   {
    "ticker": "PREC",
@@ -6288,7 +6288,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.485,
-   "turnover": 576774
+   "turnover": null
   },
   {
    "ticker": "PCOM-B",
@@ -6300,7 +6300,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.94,
-   "turnover": 5838
+   "turnover": null
   },
   {
    "ticker": "SNX",
@@ -6312,7 +6312,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 30.9,
-   "turnover": 1344816
+   "turnover": null
   },
   {
    "ticker": "PREV-B",
@@ -6324,7 +6324,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 71.9,
-   "turnover": 2201494
+   "turnover": null
   },
   {
    "ticker": "PRIC-B",
@@ -6336,7 +6336,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 5.68,
-   "turnover": 11944991
+   "turnover": null
   },
   {
    "ticker": "PJ",
@@ -6348,7 +6348,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 27.2,
-   "turnover": 319300
+   "turnover": null
   },
   {
    "ticker": "PRISMA",
@@ -6360,7 +6360,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 28.8,
-   "turnover": 4808311
+   "turnover": null
   },
   {
    "ticker": "PACT",
@@ -6372,7 +6372,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 135.2,
-   "turnover": 12432520
+   "turnover": null
   },
   {
    "ticker": "PROF-B",
@@ -6384,7 +6384,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 109,
-   "turnover": 283924
+   "turnover": null
   },
   {
    "ticker": "PRFO",
@@ -6396,7 +6396,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 5.02,
-   "turnover": 15620
+   "turnover": null
   },
   {
    "ticker": "PRO",
@@ -6408,7 +6408,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 9,
-   "turnover": 22782
+   "turnover": null
   },
   {
    "ticker": "PROGEN",
@@ -6420,7 +6420,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.0892,
-   "turnover": 96912
+   "turnover": null
   },
   {
    "ticker": "QLINEA",
@@ -6432,7 +6432,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 11.15,
-   "turnover": 251246
+   "turnover": null
   },
   {
    "ticker": "QBEN",
@@ -6444,7 +6444,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 5.4,
-   "turnover": 152489
+   "turnover": null
   },
   {
    "ticker": "QBIM",
@@ -6456,7 +6456,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.196,
-   "turnover": 49
+   "turnover": null
   },
   {
    "ticker": "QIIWI",
@@ -6468,7 +6468,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 5.2,
-   "turnover": 11175
+   "turnover": null
   },
   {
    "ticker": "QAIR",
@@ -6480,7 +6480,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 16.8,
-   "turnover": 634953
+   "turnover": null
   },
   {
    "ticker": "QLIFE",
@@ -6492,7 +6492,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.881,
-   "turnover": 14841
+   "turnover": null
   },
   {
    "ticker": "QLIRO",
@@ -6504,7 +6504,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 23,
-   "turnover": 488625
+   "turnover": null
   },
   {
    "ticker": "QCORE",
@@ -6528,7 +6528,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 39.75,
-   "turnover": 744620
+   "turnover": null
   },
   {
    "ticker": "RAIL",
@@ -6540,7 +6540,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 31.8,
-   "turnover": 365111
+   "turnover": null
   },
   {
    "ticker": "RAKE",
@@ -6552,7 +6552,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 1.92,
-   "turnover": 47224
+   "turnover": null
   },
   {
    "ticker": "RPLAN",
@@ -6564,7 +6564,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.505,
-   "turnover": 169
+   "turnover": null
   },
   {
    "ticker": "RATO-A",
@@ -6576,7 +6576,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 40.7,
-   "turnover": 60385
+   "turnover": null
   },
   {
    "ticker": "RATO-B",
@@ -6588,7 +6588,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 40.3,
-   "turnover": 12929145
+   "turnover": null
   },
   {
    "ticker": "RAY-B",
@@ -6600,7 +6600,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 168.6,
-   "turnover": 24798734
+   "turnover": null
   },
   {
    "ticker": "REALFI",
@@ -6612,7 +6612,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.0398,
-   "turnover": 171719
+   "turnover": null
   },
   {
    "ticker": "REJL-B",
@@ -6624,7 +6624,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 136.4,
-   "turnover": 1852783
+   "turnover": null
   },
   {
    "ticker": "RROS",
@@ -6636,7 +6636,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 2.005,
-   "turnover": 585940
+   "turnover": null
   },
   {
    "ticker": "RUG",
@@ -6648,7 +6648,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 84,
-   "turnover": 4256639
+   "turnover": null
   },
   {
    "ticker": "RUSTA",
@@ -6660,7 +6660,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 77.95,
-   "turnover": 12485810
+   "turnover": null
   },
   {
    "ticker": "RVRC",
@@ -6672,7 +6672,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 53.65,
-   "turnover": 38243868
+   "turnover": null
   },
   {
    "ticker": "ROKO-B",
@@ -6684,7 +6684,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1924,
-   "turnover": 19049000
+   "turnover": null
   },
   {
    "ticker": "S2M",
@@ -6696,7 +6696,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.003,
-   "turnover": 45051
+   "turnover": null
   },
   {
    "ticker": "SAAB-B",
@@ -6708,7 +6708,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 591.5,
-   "turnover": 742414104
+   "turnover": null
   },
   {
    "ticker": "SFL",
@@ -6720,7 +6720,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 2.73,
-   "turnover": 5126
+   "turnover": null
   },
   {
    "ticker": "SFTR",
@@ -6732,7 +6732,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 3.42,
-   "turnover": 24446
+   "turnover": null
   },
   {
    "ticker": "SAGA-A",
@@ -6744,7 +6744,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 179,
-   "turnover": 113171
+   "turnover": null
   },
   {
    "ticker": "SAGA-B",
@@ -6756,7 +6756,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 179.7,
-   "turnover": 58377706
+   "turnover": null
   },
   {
    "ticker": "SAGA-D",
@@ -6768,7 +6768,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 31.35,
-   "turnover": 11479482
+   "turnover": null
   },
   {
    "ticker": "SALIX",
@@ -6780,7 +6780,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 61.7,
-   "turnover": 1761199
+   "turnover": null
   },
   {
    "ticker": "SALT-B",
@@ -6792,7 +6792,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 3.79,
-   "turnover": 918979
+   "turnover": null
   },
   {
    "ticker": "SBB-B",
@@ -6804,7 +6804,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 2.088,
-   "turnover": 10435074
+   "turnover": null
   },
   {
    "ticker": "SBB-D",
@@ -6816,7 +6816,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 7.02,
-   "turnover": 2795332
+   "turnover": null
   },
   {
    "ticker": "SAMPO-SEK",
@@ -6828,7 +6828,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 110.15,
-   "turnover": 6692661
+   "turnover": null
   },
   {
    "ticker": "SAND",
@@ -6840,7 +6840,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 324.3,
-   "turnover": 1418540707
+   "turnover": null
   },
   {
    "ticker": "SANION",
@@ -6852,7 +6852,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 11.23,
-   "turnover": 2898580
+   "turnover": null
   },
   {
    "ticker": "YIELD",
@@ -6864,7 +6864,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1.465,
-   "turnover": 4342
+   "turnover": null
   },
   {
    "ticker": "SAXG",
@@ -6876,7 +6876,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 8.56,
-   "turnover": 10384
+   "turnover": null
   },
   {
    "ticker": "SCA-A",
@@ -6888,7 +6888,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 111.5,
-   "turnover": 3325134
+   "turnover": null
   },
   {
    "ticker": "SCA-B",
@@ -6900,7 +6900,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 111.75,
-   "turnover": 288953333
+   "turnover": null
   },
   {
    "ticker": "SBOK-B",
@@ -6912,7 +6912,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 48.9,
-   "turnover": 154703
+   "turnover": null
   },
   {
    "ticker": "SCST",
@@ -6924,7 +6924,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 201,
-   "turnover": 26656499
+   "turnover": null
   },
   {
    "ticker": "SHOT",
@@ -6936,7 +6936,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 104.8,
-   "turnover": 18491039
+   "turnover": null
   },
   {
    "ticker": "SDOS",
@@ -6948,7 +6948,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.408,
-   "turnover": 3837
+   "turnover": null
   },
   {
    "ticker": "SES",
@@ -6960,7 +6960,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.086,
-   "turnover": 301465
+   "turnover": null
   },
   {
    "ticker": "HEART",
@@ -6972,7 +6972,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 15.2,
-   "turnover": 36979
+   "turnover": null
   },
   {
    "ticker": "SCIB",
@@ -6984,7 +6984,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 9.1,
-   "turnover": 128515
+   "turnover": null
   },
   {
    "ticker": "SDIP-B",
@@ -6996,7 +6996,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 248,
-   "turnover": 21531900
+   "turnover": null
   },
   {
    "ticker": "SEAF",
@@ -7008,7 +7008,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 6.54,
-   "turnover": 36031
+   "turnover": null
   },
   {
    "ticker": "STW",
@@ -7020,7 +7020,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 16.98,
-   "turnover": 19201
+   "turnover": null
   },
   {
    "ticker": "SEB-A",
@@ -7032,7 +7032,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 211.3,
-   "turnover": 780409469
+   "turnover": null
   },
   {
    "ticker": "SEB-C",
@@ -7044,7 +7044,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 218.5,
-   "turnover": 6328418
+   "turnover": null
   },
   {
    "ticker": "SECT-B",
@@ -7056,7 +7056,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 330.2,
-   "turnover": 40393094
+   "turnover": null
   },
   {
    "ticker": "SECU-B",
@@ -7068,7 +7068,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 158.2,
-   "turnover": 171390795
+   "turnover": null
   },
   {
    "ticker": "SEDANA",
@@ -7080,7 +7080,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 8.65,
-   "turnover": 1655170
+   "turnover": null
   },
   {
    "ticker": "SGG",
@@ -7092,7 +7092,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 36.95,
-   "turnover": 1150079
+   "turnover": null
   },
   {
    "ticker": "SENZA",
@@ -7104,7 +7104,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 4.59,
-   "turnover": 132698
+   "turnover": null
   },
   {
    "ticker": "SEZI",
@@ -7116,7 +7116,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 3.245,
-   "turnover": 1588456
+   "turnover": null
   },
   {
    "ticker": "SERT",
@@ -7128,7 +7128,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.45,
-   "turnover": 124169
+   "turnover": null
   },
   {
    "ticker": "SNM-SDB",
@@ -7140,7 +7140,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 1.712,
-   "turnover": 10848780
+   "turnover": null
   },
   {
    "ticker": "SIBEK",
@@ -7152,7 +7152,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 45,
-   "turnover": 19697
+   "turnover": null
   },
   {
    "ticker": "SILEX",
@@ -7164,7 +7164,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 127.85,
-   "turnover": 18027875
+   "turnover": null
   },
   {
    "ticker": "SIVI",
@@ -7176,7 +7176,7 @@
    "sector": "Kraftförsörjning",
    "currency": "SEK",
    "price": 122.6,
-   "turnover": 184455
+   "turnover": null
   },
   {
    "ticker": "SIMRIS-B",
@@ -7188,7 +7188,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 0.0874,
-   "turnover": 1025
+   "turnover": null
   },
   {
    "ticker": "SINCH",
@@ -7200,7 +7200,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 38.51,
-   "turnover": 105684150
+   "turnover": null
   },
   {
    "ticker": "SINT",
@@ -7212,7 +7212,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 113,
-   "turnover": 439322
+   "turnover": null
   },
   {
    "ticker": "SIVE",
@@ -7224,7 +7224,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 11.41,
-   "turnover": 108743688
+   "turnover": null
   },
   {
    "ticker": "SKA-B",
@@ -7236,7 +7236,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 293.8,
-   "turnover": 439426583
+   "turnover": null
   },
   {
    "ticker": "SKF-A",
@@ -7248,7 +7248,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 266,
-   "turnover": 2979263
+   "turnover": null
   },
   {
    "ticker": "SKF-B",
@@ -7260,7 +7260,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 261.2,
-   "turnover": 484545583
+   "turnover": null
   },
   {
    "ticker": "SKIS-B",
@@ -7272,7 +7272,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 196.5,
-   "turnover": 10630932
+   "turnover": null
   },
   {
    "ticker": "SKOLON",
@@ -7284,7 +7284,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 22,
-   "turnover": 5910
+   "turnover": null
   },
   {
    "ticker": "SKMO",
@@ -7296,7 +7296,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 55,
-   "turnover": 6179
+   "turnover": null
   },
   {
    "ticker": "SLEEP",
@@ -7308,7 +7308,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 24.45,
-   "turnover": 293813
+   "turnover": null
   },
   {
    "ticker": "SEYE",
@@ -7320,7 +7320,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 45.5,
-   "turnover": 14015978
+   "turnover": null
   },
   {
    "ticker": "SMCRT",
@@ -7332,7 +7332,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 18.5,
-   "turnover": 731615
+   "turnover": null
   },
   {
    "ticker": "SOF-B",
@@ -7344,7 +7344,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 18.78,
-   "turnover": 830819
+   "turnover": null
   },
   {
    "ticker": "SFAB",
@@ -7356,7 +7356,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 110.8,
-   "turnover": 3228471
+   "turnover": null
   },
   {
    "ticker": "SOLNA",
@@ -7368,7 +7368,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 115,
-   "turnover": 454222
+   "turnover": null
   },
   {
    "ticker": "SOLT",
@@ -7380,7 +7380,7 @@
    "sector": "Energi",
    "currency": "SEK",
    "price": 0.046,
-   "turnover": 2666278
+   "turnover": null
   },
   {
    "ticker": "SONE",
@@ -7404,7 +7404,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 4.02,
-   "turnover": 6115
+   "turnover": null
   },
   {
    "ticker": "SPAGO",
@@ -7416,7 +7416,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.041,
-   "turnover": 1605
+   "turnover": null
   },
   {
    "ticker": "SPEC",
@@ -7428,7 +7428,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.0136,
-   "turnover": 66865
+   "turnover": null
   },
   {
    "ticker": "SPEONE",
@@ -7440,7 +7440,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.1415,
-   "turnover": 25075
+   "turnover": null
   },
   {
    "ticker": "SPRINT",
@@ -7452,7 +7452,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 3.68,
-   "turnover": 722958
+   "turnover": null
   },
   {
    "ticker": "SSAB-A",
@@ -7464,7 +7464,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 86.44,
-   "turnover": 48898417
+   "turnover": null
   },
   {
    "ticker": "SSAB-B",
@@ -7476,7 +7476,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 87.96,
-   "turnover": 278451914
+   "turnover": null
   },
   {
    "ticker": "STAR-A",
@@ -7488,7 +7488,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.124,
-   "turnover": 24
+   "turnover": null
   },
   {
    "ticker": "STAR-B",
@@ -7500,7 +7500,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 0.0933,
-   "turnover": 107144
+   "turnover": null
   },
   {
    "ticker": "STEF-B",
@@ -7512,7 +7512,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 156,
-   "turnover": 1727738
+   "turnover": null
   },
   {
    "ticker": "SFAST",
@@ -7524,7 +7524,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 11.1,
-   "turnover": 1127843
+   "turnover": null
   },
   {
    "ticker": "STIL",
@@ -7536,7 +7536,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 247.5,
-   "turnover": 1452225
+   "turnover": null
   },
   {
    "ticker": "SF",
@@ -7548,7 +7548,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 5.935,
-   "turnover": 9443884
+   "turnover": null
   },
   {
    "ticker": "NTECH",
@@ -7560,7 +7560,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 69.95,
-   "turnover": 2753297
+   "turnover": null
   },
   {
    "ticker": "STWK",
@@ -7572,7 +7572,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 13.45,
-   "turnover": 31575
+   "turnover": null
   },
   {
    "ticker": "STE-A",
@@ -7584,7 +7584,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 100,
-   "turnover": 247581
+   "turnover": null
   },
   {
    "ticker": "STE-R",
@@ -7596,7 +7596,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 100.4,
-   "turnover": 19138127
+   "turnover": null
   },
   {
    "ticker": "STOR-B",
@@ -7608,7 +7608,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 10.965,
-   "turnover": 24964094
+   "turnover": null
   },
   {
    "ticker": "STORY-B",
@@ -7620,7 +7620,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 128.1,
-   "turnover": 27109781
+   "turnover": null
   },
   {
    "ticker": "STUDBO",
@@ -7632,7 +7632,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 1.205,
-   "turnover": 62709
+   "turnover": null
   },
   {
    "ticker": "SVIK",
@@ -7644,7 +7644,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 189.4,
-   "turnover": 12322922
+   "turnover": null
   },
   {
    "ticker": "SUBGEN",
@@ -7656,7 +7656,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0112,
-   "turnover": 213793
+   "turnover": null
   },
   {
    "ticker": "SUMMAS",
@@ -7668,7 +7668,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 1.83,
-   "turnover": 20540
+   "turnover": null
   },
   {
    "ticker": "SUS",
@@ -7680,7 +7680,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 60.25,
-   "turnover": 16942665
+   "turnover": null
   },
   {
    "ticker": "SHB-A",
@@ -7692,7 +7692,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 158.3,
-   "turnover": 1041799658
+   "turnover": null
   },
   {
    "ticker": "SHB-B",
@@ -7704,7 +7704,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 246.6,
-   "turnover": 21099965
+   "turnover": null
   },
   {
    "ticker": "SVEAF-B",
@@ -7716,7 +7716,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 32.04,
-   "turnover": 8265920
+   "turnover": null
   },
   {
    "ticker": "SVED-B",
@@ -7728,7 +7728,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 55.8,
-   "turnover": 2386893
+   "turnover": null
   },
   {
    "ticker": "AERO",
@@ -7740,7 +7740,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 0.456,
-   "turnover": 36113
+   "turnover": null
   },
   {
    "ticker": "SVEVIK",
@@ -7752,7 +7752,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 47.5,
-   "turnover": 153077
+   "turnover": null
   },
   {
    "ticker": "SVOL-A",
@@ -7764,7 +7764,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 107,
-   "turnover": 642
+   "turnover": null
   },
   {
    "ticker": "SVOL-B",
@@ -7776,7 +7776,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 61.3,
-   "turnover": 10579939
+   "turnover": null
   },
   {
    "ticker": "SWEC-A",
@@ -7788,7 +7788,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 136,
-   "turnover": 37217
+   "turnover": null
   },
   {
    "ticker": "SWEC-B",
@@ -7800,7 +7800,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 136,
-   "turnover": 35454757
+   "turnover": null
   },
   {
    "ticker": "SWED-A",
@@ -7812,7 +7812,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 403.5,
-   "turnover": 848372512
+   "turnover": null
   },
   {
    "ticker": "BUY",
@@ -7824,7 +7824,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 7.3,
-   "turnover": 8823
+   "turnover": null
   },
   {
    "ticker": "SECARE",
@@ -7836,7 +7836,7 @@
    "sector": "Dagligvaror",
    "currency": "SEK",
    "price": 20.1,
-   "turnover": 3761561
+   "turnover": null
   },
   {
    "ticker": "SLP-B",
@@ -7848,7 +7848,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 34.3,
-   "turnover": 5154267
+   "turnover": null
   },
   {
    "ticker": "SOBI",
@@ -7860,7 +7860,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 464,
-   "turnover": 363678458
+   "turnover": null
   },
   {
    "ticker": "SYNACT",
@@ -7872,7 +7872,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 13,
-   "turnover": 1638286
+   "turnover": null
   },
   {
    "ticker": "SYNSAM",
@@ -7884,7 +7884,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 59.9,
-   "turnover": 8503016
+   "turnover": null
   },
   {
    "ticker": "SYSR",
@@ -7896,7 +7896,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 83.8,
-   "turnover": 10017676
+   "turnover": null
   },
   {
    "ticker": "SODER",
@@ -7908,7 +7908,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 21.4,
-   "turnover": 101147
+   "turnover": null
   },
   {
    "ticker": "TAGM-B",
@@ -7920,7 +7920,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 27.7,
-   "turnover": 63222
+   "turnover": null
   },
   {
    "ticker": "TALK",
@@ -7932,7 +7932,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 13.15,
-   "turnover": 30562
+   "turnover": null
   },
   {
    "ticker": "TEL2-A",
@@ -7944,7 +7944,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 161,
-   "turnover": 19778022
+   "turnover": null
   },
   {
    "ticker": "TEL2-B",
@@ -7956,7 +7956,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 162.3,
-   "turnover": 273934977
+   "turnover": null
   },
   {
    "ticker": "TELIA",
@@ -7968,7 +7968,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 49.45,
-   "turnover": 398860581
+   "turnover": null
   },
   {
    "ticker": "TELLUS",
@@ -7980,7 +7980,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 6.98,
-   "turnover": 15054
+   "turnover": null
   },
   {
    "ticker": "TSEC",
@@ -7992,7 +7992,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 9.75,
-   "turnover": 36902
+   "turnover": null
   },
   {
    "ticker": "TENEO",
@@ -8004,7 +8004,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0132,
-   "turnover": 144737
+   "turnover": null
   },
   {
    "ticker": "TEQ",
@@ -8016,7 +8016,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 181.4,
-   "turnover": 4504838
+   "turnover": null
   },
   {
    "ticker": "TERNOR",
@@ -8028,7 +8028,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 36.8,
-   "turnover": 2190827
+   "turnover": null
   },
   {
    "ticker": "THULE",
@@ -8040,7 +8040,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 207.2,
-   "turnover": 64085194
+   "turnover": null
   },
   {
    "ticker": "TIETOS",
@@ -8052,7 +8052,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 197.5,
-   "turnover": 1451724
+   "turnover": null
   },
   {
    "ticker": "TINGS-A",
@@ -8064,7 +8064,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 50,
-   "turnover": 5196
+   "turnover": null
   },
   {
    "ticker": "TINGS-B",
@@ -8076,7 +8076,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 37.9,
-   "turnover": 328795
+   "turnover": null
   },
   {
    "ticker": "TINGS-PREF",
@@ -8088,7 +8088,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 345,
-   "turnover": 453239
+   "turnover": null
   },
   {
    "ticker": "TITA-B",
@@ -8100,7 +8100,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 7.24,
-   "turnover": 61249
+   "turnover": null
   },
   {
    "ticker": "TOBII",
@@ -8112,7 +8112,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.623,
-   "turnover": 311730
+   "turnover": null
   },
   {
    "ticker": "TOURN",
@@ -8124,7 +8124,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 3.36,
-   "turnover": 14299
+   "turnover": null
   },
   {
    "ticker": "TRAC-B",
@@ -8136,7 +8136,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 269,
-   "turnover": 146626
+   "turnover": null
   },
   {
    "ticker": "TRAIN-B",
@@ -8148,7 +8148,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 4.8,
-   "turnover": 109571
+   "turnover": null
   },
   {
    "ticker": "TRANS",
@@ -8160,7 +8160,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 4.575,
-   "turnover": 190527
+   "turnover": null
   },
   {
    "ticker": "8TRA",
@@ -8172,7 +8172,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 364.2,
-   "turnover": 32826896
+   "turnover": null
   },
   {
    "ticker": "TREL-B",
@@ -8184,7 +8184,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 449.4,
-   "turnover": 192616821
+   "turnover": null
   },
   {
    "ticker": "TRIAN-B",
@@ -8196,7 +8196,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 17.2,
-   "turnover": 173779
+   "turnover": null
   },
   {
    "ticker": "TRIBO-B",
@@ -8208,7 +8208,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 0.242,
-   "turnover": 781
+   "turnover": null
   },
   {
    "ticker": "TROAX",
@@ -8220,7 +8220,7 @@
    "sector": "Råvaror",
    "currency": "SEK",
    "price": 138.4,
-   "turnover": 5378153
+   "turnover": null
   },
   {
    "ticker": "TRUE-B",
@@ -8232,7 +8232,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 24.33,
-   "turnover": 34237440
+   "turnover": null
   },
   {
    "ticker": "TANGEN-B",
@@ -8244,7 +8244,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 88.45,
-   "turnover": 7048540
+   "turnover": null
   },
   {
    "ticker": "UNIBAP",
@@ -8256,7 +8256,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 9.95,
-   "turnover": 966570
+   "turnover": null
   },
   {
    "ticker": "UTG",
@@ -8268,7 +8268,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 19.8,
-   "turnover": 224321
+   "turnover": null
   },
   {
    "ticker": "UPSALE",
@@ -8280,7 +8280,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 24.9,
-   "turnover": 536655
+   "turnover": null
   },
   {
    "ticker": "USWE",
@@ -8292,7 +8292,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 6,
-   "turnover": 126
+   "turnover": null
   },
   {
    "ticker": "VBG-B",
@@ -8304,7 +8304,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 284.5,
-   "turnover": 6662794
+   "turnover": null
   },
   {
    "ticker": "VEFAB",
@@ -8316,7 +8316,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 1.582,
-   "turnover": 1802503
+   "turnover": null
   },
   {
    "ticker": "VSURE",
@@ -8328,7 +8328,7 @@
    "sector": "Industri",
    "currency": "EUR",
    "price": 10.015,
-   "turnover": 17008296
+   "turnover": null
   },
   {
    "ticker": "VERT-B",
@@ -8340,7 +8340,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 64.8,
-   "turnover": 275717
+   "turnover": null
   },
   {
    "ticker": "VER",
@@ -8352,7 +8352,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 8.08,
-   "turnover": 1747885
+   "turnover": null
   },
   {
    "ticker": "VETT",
@@ -8364,7 +8364,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 3.95,
-   "turnover": 169071
+   "turnover": null
   },
   {
    "ticker": "VPLAY-A",
@@ -8388,7 +8388,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 1.037,
-   "turnover": 8377365
+   "turnover": null
   },
   {
    "ticker": "VICO",
@@ -8400,7 +8400,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 9.84,
-   "turnover": 14249104
+   "turnover": null
   },
   {
    "ticker": "VSSAB-B",
@@ -8412,7 +8412,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 148,
-   "turnover": 51502
+   "turnover": null
   },
   {
    "ticker": "VIMAB",
@@ -8424,7 +8424,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 2.25,
-   "turnover": 65047
+   "turnover": null
   },
   {
    "ticker": "VIMIAN",
@@ -8436,7 +8436,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 43.3,
-   "turnover": 19551468
+   "turnover": null
   },
   {
    "ticker": "VIT-B",
@@ -8448,7 +8448,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 289.6,
-   "turnover": 48230757
+   "turnover": null
   },
   {
    "ticker": "VITR",
@@ -8460,7 +8460,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 115.1,
-   "turnover": 17956414
+   "turnover": null
   },
   {
    "ticker": "VIVE",
@@ -8472,7 +8472,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 7.17,
-   "turnover": 46204
+   "turnover": null
   },
   {
    "ticker": "VNV",
@@ -8484,7 +8484,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 16.7,
-   "turnover": 4831735
+   "turnover": null
   },
   {
    "ticker": "VO2",
@@ -8496,7 +8496,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 2.02,
-   "turnover": 16477
+   "turnover": null
   },
   {
    "ticker": "VOLO",
@@ -8508,7 +8508,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 22.55,
-   "turnover": 2433062
+   "turnover": null
   },
   {
    "ticker": "VOLO-PREF",
@@ -8520,7 +8520,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 620,
-   "turnover": 793057
+   "turnover": null
   },
   {
    "ticker": "VOLV-A",
@@ -8532,7 +8532,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 314,
-   "turnover": 32505536
+   "turnover": null
   },
   {
    "ticker": "VOLV-B",
@@ -8544,7 +8544,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 313.7,
-   "turnover": 1780450377
+   "turnover": null
   },
   {
    "ticker": "VOLCAR-B",
@@ -8556,7 +8556,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 10.205,
-   "turnover": 65921859
+   "turnover": null
   },
   {
    "ticker": "VUXEN",
@@ -8568,7 +8568,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 25.5,
-   "turnover": 386401
+   "turnover": null
   },
   {
    "ticker": "VH",
@@ -8580,7 +8580,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 15.8,
-   "turnover": 47866
+   "turnover": null
   },
   {
    "ticker": "W5",
@@ -8592,7 +8592,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 21.5,
-   "turnover": 2492609
+   "turnover": null
   },
   {
    "ticker": "WTW-A",
@@ -8604,7 +8604,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 25.6,
-   "turnover": 15722
+   "turnover": null
   },
   {
    "ticker": "WALL-B",
@@ -8616,7 +8616,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 38.46,
-   "turnover": 22005991
+   "turnover": null
   },
   {
    "ticker": "WAYS",
@@ -8628,7 +8628,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 39,
-   "turnover": 115384
+   "turnover": null
   },
   {
    "ticker": "WRV",
@@ -8652,7 +8652,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 0.968,
-   "turnover": 90
+   "turnover": null
   },
   {
    "ticker": "WPTG-B",
@@ -8664,7 +8664,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 9.93,
-   "turnover": 834328
+   "turnover": null
   },
   {
    "ticker": "WIHL",
@@ -8676,7 +8676,7 @@
    "sector": "Fastigheter",
    "currency": "SEK",
    "price": 69.65,
-   "turnover": 18499683
+   "turnover": null
   },
   {
    "ticker": "WISE",
@@ -8688,7 +8688,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 7.1,
-   "turnover": 276306
+   "turnover": null
   },
   {
    "ticker": "WSG",
@@ -8700,7 +8700,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 74.87,
-   "turnover": 1805805
+   "turnover": null
   },
   {
    "ticker": "WYLD",
@@ -8712,7 +8712,7 @@
    "sector": "Telekom",
    "currency": "SEK",
    "price": 0.124,
-   "turnover": 420860
+   "turnover": null
   },
   {
    "ticker": "WBGR-B",
@@ -8724,7 +8724,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 1.67,
-   "turnover": 70589
+   "turnover": null
   },
   {
    "ticker": "XANO-B",
@@ -8736,7 +8736,7 @@
    "sector": "Industri",
    "currency": "SEK",
    "price": 40.05,
-   "turnover": 231215
+   "turnover": null
   },
   {
    "ticker": "XBRANE",
@@ -8748,7 +8748,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 10.35,
-   "turnover": 368586
+   "turnover": null
   },
   {
    "ticker": "XINT",
@@ -8760,7 +8760,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.141,
-   "turnover": 12445
+   "turnover": null
   },
   {
    "ticker": "XMR",
@@ -8772,7 +8772,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 0.0244,
-   "turnover": 41691
+   "turnover": null
   },
   {
    "ticker": "XPC",
@@ -8784,7 +8784,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 0.1595,
-   "turnover": 12243
+   "turnover": null
   },
   {
    "ticker": "XSPRAY",
@@ -8796,7 +8796,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 10.18,
-   "turnover": 1110411
+   "turnover": null
   },
   {
    "ticker": "XVIVO",
@@ -8808,7 +8808,7 @@
    "sector": "Hälsovård",
    "currency": "SEK",
    "price": 196.1,
-   "turnover": 30752164
+   "turnover": null
   },
   {
    "ticker": "YUBICO",
@@ -8820,7 +8820,7 @@
    "sector": "Teknik",
    "currency": "SEK",
    "price": 179.2,
-   "turnover": 82511540
+   "turnover": null
   },
   {
    "ticker": "ZZ-B",
@@ -8832,7 +8832,7 @@
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
    "price": 112.9,
-   "turnover": 9106513
+   "turnover": null
   },
   {
    "ticker": "ORES",
@@ -8844,7 +8844,7 @@
    "sector": "Finans",
    "currency": "SEK",
    "price": 150,
-   "turnover": 8636528
+   "turnover": null
   }
  ]
 }
