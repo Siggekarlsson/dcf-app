@@ -1,6 +1,6 @@
 {
  "source": "Nasdaq Nordic",
- "fetchedAt": "2026-11-23",
+ "fetchedAt": "2026-11-24",
  "companies": [
   {
    "ticker": "4C",
@@ -11,7 +11,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 4.81,
+   "price": 4.9,
    "turnover": null
   },
   {
@@ -23,7 +23,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 82.7,
+   "price": 86.1,
    "turnover": null
   },
   {
@@ -47,7 +47,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 796,
+   "price": 835.2,
    "turnover": null
   },
   {
@@ -59,7 +59,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 169,
+   "price": 171,
    "turnover": null
   },
   {
@@ -71,7 +71,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 125.4,
+   "price": 127.2,
    "turnover": null
   },
   {
@@ -83,7 +83,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.16,
+   "price": 0.1632,
    "turnover": null
   },
   {
@@ -95,7 +95,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 28.2,
+   "price": 28.25,
    "turnover": null
   },
   {
@@ -107,7 +107,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 9.91,
+   "price": 10.18,
    "turnover": null
   },
   {
@@ -119,7 +119,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 1.5,
+   "price": 1.56,
    "turnover": null
   },
   {
@@ -131,7 +131,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.75,
+   "price": 2.71,
    "turnover": null
   },
   {
@@ -143,7 +143,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 6.62,
+   "price": 6.6,
    "turnover": null
   },
   {
@@ -155,7 +155,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 5.86,
+   "price": 5.78,
    "turnover": null
   },
   {
@@ -167,7 +167,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.0865,
+   "price": 0.0815,
    "turnover": null
   },
   {
@@ -179,7 +179,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 24,
+   "price": 25.15,
    "turnover": null
   },
   {
@@ -191,7 +191,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 3.36,
+   "price": 3.27,
    "turnover": null
   },
   {
@@ -203,7 +203,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 5.48,
+   "price": 5.31,
    "turnover": null
   },
   {
@@ -215,7 +215,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 176.6,
+   "price": 179.3,
    "turnover": null
   },
   {
@@ -227,7 +227,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 56.1,
+   "price": 54.6,
    "turnover": null
   },
   {
@@ -239,7 +239,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 314.6,
+   "price": 326.2,
    "turnover": null
   },
   {
@@ -263,7 +263,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 17.5,
+   "price": 17.98,
    "turnover": null
   },
   {
@@ -275,7 +275,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 1.17,
+   "price": 1.13,
    "turnover": null
   },
   {
@@ -287,7 +287,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 124.6,
+   "price": 125.8,
    "turnover": null
   },
   {
@@ -299,7 +299,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 44,
+   "price": 43.8,
    "turnover": null
   },
   {
@@ -311,7 +311,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 2.25,
+   "price": 2.22,
    "turnover": null
   },
   {
@@ -323,7 +323,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 5.31,
+   "price": 5.2,
    "turnover": null
   },
   {
@@ -335,7 +335,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.176,
+   "price": 0.212,
    "turnover": null
   },
   {
@@ -347,7 +347,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 29.2,
+   "price": 29,
    "turnover": null
   },
   {
@@ -359,7 +359,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 510,
+   "price": 529.6,
    "turnover": null
   },
   {
@@ -371,7 +371,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 115.2,
+   "price": 119,
    "turnover": null
   },
   {
@@ -383,7 +383,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 84.6,
+   "price": 86.7,
    "turnover": null
   },
   {
@@ -395,7 +395,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.008,
+   "price": 0.0074,
    "turnover": null
   },
   {
@@ -407,7 +407,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 113.4,
+   "price": 115.4,
    "turnover": null
   },
   {
@@ -419,7 +419,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 34.6,
+   "price": 35.6,
    "turnover": null
   },
   {
@@ -431,7 +431,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 74.2,
+   "price": 77,
    "turnover": null
   },
   {
@@ -443,7 +443,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 1.32,
+   "price": 1.28,
    "turnover": null
   },
   {
@@ -455,7 +455,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 82.5,
+   "price": 82.7,
    "turnover": null
   },
   {
@@ -467,7 +467,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 43.6,
+   "price": 44.3,
    "turnover": null
   },
   {
@@ -479,7 +479,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 5.68,
+   "price": 5.76,
    "turnover": null
   },
   {
@@ -491,7 +491,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.3095,
+   "price": 0.3035,
    "turnover": null
   },
   {
@@ -503,7 +503,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 193.3,
+   "price": 195.1,
    "turnover": null
   },
   {
@@ -515,7 +515,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 16.15,
+   "price": 16.75,
    "turnover": null
   },
   {
@@ -527,7 +527,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 8.9,
+   "price": 8.84,
    "turnover": null
   },
   {
@@ -539,7 +539,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 101.2,
+   "price": 103.7,
    "turnover": null
   },
   {
@@ -551,7 +551,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 216.4,
+   "price": 229,
    "turnover": null
   },
   {
@@ -563,7 +563,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 8,
+   "price": 8.68,
    "turnover": null
   },
   {
@@ -575,7 +575,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 0.1324,
+   "price": 0.1322,
    "turnover": null
   },
   {
@@ -587,7 +587,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 66.8,
+   "price": 66.4,
    "turnover": null
   },
   {
@@ -599,7 +599,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 5.26,
+   "price": 5.18,
    "turnover": null
   },
   {
@@ -611,7 +611,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 11.81,
+   "price": 12.4,
    "turnover": null
   },
   {
@@ -623,7 +623,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 100,
+   "price": 97.8,
    "turnover": null
   },
   {
@@ -635,7 +635,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 14.08,
+   "price": 14.02,
    "turnover": null
   },
   {
@@ -647,7 +647,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 36.32,
+   "price": 36.78,
    "turnover": null
   },
   {
@@ -659,7 +659,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 35.8,
+   "price": 36.05,
    "turnover": null
   },
   {
@@ -671,7 +671,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 34.9,
+   "price": 35,
    "turnover": null
   },
   {
@@ -683,7 +683,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.559,
+   "price": 0.551,
    "turnover": null
   },
   {
@@ -695,7 +695,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 70.45,
+   "price": 72.5,
    "turnover": null
   },
   {
@@ -707,7 +707,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 170.4,
+   "price": 167.9,
    "turnover": null
   },
   {
@@ -719,7 +719,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 380.2,
+   "price": 390.9,
    "turnover": null
   },
   {
@@ -731,7 +731,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1796,
+   "price": 1813.5,
    "turnover": null
   },
   {
@@ -755,7 +755,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 181.95,
+   "price": 190.9,
    "turnover": null
   },
   {
@@ -767,7 +767,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 158.95,
+   "price": 166.85,
    "turnover": null
   },
   {
@@ -779,7 +779,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 21.4,
+   "price": 21.55,
    "turnover": null
   },
   {
@@ -791,7 +791,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 133.1,
+   "price": 133.9,
    "turnover": null
   },
   {
@@ -803,7 +803,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 1184,
+   "price": 1217,
    "turnover": null
   },
   {
@@ -815,7 +815,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 368,
+   "price": 379.8,
    "turnover": null
   },
   {
@@ -827,7 +827,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 226.5,
+   "price": 235,
    "turnover": null
   },
   {
@@ -839,7 +839,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 6.22,
+   "price": 6.16,
    "turnover": null
   },
   {
@@ -851,7 +851,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 2.955,
+   "price": 2.9,
    "turnover": null
   },
   {
@@ -863,7 +863,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 283.6,
+   "price": 282.5,
    "turnover": null
   },
   {
@@ -875,7 +875,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 1.54,
+   "price": 1.695,
    "turnover": null
   },
   {
@@ -887,7 +887,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.2,
+   "price": 0.194,
    "turnover": null
   },
   {
@@ -899,7 +899,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 54.8,
+   "price": 55,
    "turnover": null
   },
   {
@@ -911,7 +911,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 22.3,
+   "price": 21.2,
    "turnover": null
   },
   {
@@ -923,7 +923,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 14.85,
+   "price": 15.55,
    "turnover": null
   },
   {
@@ -947,7 +947,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 13,
+   "price": 13.05,
    "turnover": null
   },
   {
@@ -959,7 +959,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 17.9,
+   "price": 18.8,
    "turnover": null
   },
   {
@@ -983,7 +983,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 24.3,
+   "price": 26.6,
    "turnover": null
   },
   {
@@ -1007,7 +1007,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 300,
+   "price": 314,
    "turnover": null
   },
   {
@@ -1019,7 +1019,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 155.4,
+   "price": 160.1,
    "turnover": null
   },
   {
@@ -1031,7 +1031,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 257,
+   "price": 258.5,
    "turnover": null
   },
   {
@@ -1043,7 +1043,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 69.4,
+   "price": 68.9,
    "turnover": null
   },
   {
@@ -1055,7 +1055,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 24,
+   "price": 24.1,
    "turnover": null
   },
   {
@@ -1067,7 +1067,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 97.6,
+   "price": 97.8,
    "turnover": null
   },
   {
@@ -1079,7 +1079,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 90.5,
+   "price": 90.6,
    "turnover": null
   },
   {
@@ -1091,7 +1091,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 56.1,
+   "price": 60.1,
    "turnover": null
   },
   {
@@ -1103,7 +1103,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 23.96,
+   "price": 24.36,
    "turnover": null
   },
   {
@@ -1115,7 +1115,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 15.18,
+   "price": 15.98,
    "turnover": null
   },
   {
@@ -1127,7 +1127,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 144.2,
+   "price": 146.6,
    "turnover": null
   },
   {
@@ -1139,7 +1139,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 87.95,
+   "price": 88.55,
    "turnover": null
   },
   {
@@ -1151,7 +1151,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 4.125,
+   "price": 4.18,
    "turnover": null
   },
   {
@@ -1175,7 +1175,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 300.6,
+   "price": 315,
    "turnover": null
   },
   {
@@ -1187,7 +1187,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2.59,
+   "price": 2.63,
    "turnover": null
   },
   {
@@ -1199,7 +1199,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 126,
+   "price": 125.8,
    "turnover": null
   },
   {
@@ -1211,7 +1211,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.09,
+   "price": 2.11,
    "turnover": null
   },
   {
@@ -1223,7 +1223,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.3,
+   "price": 0.298,
    "turnover": null
   },
   {
@@ -1235,7 +1235,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 54.6,
+   "price": 54.3,
    "turnover": null
   },
   {
@@ -1247,7 +1247,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.0808,
+   "price": 0.0794,
    "turnover": null
   },
   {
@@ -1259,7 +1259,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 6.82,
+   "price": 6.86,
    "turnover": null
   },
   {
@@ -1271,7 +1271,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 10.65,
+   "price": 10.85,
    "turnover": null
   },
   {
@@ -1283,7 +1283,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 70.6,
+   "price": 73.4,
    "turnover": null
   },
   {
@@ -1295,7 +1295,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 446.5,
+   "price": 470.6,
    "turnover": null
   },
   {
@@ -1307,7 +1307,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.387,
+   "price": 0.38,
    "turnover": null
   },
   {
@@ -1319,7 +1319,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 7.1,
+   "price": 7.2,
    "turnover": null
   },
   {
@@ -1331,7 +1331,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 7.37,
+   "price": 7.45,
    "turnover": null
   },
   {
@@ -1343,7 +1343,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 324.8,
+   "price": 330.2,
    "turnover": null
   },
   {
@@ -1355,7 +1355,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.303,
+   "price": 0.307,
    "turnover": null
   },
   {
@@ -1367,7 +1367,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 130,
+   "price": 128,
    "turnover": null
   },
   {
@@ -1379,7 +1379,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 167.5,
+   "price": 170,
    "turnover": null
   },
   {
@@ -1391,7 +1391,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 8.77,
+   "price": 9.12,
    "turnover": null
   },
   {
@@ -1403,7 +1403,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.275,
+   "price": 1.155,
    "turnover": null
   },
   {
@@ -1415,7 +1415,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.12,
+   "price": 1.118,
    "turnover": null
   },
   {
@@ -1427,7 +1427,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 141,
+   "price": 144.3,
    "turnover": null
   },
   {
@@ -1439,7 +1439,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.214,
+   "price": 0.209,
    "turnover": null
   },
   {
@@ -1451,7 +1451,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 3.18,
+   "price": 3.08,
    "turnover": null
   },
   {
@@ -1463,7 +1463,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 10.7,
+   "price": 11,
    "turnover": null
   },
   {
@@ -1475,7 +1475,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 92,
+   "price": 91,
    "turnover": null
   },
   {
@@ -1487,7 +1487,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 258.5,
+   "price": 257,
    "turnover": null
   },
   {
@@ -1499,7 +1499,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 132,
+   "price": 135.6,
    "turnover": null
   },
   {
@@ -1511,7 +1511,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 88.3,
+   "price": 90.5,
    "turnover": null
   },
   {
@@ -1523,7 +1523,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 284.6,
+   "price": 300,
    "turnover": null
   },
   {
@@ -1535,7 +1535,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 65.8,
+   "price": 66.5,
    "turnover": null
   },
   {
@@ -1547,7 +1547,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 44.8,
+   "price": 44.6,
    "turnover": null
   },
   {
@@ -1571,7 +1571,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 23.2,
+   "price": 24,
    "turnover": null
   },
   {
@@ -1583,7 +1583,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 85.8,
+   "price": 86.4,
    "turnover": null
   },
   {
@@ -1595,7 +1595,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 71.2,
+   "price": 73,
    "turnover": null
   },
   {
@@ -1607,7 +1607,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 739.5,
+   "price": 756,
    "turnover": null
   },
   {
@@ -1631,7 +1631,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.289,
+   "price": 1.27,
    "turnover": null
   },
   {
@@ -1643,7 +1643,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 24.45,
+   "price": 24.15,
    "turnover": null
   },
   {
@@ -1655,7 +1655,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 30,
+   "price": 29.5,
    "turnover": null
   },
   {
@@ -1679,7 +1679,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 130.85,
+   "price": 132.05,
    "turnover": null
   },
   {
@@ -1703,7 +1703,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 13.56,
+   "price": 13.36,
    "turnover": null
   },
   {
@@ -1715,7 +1715,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 378.6,
+   "price": 384.6,
    "turnover": null
   },
   {
@@ -1727,7 +1727,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 2.86,
+   "price": 2.93,
    "turnover": null
   },
   {
@@ -1739,7 +1739,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 10.2,
+   "price": 10.5,
    "turnover": null
   },
   {
@@ -1751,7 +1751,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 39,
+   "price": 37.6,
    "turnover": null
   },
   {
@@ -1763,7 +1763,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 49.2,
+   "price": 49.5,
    "turnover": null
   },
   {
@@ -1775,7 +1775,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.0168,
+   "price": 0.0155,
    "turnover": null
   },
   {
@@ -1787,7 +1787,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 201.5,
+   "price": 204,
    "turnover": null
   },
   {
@@ -1799,7 +1799,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.15,
+   "price": 0.1395,
    "turnover": null
   },
   {
@@ -1811,7 +1811,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 2.35,
+   "price": 2.53,
    "turnover": null
   },
   {
@@ -1823,7 +1823,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 1.735,
+   "price": 1.75,
    "turnover": null
   },
   {
@@ -1847,7 +1847,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 126.7,
+   "price": 128.3,
    "turnover": null
   },
   {
@@ -1859,7 +1859,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 11.22,
+   "price": 11,
    "turnover": null
   },
   {
@@ -1871,7 +1871,7 @@
    "market": "First North",
    "sector": "Kraftförsörjning",
    "currency": "SEK",
-   "price": 0.379,
+   "price": 0.375,
    "turnover": null
   },
   {
@@ -1883,7 +1883,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 539.5,
+   "price": 552.5,
    "turnover": null
   },
   {
@@ -1895,7 +1895,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 4.06,
+   "price": 4.128,
    "turnover": null
   },
   {
@@ -1907,7 +1907,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.0504,
+   "price": 0.0506,
    "turnover": null
   },
   {
@@ -1919,7 +1919,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 5.36,
+   "price": 5.42,
    "turnover": null
   },
   {
@@ -1931,7 +1931,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 2.42,
+   "price": 2.36,
    "turnover": null
   },
   {
@@ -1943,7 +1943,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.588,
+   "price": 1.6,
    "turnover": null
   },
   {
@@ -1955,7 +1955,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 62.15,
+   "price": 61.95,
    "turnover": null
   },
   {
@@ -1967,7 +1967,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 13.45,
+   "price": 12.7,
    "turnover": null
   },
   {
@@ -1979,7 +1979,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 20.165,
+   "price": 20.975,
    "turnover": null
   },
   {
@@ -1991,7 +1991,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 0.397,
+   "price": 0.39,
    "turnover": null
   },
   {
@@ -2003,7 +2003,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 23.9,
+   "price": 24,
    "turnover": null
   },
   {
@@ -2015,7 +2015,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 6.05,
+   "price": 6,
    "turnover": null
   },
   {
@@ -2027,7 +2027,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 45.5,
+   "price": 45.7,
    "turnover": null
   },
   {
@@ -2039,7 +2039,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 51.75,
+   "price": 53.95,
    "turnover": null
   },
   {
@@ -2063,7 +2063,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 2.02,
+   "price": 2.054,
    "turnover": null
   },
   {
@@ -2075,7 +2075,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 178.4,
+   "price": 180.6,
    "turnover": null
   },
   {
@@ -2087,7 +2087,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 191.4,
+   "price": 193,
    "turnover": null
   },
   {
@@ -2099,7 +2099,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 14,
+   "price": 14.05,
    "turnover": null
   },
   {
@@ -2111,7 +2111,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 81.05,
+   "price": 83.3,
    "turnover": null
   },
   {
@@ -2123,7 +2123,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 1.878,
+   "price": 1.798,
    "turnover": null
   },
   {
@@ -2135,7 +2135,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 15.86,
+   "price": 16.38,
    "turnover": null
   },
   {
@@ -2147,7 +2147,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 144.8,
+   "price": 145.4,
    "turnover": null
   },
   {
@@ -2159,7 +2159,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 29.25,
+   "price": 29.55,
    "turnover": null
   },
   {
@@ -2171,7 +2171,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 71,
+   "price": 77.3,
    "turnover": null
   },
   {
@@ -2183,7 +2183,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.127,
+   "price": 0.132,
    "turnover": null
   },
   {
@@ -2195,7 +2195,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 8.96,
+   "price": 8.98,
    "turnover": null
   },
   {
@@ -2207,7 +2207,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 60,
+   "price": 62,
    "turnover": null
   },
   {
@@ -2219,7 +2219,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.892,
+   "price": 0.905,
    "turnover": null
   },
   {
@@ -2231,7 +2231,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.1962,
+   "price": 0.2014,
    "turnover": null
   },
   {
@@ -2243,7 +2243,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.863,
+   "price": 0.865,
    "turnover": null
   },
   {
@@ -2255,7 +2255,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.1535,
+   "price": 0.1525,
    "turnover": null
   },
   {
@@ -2267,7 +2267,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2,
+   "price": 2.395,
    "turnover": null
   },
   {
@@ -2279,7 +2279,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.0448,
+   "price": 0.045,
    "turnover": null
   },
   {
@@ -2291,7 +2291,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 58.55,
+   "price": 59,
    "turnover": null
   },
   {
@@ -2303,7 +2303,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 3.98,
+   "price": 3.78,
    "turnover": null
   },
   {
@@ -2315,7 +2315,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 21.78,
+   "price": 22.62,
    "turnover": null
   },
   {
@@ -2327,7 +2327,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 5.48,
+   "price": 5.85,
    "turnover": null
   },
   {
@@ -2339,7 +2339,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 67.2,
+   "price": 67,
    "turnover": null
   },
   {
@@ -2351,7 +2351,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 3.61,
+   "price": 3.64,
    "turnover": null
   },
   {
@@ -2363,7 +2363,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 60.1,
+   "price": 59.4,
    "turnover": null
   },
   {
@@ -2375,7 +2375,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 18.35,
+   "price": 18.3,
    "turnover": null
   },
   {
@@ -2387,7 +2387,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 1.528,
+   "price": 1.514,
    "turnover": null
   },
   {
@@ -2399,7 +2399,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 73.35,
+   "price": 74.1,
    "turnover": null
   },
   {
@@ -2411,7 +2411,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 43.7,
+   "price": 44.3,
    "turnover": null
   },
   {
@@ -2423,7 +2423,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 3.98,
+   "price": 4.2,
    "turnover": null
   },
   {
@@ -2435,7 +2435,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 6.15,
+   "price": 6.05,
    "turnover": null
   },
   {
@@ -2447,7 +2447,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 11.12,
+   "price": 11.14,
    "turnover": null
   },
   {
@@ -2459,7 +2459,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 57.8,
+   "price": 58,
    "turnover": null
   },
   {
@@ -2471,7 +2471,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 30,
+   "price": 30.6,
    "turnover": null
   },
   {
@@ -2483,7 +2483,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 29.92,
+   "price": 30.83,
    "turnover": null
   },
   {
@@ -2495,7 +2495,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 50.6,
+   "price": 52.1,
    "turnover": null
   },
   {
@@ -2507,7 +2507,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 60.6,
+   "price": 61.1,
    "turnover": null
   },
   {
@@ -2519,7 +2519,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.465,
+   "price": 2.485,
    "turnover": null
   },
   {
@@ -2531,7 +2531,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 59.8,
+   "price": 62.5,
    "turnover": null
   },
   {
@@ -2543,7 +2543,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 62.6,
+   "price": 64.8,
    "turnover": null
   },
   {
@@ -2555,7 +2555,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 14.35,
+   "price": 14.1,
    "turnover": null
   },
   {
@@ -2579,7 +2579,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 33.4,
+   "price": 33.5,
    "turnover": null
   },
   {
@@ -2591,7 +2591,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 94.14,
+   "price": 94.3,
    "turnover": null
   },
   {
@@ -2603,7 +2603,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 13.9,
+   "price": 13.72,
    "turnover": null
   },
   {
@@ -2615,7 +2615,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 49.55,
+   "price": 50.1,
    "turnover": null
   },
   {
@@ -2639,7 +2639,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 50,
+   "price": 50.2,
    "turnover": null
   },
   {
@@ -2651,7 +2651,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 32.905,
+   "price": 32.92,
    "turnover": null
   },
   {
@@ -2663,7 +2663,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 79.4,
+   "price": 81.1,
    "turnover": null
   },
   {
@@ -2675,7 +2675,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.588,
+   "price": 0.622,
    "turnover": null
   },
   {
@@ -2687,7 +2687,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 46.3,
+   "price": 46.1,
    "turnover": null
   },
   {
@@ -2699,7 +2699,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.32,
+   "price": 2.24,
    "turnover": null
   },
   {
@@ -2711,7 +2711,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 43.8,
+   "price": 44.95,
    "turnover": null
   },
   {
@@ -2723,7 +2723,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 148.8,
+   "price": 146.8,
    "turnover": null
   },
   {
@@ -2735,7 +2735,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 226.7,
+   "price": 237,
    "turnover": null
   },
   {
@@ -2747,7 +2747,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 192.6,
+   "price": 200.8,
    "turnover": null
   },
   {
@@ -2759,7 +2759,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.051,
+   "price": 0.048,
    "turnover": null
   },
   {
@@ -2771,7 +2771,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 21.65,
+   "price": 21.7,
    "turnover": null
   },
   {
@@ -2783,7 +2783,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 288.1,
+   "price": 299.1,
    "turnover": null
   },
   {
@@ -2795,7 +2795,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 102.2,
+   "price": 105,
    "turnover": null
   },
   {
@@ -2807,7 +2807,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 101.7,
+   "price": 104.7,
    "turnover": null
   },
   {
@@ -2819,7 +2819,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 14.95,
+   "price": 15,
    "turnover": null
   },
   {
@@ -2831,7 +2831,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 286,
+   "price": 286.5,
    "turnover": null
   },
   {
@@ -2843,7 +2843,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 286.5,
+   "price": 287,
    "turnover": null
   },
   {
@@ -2855,7 +2855,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 854,
+   "price": 853.8,
    "turnover": null
   },
   {
@@ -2867,7 +2867,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 48.95,
+   "price": 49.3,
    "turnover": null
   },
   {
@@ -2879,7 +2879,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.82,
+   "price": 0.802,
    "turnover": null
   },
   {
@@ -2891,7 +2891,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 115,
+   "price": 116,
    "turnover": null
   },
   {
@@ -2903,7 +2903,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 64.45,
+   "price": 64.7,
    "turnover": null
   },
   {
@@ -2915,7 +2915,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 11.64,
+   "price": 11.62,
    "turnover": null
   },
   {
@@ -2927,7 +2927,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 15.14,
+   "price": 15.6,
    "turnover": null
   },
   {
@@ -2939,7 +2939,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 50.76,
+   "price": 51.48,
    "turnover": null
   },
   {
@@ -2951,7 +2951,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 0.27,
+   "price": 0.2725,
    "turnover": null
   },
   {
@@ -2963,7 +2963,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 29.4,
+   "price": 29.6,
    "turnover": null
   },
   {
@@ -2975,7 +2975,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 42.7,
+   "price": 43.6,
    "turnover": null
   },
   {
@@ -2987,7 +2987,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 36.15,
+   "price": 36.35,
    "turnover": null
   },
   {
@@ -2999,7 +2999,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 68.6,
+   "price": 68.1,
    "turnover": null
   },
   {
@@ -3011,7 +3011,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 325.5,
+   "price": 332.5,
    "turnover": null
   },
   {
@@ -3023,7 +3023,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 3.5,
+   "price": 3.3,
    "turnover": null
   },
   {
@@ -3035,7 +3035,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 100.5,
+   "price": 106.5,
    "turnover": null
   },
   {
@@ -3047,7 +3047,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 154,
+   "price": 156.5,
    "turnover": null
   },
   {
@@ -3071,7 +3071,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 8.68,
+   "price": 8.945,
    "turnover": null
   },
   {
@@ -3083,7 +3083,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 12.4,
+   "price": 12.5,
    "turnover": null
   },
   {
@@ -3107,7 +3107,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 23.6,
+   "price": 24.3,
    "turnover": null
   },
   {
@@ -3119,7 +3119,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 3.06,
+   "price": 3.08,
    "turnover": null
   },
   {
@@ -3131,7 +3131,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 21.1,
+   "price": 20.9,
    "turnover": null
   },
   {
@@ -3143,7 +3143,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 29.5,
+   "price": 28.5,
    "turnover": null
   },
   {
@@ -3155,7 +3155,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 111,
+   "price": 111.5,
    "turnover": null
   },
   {
@@ -3167,7 +3167,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 20.7,
+   "price": 21.2,
    "turnover": null
   },
   {
@@ -3179,7 +3179,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 14.66,
+   "price": 14.54,
    "turnover": null
   },
   {
@@ -3191,7 +3191,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 4.6,
+   "price": 4.86,
    "turnover": null
   },
   {
@@ -3215,7 +3215,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 1.15,
+   "price": 1.136,
    "turnover": null
   },
   {
@@ -3239,7 +3239,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.049,
+   "price": 0.0285,
    "turnover": null
   },
   {
@@ -3263,7 +3263,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.0154,
+   "price": 0.0172,
    "turnover": null
   },
   {
@@ -3275,7 +3275,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.79,
+   "price": 0.8,
    "turnover": null
   },
   {
@@ -3287,7 +3287,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 7.36,
+   "price": 7.06,
    "turnover": null
   },
   {
@@ -3311,7 +3311,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 3.86,
+   "price": 3.44,
    "turnover": null
   },
   {
@@ -3323,7 +3323,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 35.4,
+   "price": 35.75,
    "turnover": null
   },
   {
@@ -3335,7 +3335,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 29.6,
+   "price": 30.3,
    "turnover": null
   },
   {
@@ -3347,7 +3347,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 22.75,
+   "price": 22.7,
    "turnover": null
   },
   {
@@ -3359,7 +3359,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 4.17,
+   "price": 4.05,
    "turnover": null
   },
   {
@@ -3371,7 +3371,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 276.8,
+   "price": 279.4,
    "turnover": null
   },
   {
@@ -3395,7 +3395,7 @@
    "market": "First North",
    "sector": "Kraftförsörjning",
    "currency": "SEK",
-   "price": 0.692,
+   "price": 0.658,
    "turnover": null
   },
   {
@@ -3407,7 +3407,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 15.4,
+   "price": 15.45,
    "turnover": null
   },
   {
@@ -3419,7 +3419,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 13.04,
+   "price": 13.82,
    "turnover": null
   },
   {
@@ -3431,7 +3431,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 1.234,
+   "price": 1.228,
    "turnover": null
   },
   {
@@ -3443,7 +3443,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 216,
+   "price": 212,
    "turnover": null
   },
   {
@@ -3455,7 +3455,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 218,
+   "price": 212,
    "turnover": null
   },
   {
@@ -3467,7 +3467,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 23.75,
+   "price": 23.35,
    "turnover": null
   },
   {
@@ -3479,7 +3479,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 5.96,
+   "price": 5.8,
    "turnover": null
   },
   {
@@ -3491,7 +3491,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 12.06,
+   "price": 12.2,
    "turnover": null
   },
   {
@@ -3503,7 +3503,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 14.58,
+   "price": 15.4,
    "turnover": null
   },
   {
@@ -3515,7 +3515,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 165.5,
+   "price": 167.2,
    "turnover": null
   },
   {
@@ -3527,7 +3527,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 8.58,
+   "price": 8.6,
    "turnover": null
   },
   {
@@ -3539,7 +3539,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 12.85,
+   "price": 12.9,
    "turnover": null
   },
   {
@@ -3551,7 +3551,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 55.9,
+   "price": 56.95,
    "turnover": null
   },
   {
@@ -3575,7 +3575,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 17.6,
+   "price": 18,
    "turnover": null
   },
   {
@@ -3587,7 +3587,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 45.14,
+   "price": 46.86,
    "turnover": null
   },
   {
@@ -3599,7 +3599,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 150.2,
+   "price": 155.8,
    "turnover": null
   },
   {
@@ -3611,7 +3611,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 13.04,
+   "price": 14.76,
    "turnover": null
   },
   {
@@ -3623,7 +3623,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 144,
+   "price": 141.2,
    "turnover": null
   },
   {
@@ -3635,7 +3635,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 23.6,
+   "price": 23.4,
    "turnover": null
   },
   {
@@ -3647,7 +3647,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.585,
+   "price": 0.62,
    "turnover": null
   },
   {
@@ -3659,7 +3659,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 18.5,
+   "price": 18.4,
    "turnover": null
   },
   {
@@ -3671,7 +3671,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 46.58,
+   "price": 49.08,
    "turnover": null
   },
   {
@@ -3683,7 +3683,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 178.1,
+   "price": 182.2,
    "turnover": null
   },
   {
@@ -3695,7 +3695,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 3.1,
+   "price": 3.25,
    "turnover": null
   },
   {
@@ -3707,7 +3707,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 99.52,
+   "price": 101.65,
    "turnover": null
   },
   {
@@ -3719,7 +3719,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 36.88,
+   "price": 40.36,
    "turnover": null
   },
   {
@@ -3731,7 +3731,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 0.0608,
+   "price": 0.0598,
    "turnover": null
   },
   {
@@ -3743,7 +3743,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 89.35,
+   "price": 90.65,
    "turnover": null
   },
   {
@@ -3755,7 +3755,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 26,
+   "price": 27,
    "turnover": null
   },
   {
@@ -3767,7 +3767,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 1.88,
+   "price": 1.8,
    "turnover": null
   },
   {
@@ -3779,7 +3779,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 447.6,
+   "price": 463.2,
    "turnover": null
   },
   {
@@ -3791,7 +3791,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 193,
+   "price": 198.1,
    "turnover": null
   },
   {
@@ -3803,7 +3803,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 289,
+   "price": 288,
    "turnover": null
   },
   {
@@ -3827,7 +3827,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 113.1,
+   "price": 113.7,
    "turnover": null
   },
   {
@@ -3839,7 +3839,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 6.15,
+   "price": 6.25,
    "turnover": null
   },
   {
@@ -3851,7 +3851,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 31.35,
+   "price": 32.5,
    "turnover": null
   },
   {
@@ -3863,7 +3863,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 30.8,
+   "price": 31.66,
    "turnover": null
   },
   {
@@ -3875,7 +3875,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 58.9,
+   "price": 58,
    "turnover": null
   },
   {
@@ -3887,7 +3887,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.065,
+   "price": 1.03,
    "turnover": null
   },
   {
@@ -3899,7 +3899,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.303,
+   "price": 0.293,
    "turnover": null
   },
   {
@@ -3923,7 +3923,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.6,
+   "price": 0.55,
    "turnover": null
   },
   {
@@ -3935,7 +3935,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.0398,
+   "price": 0.0336,
    "turnover": null
   },
   {
@@ -3947,7 +3947,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2.84,
+   "price": 2.66,
    "turnover": null
   },
   {
@@ -3959,7 +3959,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 61.9,
+   "price": 60.1,
    "turnover": null
   },
   {
@@ -3983,7 +3983,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 505,
+   "price": 520.5,
    "turnover": null
   },
   {
@@ -3995,7 +3995,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 501.2,
+   "price": 518.2,
    "turnover": null
   },
   {
@@ -4007,7 +4007,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 254.8,
+   "price": 262.4,
    "turnover": null
   },
   {
@@ -4019,7 +4019,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 69.4,
+   "price": 68.5,
    "turnover": null
   },
   {
@@ -4031,7 +4031,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 70.2,
+   "price": 72.4,
    "turnover": null
   },
   {
@@ -4043,7 +4043,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.5,
+   "price": 2.34,
    "turnover": null
   },
   {
@@ -4055,7 +4055,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.1548,
+   "price": 0.172,
    "turnover": null
   },
   {
@@ -4067,7 +4067,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 40.5,
+   "price": 41.8,
    "turnover": null
   },
   {
@@ -4079,7 +4079,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 63.3,
+   "price": 64,
    "turnover": null
   },
   {
@@ -4091,7 +4091,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 29.8,
+   "price": 29.9,
    "turnover": null
   },
   {
@@ -4103,7 +4103,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 8.14,
+   "price": 8.09,
    "turnover": null
   },
   {
@@ -4115,7 +4115,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 256.6,
+   "price": 251.4,
    "turnover": null
   },
   {
@@ -4127,7 +4127,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.66,
+   "price": 0.646,
    "turnover": null
   },
   {
@@ -4139,7 +4139,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 1.606,
+   "price": 1.591,
    "turnover": null
   },
   {
@@ -4151,7 +4151,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 401.4,
+   "price": 411.6,
    "turnover": null
   },
   {
@@ -4163,7 +4163,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 408.25,
+   "price": 419.2,
    "turnover": null
   },
   {
@@ -4175,7 +4175,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 197.4,
+   "price": 201,
    "turnover": null
   },
   {
@@ -4187,7 +4187,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 187.3,
+   "price": 192.5,
    "turnover": null
   },
   {
@@ -4211,7 +4211,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.729,
+   "price": 0.779,
    "turnover": null
   },
   {
@@ -4223,7 +4223,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.99,
+   "price": 0.955,
    "turnover": null
   },
   {
@@ -4235,7 +4235,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 14.6,
+   "price": 14.8,
    "turnover": null
   },
   {
@@ -4247,7 +4247,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.189,
+   "price": 0.1885,
    "turnover": null
   },
   {
@@ -4259,7 +4259,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 1.215,
+   "price": 1.2,
    "turnover": null
   },
   {
@@ -4271,7 +4271,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 123.3,
+   "price": 124.3,
    "turnover": null
   },
   {
@@ -4283,7 +4283,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 52.3,
+   "price": 53.1,
    "turnover": null
   },
   {
@@ -4307,7 +4307,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 3.6,
+   "price": 3.66,
    "turnover": null
   },
   {
@@ -4319,7 +4319,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 88.2,
+   "price": 86.6,
    "turnover": null
   },
   {
@@ -4331,7 +4331,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.0167,
+   "price": 0.0174,
    "turnover": null
   },
   {
@@ -4343,7 +4343,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 272,
+   "price": 282,
    "turnover": null
   },
   {
@@ -4367,7 +4367,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 199,
+   "price": 200,
    "turnover": null
   },
   {
@@ -4391,7 +4391,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 88.8,
+   "price": 90,
    "turnover": null
   },
   {
@@ -4403,7 +4403,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 81.6,
+   "price": 82.9,
    "turnover": null
   },
   {
@@ -4415,7 +4415,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 43.2,
+   "price": 40.5,
    "turnover": null
   },
   {
@@ -4427,7 +4427,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.1538,
+   "price": 0.165,
    "turnover": null
   },
   {
@@ -4439,7 +4439,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 0.58,
+   "price": 0.5615,
    "turnover": null
   },
   {
@@ -4451,7 +4451,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 2.48,
+   "price": 2.46,
    "turnover": null
   },
   {
@@ -4475,7 +4475,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 2.11,
+   "price": 2.12,
    "turnover": null
   },
   {
@@ -4487,7 +4487,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 72.3,
+   "price": 72.2,
    "turnover": null
   },
   {
@@ -4499,7 +4499,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 65.2,
+   "price": 66.42,
    "turnover": null
   },
   {
@@ -4523,7 +4523,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.501,
+   "price": 0.4925,
    "turnover": null
   },
   {
@@ -4535,7 +4535,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 3.67,
+   "price": 3.76,
    "turnover": null
   },
   {
@@ -4547,7 +4547,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 112,
+   "price": 112.8,
    "turnover": null
   },
   {
@@ -4559,7 +4559,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 218.8,
+   "price": 228.8,
    "turnover": null
   },
   {
@@ -4571,7 +4571,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 27.8,
+   "price": 28.2,
    "turnover": null
   },
   {
@@ -4583,7 +4583,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 216.7,
+   "price": 222.3,
    "turnover": null
   },
   {
@@ -4595,7 +4595,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 12.58,
+   "price": 12.84,
    "turnover": null
   },
   {
@@ -4607,7 +4607,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 1.174,
+   "price": 1.184,
    "turnover": null
   },
   {
@@ -4619,7 +4619,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 276.8,
+   "price": 284.4,
    "turnover": null
   },
   {
@@ -4631,7 +4631,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 252.5,
+   "price": 241,
    "turnover": null
   },
   {
@@ -4643,7 +4643,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 73.6,
+   "price": 75,
    "turnover": null
   },
   {
@@ -4655,7 +4655,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 123.4,
+   "price": 125,
    "turnover": null
   },
   {
@@ -4667,7 +4667,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 47.54,
+   "price": 46.66,
    "turnover": null
   },
   {
@@ -4679,7 +4679,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 9.2,
+   "price": 9.14,
    "turnover": null
   },
   {
@@ -4691,7 +4691,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 14.52,
+   "price": 14.94,
    "turnover": null
   },
   {
@@ -4703,7 +4703,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 530,
+   "price": 536,
    "turnover": null
   },
   {
@@ -4715,7 +4715,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 10.7,
+   "price": 12.05,
    "turnover": null
   },
   {
@@ -4727,7 +4727,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 0.87,
+   "price": 0.846,
    "turnover": null
   },
   {
@@ -4739,7 +4739,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 35,
+   "price": 34.5,
    "turnover": null
   },
   {
@@ -4751,7 +4751,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 577,
+   "price": 587.5,
    "turnover": null
   },
   {
@@ -4763,7 +4763,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 606.8,
+   "price": 632.2,
    "turnover": null
   },
   {
@@ -4775,7 +4775,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 165.7,
+   "price": 172.65,
    "turnover": null
   },
   {
@@ -4787,7 +4787,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 5.88,
+   "price": 5.8,
    "turnover": null
   },
   {
@@ -4799,7 +4799,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 2.39,
+   "price": 2.45,
    "turnover": null
   },
   {
@@ -4811,7 +4811,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 100.6,
+   "price": 100.2,
    "turnover": null
   },
   {
@@ -4823,7 +4823,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 2.26,
+   "price": 2.28,
    "turnover": null
   },
   {
@@ -4835,7 +4835,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.76,
+   "price": 0.82,
    "turnover": null
   },
   {
@@ -4847,7 +4847,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 9.28,
+   "price": 9.1,
    "turnover": null
   },
   {
@@ -4859,7 +4859,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 30.2,
+   "price": 31.5,
    "turnover": null
   },
   {
@@ -4871,7 +4871,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 895,
+   "price": 1110,
    "turnover": null
   },
   {
@@ -4883,7 +4883,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 4.97,
+   "price": 4.85,
    "turnover": null
   },
   {
@@ -4895,7 +4895,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 4.68,
+   "price": 5,
    "turnover": null
   },
   {
@@ -4907,7 +4907,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.131,
+   "price": 0.1475,
    "turnover": null
   },
   {
@@ -4919,7 +4919,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 541.5,
+   "price": 548.5,
    "turnover": null
   },
   {
@@ -4931,7 +4931,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 256.5,
+   "price": 258.5,
    "turnover": null
   },
   {
@@ -4943,7 +4943,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.044,
+   "price": 1.094,
    "turnover": null
   },
   {
@@ -4955,7 +4955,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 23,
+   "price": 23.3,
    "turnover": null
   },
   {
@@ -4967,7 +4967,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 52.35,
+   "price": 52.1,
    "turnover": null
   },
   {
@@ -4979,7 +4979,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 3.5,
+   "price": 3.72,
    "turnover": null
   },
   {
@@ -4991,7 +4991,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 16.4,
+   "price": 15.85,
    "turnover": null
   },
   {
@@ -5003,7 +5003,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 11.98,
+   "price": 11.58,
    "turnover": null
   },
   {
@@ -5015,7 +5015,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 0.0869,
+   "price": 0.0848,
    "turnover": null
   },
   {
@@ -5027,7 +5027,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 96.2,
+   "price": 97.4,
    "turnover": null
   },
   {
@@ -5051,7 +5051,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 9.24,
+   "price": 9.28,
    "turnover": null
   },
   {
@@ -5063,7 +5063,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 1.218,
+   "price": 1.196,
    "turnover": null
   },
   {
@@ -5075,7 +5075,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 233.7,
+   "price": 241.8,
    "turnover": null
   },
   {
@@ -5087,7 +5087,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 0.6,
+   "price": 0.56,
    "turnover": null
   },
   {
@@ -5099,7 +5099,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 439.6,
+   "price": 449.4,
    "turnover": null
   },
   {
@@ -5111,7 +5111,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 9.6,
+   "price": 9.58,
    "turnover": null
   },
   {
@@ -5147,7 +5147,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 102,
+   "price": 101.5,
    "turnover": null
   },
   {
@@ -5159,7 +5159,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.1345,
+   "price": 0.1325,
    "turnover": null
   },
   {
@@ -5183,7 +5183,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 128.2,
+   "price": 130.2,
    "turnover": null
   },
   {
@@ -5195,7 +5195,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 17.72,
+   "price": 17.96,
    "turnover": null
   },
   {
@@ -5219,7 +5219,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 126.9,
+   "price": 135.05,
    "turnover": null
   },
   {
@@ -5231,7 +5231,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 283,
+   "price": 300,
    "turnover": null
   },
   {
@@ -5243,7 +5243,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 18.62,
+   "price": 19.26,
    "turnover": null
   },
   {
@@ -5255,7 +5255,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 9.69,
+   "price": 9.77,
    "turnover": null
   },
   {
@@ -5267,7 +5267,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 3.52,
+   "price": 3.5,
    "turnover": null
   },
   {
@@ -5279,7 +5279,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 8.16,
+   "price": 7.39,
    "turnover": null
   },
   {
@@ -5291,7 +5291,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.1645,
+   "price": 0.162,
    "turnover": null
   },
   {
@@ -5303,7 +5303,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 2.22,
+   "price": 2.3,
    "turnover": null
   },
   {
@@ -5315,7 +5315,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 128,
+   "price": 132,
    "turnover": null
   },
   {
@@ -5327,7 +5327,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 34.1,
+   "price": 34.5,
    "turnover": null
   },
   {
@@ -5339,7 +5339,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 72.3,
+   "price": 75.5,
    "turnover": null
   },
   {
@@ -5351,7 +5351,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 184.5,
+   "price": 189,
    "turnover": null
   },
   {
@@ -5363,7 +5363,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 184.2,
+   "price": 188.7,
    "turnover": null
   },
   {
@@ -5375,7 +5375,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 140.2,
+   "price": 142.2,
    "turnover": null
   },
   {
@@ -5387,7 +5387,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2,
+   "price": 2.12,
    "turnover": null
   },
   {
@@ -5399,7 +5399,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 30.5,
+   "price": 30.92,
    "turnover": null
   },
   {
@@ -5411,7 +5411,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 16.42,
+   "price": 16.62,
    "turnover": null
   },
   {
@@ -5423,7 +5423,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.505,
+   "price": 0.482,
    "turnover": null
   },
   {
@@ -5435,7 +5435,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 1.575,
+   "price": 1.685,
    "turnover": null
   },
   {
@@ -5447,7 +5447,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 8,
+   "price": 8.1,
    "turnover": null
   },
   {
@@ -5459,7 +5459,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 2.52,
+   "price": 2.53,
    "turnover": null
   },
   {
@@ -5471,7 +5471,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 2.615,
+   "price": 2.65,
    "turnover": null
   },
   {
@@ -5483,7 +5483,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 10.3,
+   "price": 10.4,
    "turnover": null
   },
   {
@@ -5495,7 +5495,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 15.05,
+   "price": 14.8,
    "turnover": null
   },
   {
@@ -5507,7 +5507,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 96.05,
+   "price": 97.45,
    "turnover": null
   },
   {
@@ -5519,7 +5519,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.945,
+   "price": 1.86,
    "turnover": null
   },
   {
@@ -5531,7 +5531,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2.09,
+   "price": 2.1,
    "turnover": null
   },
   {
@@ -5543,7 +5543,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.2175,
+   "price": 0.2,
    "turnover": null
   },
   {
@@ -5555,7 +5555,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 43.31,
+   "price": 44.46,
    "turnover": null
   },
   {
@@ -5579,7 +5579,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 12.45,
+   "price": 12.2,
    "turnover": null
   },
   {
@@ -5591,7 +5591,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 1.365,
+   "price": 1.43,
    "turnover": null
   },
   {
@@ -5603,7 +5603,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 38.75,
+   "price": 39.2,
    "turnover": null
   },
   {
@@ -5615,7 +5615,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 96,
+   "price": 99.3,
    "turnover": null
   },
   {
@@ -5627,7 +5627,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 10.25,
+   "price": 10.4,
    "turnover": null
   },
   {
@@ -5639,7 +5639,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 51.3,
+   "price": 53,
    "turnover": null
   },
   {
@@ -5651,7 +5651,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 7.97,
+   "price": 7.94,
    "turnover": null
   },
   {
@@ -5663,7 +5663,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 182.2,
+   "price": 185.2,
    "turnover": null
   },
   {
@@ -5675,7 +5675,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 29.2,
+   "price": 30,
    "turnover": null
   },
   {
@@ -5687,7 +5687,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2.08,
+   "price": 1.96,
    "turnover": null
   },
   {
@@ -5699,7 +5699,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.269,
+   "price": 0.275,
    "turnover": null
   },
   {
@@ -5711,7 +5711,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 7.82,
+   "price": 8,
    "turnover": null
   },
   {
@@ -5723,7 +5723,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 5.84,
+   "price": 5.88,
    "turnover": null
   },
   {
@@ -5735,7 +5735,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 344.6,
+   "price": 353.8,
    "turnover": null
   },
   {
@@ -5747,7 +5747,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 257,
+   "price": 259,
    "turnover": null
   },
   {
@@ -5759,7 +5759,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 0.44,
+   "price": 0.4325,
    "turnover": null
   },
   {
@@ -5771,7 +5771,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 67.1,
+   "price": 69,
    "turnover": null
   },
   {
@@ -5783,7 +5783,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.456,
+   "price": 0.439,
    "turnover": null
   },
   {
@@ -5795,7 +5795,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 157.9,
+   "price": 163.3,
    "turnover": null
   },
   {
@@ -5807,7 +5807,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 68.5,
+   "price": 68.2,
    "turnover": null
   },
   {
@@ -5819,7 +5819,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 225.5,
+   "price": 229.5,
    "turnover": null
   },
   {
@@ -5831,7 +5831,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 29.85,
+   "price": 29.9,
    "turnover": null
   },
   {
@@ -5843,7 +5843,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 7.45,
+   "price": 7.59,
    "turnover": null
   },
   {
@@ -5855,7 +5855,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 6.5,
+   "price": 6.4,
    "turnover": null
   },
   {
@@ -5867,7 +5867,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.425,
+   "price": 0.3995,
    "turnover": null
   },
   {
@@ -5879,7 +5879,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 209.9,
+   "price": 216.8,
    "turnover": null
   },
   {
@@ -5891,7 +5891,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 157.6,
+   "price": 162.4,
    "turnover": null
   },
   {
@@ -5915,7 +5915,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.64,
+   "price": 1.666,
    "turnover": null
   },
   {
@@ -5927,7 +5927,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.855,
+   "price": 3.06,
    "turnover": null
   },
   {
@@ -5939,7 +5939,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 17.1,
+   "price": 17.75,
    "turnover": null
   },
   {
@@ -5951,7 +5951,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 18.85,
+   "price": 18.55,
    "turnover": null
   },
   {
@@ -5963,7 +5963,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 9.39,
+   "price": 9.46,
    "turnover": null
   },
   {
@@ -5975,7 +5975,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 93,
+   "price": 92,
    "turnover": null
   },
   {
@@ -5987,7 +5987,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 1.7,
+   "price": 1.838,
    "turnover": null
   },
   {
@@ -5999,7 +5999,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.983,
+   "price": 0.95,
    "turnover": null
   },
   {
@@ -6023,7 +6023,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 7.77,
+   "price": 7.67,
    "turnover": null
   },
   {
@@ -6035,7 +6035,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.0208,
+   "price": 0.0218,
    "turnover": null
   },
   {
@@ -6059,7 +6059,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.6,
+   "price": 1.5,
    "turnover": null
   },
   {
@@ -6071,7 +6071,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 10.02,
+   "price": 10.24,
    "turnover": null
   },
   {
@@ -6083,7 +6083,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 2.98,
+   "price": 3.095,
    "turnover": null
   },
   {
@@ -6095,7 +6095,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 35.54,
+   "price": 37.14,
    "turnover": null
   },
   {
@@ -6107,7 +6107,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.228,
+   "price": 0.22,
    "turnover": null
   },
   {
@@ -6119,7 +6119,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 168.4,
+   "price": 171.4,
    "turnover": null
   },
   {
@@ -6131,7 +6131,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 140.6,
+   "price": 137,
    "turnover": null
   },
   {
@@ -6143,7 +6143,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 64.2,
+   "price": 68.6,
    "turnover": null
   },
   {
@@ -6155,7 +6155,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 96.35,
+   "price": 98.65,
    "turnover": null
   },
   {
@@ -6167,7 +6167,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.75,
+   "price": 1.7,
    "turnover": null
   },
   {
@@ -6179,7 +6179,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 10.55,
+   "price": 11.05,
    "turnover": null
   },
   {
@@ -6191,7 +6191,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 8.75,
+   "price": 8.69,
    "turnover": null
   },
   {
@@ -6203,7 +6203,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 1.57,
+   "price": 1.56,
    "turnover": null
   },
   {
@@ -6215,7 +6215,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 7.5,
+   "price": 7.92,
    "turnover": null
   },
   {
@@ -6227,7 +6227,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 59.8,
+   "price": 59.6,
    "turnover": null
   },
   {
@@ -6239,7 +6239,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2.46,
+   "price": 2.39,
    "turnover": null
   },
   {
@@ -6251,7 +6251,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 19.4,
+   "price": 18.86,
    "turnover": null
   },
   {
@@ -6263,7 +6263,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 18.06,
+   "price": 18.02,
    "turnover": null
   },
   {
@@ -6275,7 +6275,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 17.1,
+   "price": 16.5,
    "turnover": null
   },
   {
@@ -6287,7 +6287,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.485,
+   "price": 0.5,
    "turnover": null
   },
   {
@@ -6299,7 +6299,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.94,
+   "price": 0.93,
    "turnover": null
   },
   {
@@ -6311,7 +6311,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 30.9,
+   "price": 31.3,
    "turnover": null
   },
   {
@@ -6323,7 +6323,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 71.9,
+   "price": 73,
    "turnover": null
   },
   {
@@ -6335,7 +6335,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 5.68,
+   "price": 5.69,
    "turnover": null
   },
   {
@@ -6347,7 +6347,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 27.2,
+   "price": 26.3,
    "turnover": null
   },
   {
@@ -6359,7 +6359,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 28.8,
+   "price": 28.9,
    "turnover": null
   },
   {
@@ -6371,7 +6371,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 135.2,
+   "price": 139,
    "turnover": null
   },
   {
@@ -6383,7 +6383,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 109,
+   "price": 110,
    "turnover": null
   },
   {
@@ -6395,7 +6395,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 5.02,
+   "price": 5.18,
    "turnover": null
   },
   {
@@ -6419,7 +6419,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.0892,
+   "price": 0.087,
    "turnover": null
   },
   {
@@ -6431,7 +6431,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 11.15,
+   "price": 10.85,
    "turnover": null
   },
   {
@@ -6443,7 +6443,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 5.4,
+   "price": 5.38,
    "turnover": null
   },
   {
@@ -6455,7 +6455,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.196,
+   "price": 0.199,
    "turnover": null
   },
   {
@@ -6467,7 +6467,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 5.2,
+   "price": 5,
    "turnover": null
   },
   {
@@ -6479,7 +6479,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 16.8,
+   "price": 16.6,
    "turnover": null
   },
   {
@@ -6491,7 +6491,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.881,
+   "price": 0.827,
    "turnover": null
   },
   {
@@ -6515,7 +6515,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.28,
+   "price": 0.3,
    "turnover": null
   },
   {
@@ -6527,7 +6527,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 39.75,
+   "price": 38.1,
    "turnover": null
   },
   {
@@ -6539,7 +6539,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 31.8,
+   "price": 32.6,
    "turnover": null
   },
   {
@@ -6575,7 +6575,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 40.7,
+   "price": 40.2,
    "turnover": null
   },
   {
@@ -6587,7 +6587,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 40.3,
+   "price": 40.84,
    "turnover": null
   },
   {
@@ -6599,7 +6599,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 168.6,
+   "price": 167.9,
    "turnover": null
   },
   {
@@ -6611,7 +6611,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.0398,
+   "price": 0.0314,
    "turnover": null
   },
   {
@@ -6623,7 +6623,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 136.4,
+   "price": 137.8,
    "turnover": null
   },
   {
@@ -6635,7 +6635,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 2.005,
+   "price": 1.98,
    "turnover": null
   },
   {
@@ -6647,7 +6647,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 84,
+   "price": 83.4,
    "turnover": null
   },
   {
@@ -6671,7 +6671,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 53.65,
+   "price": 53,
    "turnover": null
   },
   {
@@ -6683,7 +6683,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 1924,
+   "price": 1954,
    "turnover": null
   },
   {
@@ -6707,7 +6707,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 591.5,
+   "price": 599.6,
    "turnover": null
   },
   {
@@ -6719,7 +6719,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 2.73,
+   "price": 2.7,
    "turnover": null
   },
   {
@@ -6731,7 +6731,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 3.42,
+   "price": 3.32,
    "turnover": null
   },
   {
@@ -6743,7 +6743,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 179,
+   "price": 182.5,
    "turnover": null
   },
   {
@@ -6755,7 +6755,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 179.7,
+   "price": 182.8,
    "turnover": null
   },
   {
@@ -6767,7 +6767,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 31.35,
+   "price": 31.45,
    "turnover": null
   },
   {
@@ -6779,7 +6779,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 61.7,
+   "price": 62.4,
    "turnover": null
   },
   {
@@ -6791,7 +6791,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 3.79,
+   "price": 3.72,
    "turnover": null
   },
   {
@@ -6803,7 +6803,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 2.088,
+   "price": 2.174,
    "turnover": null
   },
   {
@@ -6815,7 +6815,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 7.02,
+   "price": 7.04,
    "turnover": null
   },
   {
@@ -6827,7 +6827,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 110.15,
+   "price": 110.55,
    "turnover": null
   },
   {
@@ -6839,7 +6839,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 324.3,
+   "price": 341.4,
    "turnover": null
   },
   {
@@ -6851,7 +6851,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 11.23,
+   "price": 11.01,
    "turnover": null
   },
   {
@@ -6863,7 +6863,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 1.465,
+   "price": 1.445,
    "turnover": null
   },
   {
@@ -6875,7 +6875,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 8.56,
+   "price": 8.68,
    "turnover": null
   },
   {
@@ -6887,7 +6887,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 111.5,
+   "price": 112.5,
    "turnover": null
   },
   {
@@ -6899,7 +6899,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 111.75,
+   "price": 112.05,
    "turnover": null
   },
   {
@@ -6911,7 +6911,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 48.9,
+   "price": 49,
    "turnover": null
   },
   {
@@ -6923,7 +6923,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 201,
+   "price": 191.2,
    "turnover": null
   },
   {
@@ -6935,7 +6935,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 104.8,
+   "price": 106.3,
    "turnover": null
   },
   {
@@ -6947,7 +6947,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.408,
+   "price": 0.43,
    "turnover": null
   },
   {
@@ -6959,7 +6959,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.086,
+   "price": 0.08,
    "turnover": null
   },
   {
@@ -6971,7 +6971,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 15.2,
+   "price": 15.1,
    "turnover": null
   },
   {
@@ -6983,7 +6983,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 9.1,
+   "price": 8.92,
    "turnover": null
   },
   {
@@ -6995,7 +6995,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 248,
+   "price": 252.2,
    "turnover": null
   },
   {
@@ -7007,7 +7007,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 6.54,
+   "price": 6.82,
    "turnover": null
   },
   {
@@ -7019,7 +7019,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 16.98,
+   "price": 16.58,
    "turnover": null
   },
   {
@@ -7031,7 +7031,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 211.3,
+   "price": 214.7,
    "turnover": null
   },
   {
@@ -7043,7 +7043,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 218.5,
+   "price": 223.5,
    "turnover": null
   },
   {
@@ -7055,7 +7055,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 330.2,
+   "price": 326.6,
    "turnover": null
   },
   {
@@ -7067,7 +7067,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 158.2,
+   "price": 160.6,
    "turnover": null
   },
   {
@@ -7079,7 +7079,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 8.65,
+   "price": 8.88,
    "turnover": null
   },
   {
@@ -7103,7 +7103,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 4.59,
+   "price": 4.49,
    "turnover": null
   },
   {
@@ -7115,7 +7115,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 3.245,
+   "price": 3.34,
    "turnover": null
   },
   {
@@ -7127,7 +7127,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.45,
+   "price": 0.47,
    "turnover": null
   },
   {
@@ -7139,7 +7139,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 1.712,
+   "price": 1.71,
    "turnover": null
   },
   {
@@ -7151,7 +7151,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 45,
+   "price": 47.5,
    "turnover": null
   },
   {
@@ -7163,7 +7163,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 127.85,
+   "price": 141,
    "turnover": null
   },
   {
@@ -7175,7 +7175,7 @@
    "market": "First North",
    "sector": "Kraftförsörjning",
    "currency": "SEK",
-   "price": 122.6,
+   "price": 122,
    "turnover": null
   },
   {
@@ -7187,7 +7187,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 0.0874,
+   "price": 0.084,
    "turnover": null
   },
   {
@@ -7199,7 +7199,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 38.51,
+   "price": 40.95,
    "turnover": null
   },
   {
@@ -7211,7 +7211,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 113,
+   "price": 111.5,
    "turnover": null
   },
   {
@@ -7223,7 +7223,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 11.41,
+   "price": 13.53,
    "turnover": null
   },
   {
@@ -7235,7 +7235,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 293.8,
+   "price": 302.3,
    "turnover": null
   },
   {
@@ -7247,7 +7247,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 266,
+   "price": 277.5,
    "turnover": null
   },
   {
@@ -7259,7 +7259,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 261.2,
+   "price": 271.3,
    "turnover": null
   },
   {
@@ -7271,7 +7271,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 196.5,
+   "price": 197.7,
    "turnover": null
   },
   {
@@ -7295,7 +7295,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 55,
+   "price": 54,
    "turnover": null
   },
   {
@@ -7307,7 +7307,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 24.45,
+   "price": 24.3,
    "turnover": null
   },
   {
@@ -7319,7 +7319,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 45.5,
+   "price": 46.4,
    "turnover": null
   },
   {
@@ -7331,7 +7331,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 18.5,
+   "price": 18.18,
    "turnover": null
   },
   {
@@ -7343,7 +7343,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 18.78,
+   "price": 18.8,
    "turnover": null
   },
   {
@@ -7355,7 +7355,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 110.8,
+   "price": 113.4,
    "turnover": null
   },
   {
@@ -7367,7 +7367,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 115,
+   "price": 116,
    "turnover": null
   },
   {
@@ -7379,7 +7379,7 @@
    "market": "First North",
    "sector": "Energi",
    "currency": "SEK",
-   "price": 0.046,
+   "price": 0.0483,
    "turnover": null
   },
   {
@@ -7403,7 +7403,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 4.02,
+   "price": 4.01,
    "turnover": null
   },
   {
@@ -7415,7 +7415,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.041,
+   "price": 0.0446,
    "turnover": null
   },
   {
@@ -7427,7 +7427,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.0136,
+   "price": 0.0131,
    "turnover": null
   },
   {
@@ -7439,7 +7439,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.1415,
+   "price": 0.144,
    "turnover": null
   },
   {
@@ -7451,7 +7451,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 3.68,
+   "price": 3.45,
    "turnover": null
   },
   {
@@ -7463,7 +7463,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 86.44,
+   "price": 88.68,
    "turnover": null
   },
   {
@@ -7475,7 +7475,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 87.96,
+   "price": 90.14,
    "turnover": null
   },
   {
@@ -7487,7 +7487,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.124,
+   "price": 0.12,
    "turnover": null
   },
   {
@@ -7499,7 +7499,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 0.0933,
+   "price": 0.0902,
    "turnover": null
   },
   {
@@ -7511,7 +7511,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 156,
+   "price": 155.4,
    "turnover": null
   },
   {
@@ -7523,7 +7523,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 11.1,
+   "price": 11.06,
    "turnover": null
   },
   {
@@ -7535,7 +7535,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 247.5,
+   "price": 248,
    "turnover": null
   },
   {
@@ -7547,7 +7547,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 5.935,
+   "price": 6.135,
    "turnover": null
   },
   {
@@ -7559,7 +7559,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 69.95,
+   "price": 69,
    "turnover": null
   },
   {
@@ -7571,7 +7571,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 13.45,
+   "price": 14,
    "turnover": null
   },
   {
@@ -7583,7 +7583,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 100,
+   "price": 99.4,
    "turnover": null
   },
   {
@@ -7595,7 +7595,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 100.4,
+   "price": 100.5,
    "turnover": null
   },
   {
@@ -7607,7 +7607,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 10.965,
+   "price": 11.29,
    "turnover": null
   },
   {
@@ -7619,7 +7619,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 128.1,
+   "price": 131.7,
    "turnover": null
   },
   {
@@ -7631,7 +7631,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 1.205,
+   "price": 1.15,
    "turnover": null
   },
   {
@@ -7643,7 +7643,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 189.4,
+   "price": 193.8,
    "turnover": null
   },
   {
@@ -7655,7 +7655,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.0112,
+   "price": 0.011,
    "turnover": null
   },
   {
@@ -7667,7 +7667,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 1.83,
+   "price": 1.8,
    "turnover": null
   },
   {
@@ -7679,7 +7679,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 60.25,
+   "price": 62.3,
    "turnover": null
   },
   {
@@ -7691,7 +7691,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 158.3,
+   "price": 160.15,
    "turnover": null
   },
   {
@@ -7703,7 +7703,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 246.6,
+   "price": 251.4,
    "turnover": null
   },
   {
@@ -7715,7 +7715,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 32.04,
+   "price": 31.82,
    "turnover": null
   },
   {
@@ -7727,7 +7727,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 55.8,
+   "price": 56.1,
    "turnover": null
   },
   {
@@ -7739,7 +7739,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 0.456,
+   "price": 0.421,
    "turnover": null
   },
   {
@@ -7751,7 +7751,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 47.5,
+   "price": 47.45,
    "turnover": null
   },
   {
@@ -7775,7 +7775,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 61.3,
+   "price": 62.7,
    "turnover": null
   },
   {
@@ -7787,7 +7787,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 136,
+   "price": 138,
    "turnover": null
   },
   {
@@ -7799,7 +7799,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 136,
+   "price": 138.7,
    "turnover": null
   },
   {
@@ -7811,7 +7811,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 403.5,
+   "price": 410.4,
    "turnover": null
   },
   {
@@ -7823,7 +7823,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 7.3,
+   "price": 7.45,
    "turnover": null
   },
   {
@@ -7835,7 +7835,7 @@
    "market": "First North",
    "sector": "Dagligvaror",
    "currency": "SEK",
-   "price": 20.1,
+   "price": 20.45,
    "turnover": null
   },
   {
@@ -7847,7 +7847,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 34.3,
+   "price": 34.6,
    "turnover": null
   },
   {
@@ -7859,7 +7859,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 464,
+   "price": 474.2,
    "turnover": null
   },
   {
@@ -7871,7 +7871,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 13,
+   "price": 13.26,
    "turnover": null
   },
   {
@@ -7883,7 +7883,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 59.9,
+   "price": 60.9,
    "turnover": null
   },
   {
@@ -7895,7 +7895,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 83.8,
+   "price": 85.5,
    "turnover": null
   },
   {
@@ -7907,7 +7907,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 21.4,
+   "price": 22,
    "turnover": null
   },
   {
@@ -7919,7 +7919,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 27.7,
+   "price": 26.6,
    "turnover": null
   },
   {
@@ -7931,7 +7931,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 13.15,
+   "price": 13.35,
    "turnover": null
   },
   {
@@ -7943,7 +7943,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 161,
+   "price": 159.5,
    "turnover": null
   },
   {
@@ -7955,7 +7955,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 162.3,
+   "price": 158.7,
    "turnover": null
   },
   {
@@ -7967,7 +7967,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 49.45,
+   "price": 49.73,
    "turnover": null
   },
   {
@@ -7979,7 +7979,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 6.98,
+   "price": 7,
    "turnover": null
   },
   {
@@ -7991,7 +7991,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 9.75,
+   "price": 9.4,
    "turnover": null
   },
   {
@@ -8003,7 +8003,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.0132,
+   "price": 0.0121,
    "turnover": null
   },
   {
@@ -8015,7 +8015,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 181.4,
+   "price": 185.6,
    "turnover": null
   },
   {
@@ -8027,7 +8027,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 36.8,
+   "price": 36.3,
    "turnover": null
   },
   {
@@ -8039,7 +8039,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 207.2,
+   "price": 210.8,
    "turnover": null
   },
   {
@@ -8051,7 +8051,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 197.5,
+   "price": 197,
    "turnover": null
   },
   {
@@ -8063,7 +8063,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 50,
+   "price": 51,
    "turnover": null
   },
   {
@@ -8075,7 +8075,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 37.9,
+   "price": 37,
    "turnover": null
   },
   {
@@ -8087,7 +8087,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 345,
+   "price": 342,
    "turnover": null
   },
   {
@@ -8099,7 +8099,7 @@
    "market": "First North",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 7.24,
+   "price": 7.06,
    "turnover": null
   },
   {
@@ -8111,7 +8111,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.623,
+   "price": 0.619,
    "turnover": null
   },
   {
@@ -8123,7 +8123,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 3.36,
+   "price": 3.22,
    "turnover": null
   },
   {
@@ -8135,7 +8135,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 269,
+   "price": 268,
    "turnover": null
   },
   {
@@ -8147,7 +8147,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 4.8,
+   "price": 4.72,
    "turnover": null
   },
   {
@@ -8159,7 +8159,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 4.575,
+   "price": 4.71,
    "turnover": null
   },
   {
@@ -8171,7 +8171,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 364.2,
+   "price": 370,
    "turnover": null
   },
   {
@@ -8183,7 +8183,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 449.4,
+   "price": 467.4,
    "turnover": null
   },
   {
@@ -8195,7 +8195,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 17.2,
+   "price": 17.35,
    "turnover": null
   },
   {
@@ -8207,7 +8207,7 @@
    "market": "First North",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 0.242,
+   "price": 0.232,
    "turnover": null
   },
   {
@@ -8219,7 +8219,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Råvaror",
    "currency": "SEK",
-   "price": 138.4,
+   "price": 145.2,
    "turnover": null
   },
   {
@@ -8231,7 +8231,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 24.33,
+   "price": 24.54,
    "turnover": null
   },
   {
@@ -8243,7 +8243,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 88.45,
+   "price": 89.9,
    "turnover": null
   },
   {
@@ -8255,7 +8255,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 9.95,
+   "price": 10.36,
    "turnover": null
   },
   {
@@ -8303,7 +8303,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 284.5,
+   "price": 291,
    "turnover": null
   },
   {
@@ -8315,7 +8315,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 1.582,
+   "price": 1.574,
    "turnover": null
   },
   {
@@ -8339,7 +8339,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 64.8,
+   "price": 63.6,
    "turnover": null
   },
   {
@@ -8351,7 +8351,7 @@
    "market": "First North",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 8.08,
+   "price": 7.7,
    "turnover": null
   },
   {
@@ -8363,7 +8363,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 3.95,
+   "price": 3.91,
    "turnover": null
   },
   {
@@ -8387,7 +8387,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 1.037,
+   "price": 1.073,
    "turnover": null
   },
   {
@@ -8399,7 +8399,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 9.84,
+   "price": 10.22,
    "turnover": null
   },
   {
@@ -8411,7 +8411,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 148,
+   "price": 151,
    "turnover": null
   },
   {
@@ -8423,7 +8423,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 2.25,
+   "price": 2.17,
    "turnover": null
   },
   {
@@ -8435,7 +8435,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 43.3,
+   "price": 43.4,
    "turnover": null
   },
   {
@@ -8447,7 +8447,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 289.6,
+   "price": 287.4,
    "turnover": null
   },
   {
@@ -8459,7 +8459,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 115.1,
+   "price": 114.9,
    "turnover": null
   },
   {
@@ -8471,7 +8471,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 7.17,
+   "price": 7.24,
    "turnover": null
   },
   {
@@ -8483,7 +8483,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 16.7,
+   "price": 16.58,
    "turnover": null
   },
   {
@@ -8495,7 +8495,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 2.02,
+   "price": 2.03,
    "turnover": null
   },
   {
@@ -8507,7 +8507,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 22.55,
+   "price": 22.15,
    "turnover": null
   },
   {
@@ -8531,7 +8531,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 314,
+   "price": 321.4,
    "turnover": null
   },
   {
@@ -8543,7 +8543,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 313.7,
+   "price": 321,
    "turnover": null
   },
   {
@@ -8555,7 +8555,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 10.205,
+   "price": 10.405,
    "turnover": null
   },
   {
@@ -8567,7 +8567,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 25.5,
+   "price": 26.4,
    "turnover": null
   },
   {
@@ -8591,7 +8591,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 21.5,
+   "price": 21.75,
    "turnover": null
   },
   {
@@ -8603,7 +8603,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 25.6,
+   "price": 26.3,
    "turnover": null
   },
   {
@@ -8615,7 +8615,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 38.46,
+   "price": 39.02,
    "turnover": null
   },
   {
@@ -8627,7 +8627,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 39,
+   "price": 38.9,
    "turnover": null
   },
   {
@@ -8651,7 +8651,7 @@
    "market": "First North",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 0.968,
+   "price": 0.952,
    "turnover": null
   },
   {
@@ -8663,7 +8663,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 9.93,
+   "price": 10.22,
    "turnover": null
   },
   {
@@ -8675,7 +8675,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Fastigheter",
    "currency": "SEK",
-   "price": 69.65,
+   "price": 70.1,
    "turnover": null
   },
   {
@@ -8687,7 +8687,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 7.1,
+   "price": 7.5,
    "turnover": null
   },
   {
@@ -8699,7 +8699,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 74.87,
+   "price": 73.69,
    "turnover": null
   },
   {
@@ -8711,7 +8711,7 @@
    "market": "First North",
    "sector": "Telekom",
    "currency": "SEK",
-   "price": 0.124,
+   "price": 0.142,
    "turnover": null
   },
   {
@@ -8723,7 +8723,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 1.67,
+   "price": 1.74,
    "turnover": null
   },
   {
@@ -8735,7 +8735,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Industri",
    "currency": "SEK",
-   "price": 40.05,
+   "price": 39.85,
    "turnover": null
   },
   {
@@ -8747,7 +8747,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 10.35,
+   "price": 10.65,
    "turnover": null
   },
   {
@@ -8759,7 +8759,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.141,
+   "price": 0.1395,
    "turnover": null
   },
   {
@@ -8771,7 +8771,7 @@
    "market": "First North",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 0.0244,
+   "price": 0.0258,
    "turnover": null
   },
   {
@@ -8783,7 +8783,7 @@
    "market": "First North",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 0.1595,
+   "price": 0.1575,
    "turnover": null
   },
   {
@@ -8795,7 +8795,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 10.18,
+   "price": 10.48,
    "turnover": null
   },
   {
@@ -8807,7 +8807,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Hälsovård",
    "currency": "SEK",
-   "price": 196.1,
+   "price": 203.8,
    "turnover": null
   },
   {
@@ -8819,7 +8819,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Teknik",
    "currency": "SEK",
-   "price": 179.2,
+   "price": 188.8,
    "turnover": null
   },
   {
@@ -8831,7 +8831,7 @@
    "market": "First North",
    "sector": "Sällanköpsvaror",
    "currency": "SEK",
-   "price": 112.9,
+   "price": 111.2,
    "turnover": null
   },
   {
@@ -8843,7 +8843,7 @@
    "market": "Nasdaq Stockholm",
    "sector": "Finans",
    "currency": "SEK",
-   "price": 150,
+   "price": 150.4,
    "turnover": null
   }
  ]
